@@ -59,6 +59,7 @@ def ranker_paths() -> None:
     """Print entrypoints for the merged role-ranker Streamlit apps."""
     typer.echo("Tournament ranker: streamlit run apps/role_ranker_streamlit/tournament_app.py")
     typer.echo("Legacy Elo ranker: streamlit run apps/role_ranker_streamlit/elo_app.py")
+    typer.echo("Playoff odds Streamlit: streamlit run apps/playoff_odds_streamlit/app.py")
 
 
 @app.command("api")

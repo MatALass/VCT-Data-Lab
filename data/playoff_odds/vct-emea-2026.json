@@ -1,0 +1,4867 @@
+{
+  "schemaVersion": "3.0.0",
+  "league": "VCT EMEA",
+  "season": "2026",
+  "qualificationSlots": 4,
+  "groups": [
+    {
+      "name": "Alpha",
+      "teams": [
+        {
+          "team": "FUT",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 2,
+          "expectedRank": 1.10962,
+          "positions": {
+            "P1": 0.89038,
+            "P2": 0.10962,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 1,
+              "finalRecord": {
+                "wins": 5,
+                "losses": 0,
+                "mapDiff": 7,
+                "roundDiff": 34
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-0",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-1",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 7,
+                  "roundDiff": 34
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 27
+                },
+                {
+                  "rank": 3,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -19
+                },
+                {
+                  "rank": 4,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -4
+                },
+                {
+                  "rank": 5,
+                  "team": "TH",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": 2
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -6,
+                  "roundDiff": -40
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 2,
+              "finalRecord": {
+                "wins": 4,
+                "losses": 1,
+                "mapDiff": 4,
+                "roundDiff": 26
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 21
+                },
+                {
+                  "rank": 2,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 26
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 10
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -13
+                },
+                {
+                  "rank": 5,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -11
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -33
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 1
+          }
+        },
+        {
+          "team": "TL",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 4,
+          "expectedRank": 2.59488,
+          "positions": {
+            "P1": 0.10962,
+            "P2": 0.39764,
+            "P3": 0.28098,
+            "P4": 0.21176,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 1,
+              "finalRecord": {
+                "wins": 4,
+                "losses": 1,
+                "mapDiff": 5,
+                "roundDiff": 21
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 21
+                },
+                {
+                  "rank": 2,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 26
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 10
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -13
+                },
+                {
+                  "rank": 5,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -11
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -33
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 4,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 1,
+                "roundDiff": 9
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "KC 2-0",
+                  "winner": "KC"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-0",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-0",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 20
+                },
+                {
+                  "rank": 2,
+                  "team": "M8",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -1
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 16
+                },
+                {
+                  "rank": 4,
+                  "team": "TL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 9
+                },
+                {
+                  "rank": 5,
+                  "team": "KC",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -3,
+                  "roundDiff": -16
+                },
+                {
+                  "rank": 6,
+                  "team": "NAVI",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -5,
+                  "roundDiff": -28
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 2,
+            "worst": 4
+          }
+        },
+        {
+          "team": "TH",
+          "qualifyProb": 0.88417,
+          "bestRankSeen": 3,
+          "worstRankSeen": 5,
+          "expectedRank": 3.54284,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.57299,
+            "P4": 0.31118,
+            "P5": 0.11583,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 3,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 1,
+                "roundDiff": 10
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 21
+                },
+                {
+                  "rank": 2,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 26
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 10
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -13
+                },
+                {
+                  "rank": 5,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -11
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -33
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -2,
+                "roundDiff": 2
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-0",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-1",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 7,
+                  "roundDiff": 34
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 27
+                },
+                {
+                  "rank": 3,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -19
+                },
+                {
+                  "rank": 4,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -4
+                },
+                {
+                  "rank": 5,
+                  "team": "TH",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": 2
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -6,
+                  "roundDiff": -40
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02265,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02057,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.01325,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.01117,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.01032,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "PCF",
+                  "loser": "VIT"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 5
+          }
+        },
+        {
+          "team": "M8",
+          "qualifyProb": 0.87011,
+          "bestRankSeen": 2,
+          "worstRankSeen": 5,
+          "expectedRank": 3.0366299999999997,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.49274,
+            "P3": 0.10778,
+            "P4": 0.26959,
+            "P5": 0.12989,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 2,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 1,
+                "roundDiff": -2
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-1",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-1",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-0",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 6,
+                  "roundDiff": 25
+                },
+                {
+                  "rank": 2,
+                  "team": "M8",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": -2
+                },
+                {
+                  "rank": 3,
+                  "team": "TL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 10
+                },
+                {
+                  "rank": 4,
+                  "team": "TH",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 11
+                },
+                {
+                  "rank": 5,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -37
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -2,
+                "roundDiff": -19
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "PCF 2-0",
+                  "winner": "PCF"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 6,
+                  "roundDiff": 35
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 27
+                },
+                {
+                  "rank": 3,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -5
+                },
+                {
+                  "rank": 4,
+                  "team": "TH",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 5,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -19
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -39
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02265,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.01262,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.01045,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.0104,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "TH",
+                  "loser": "FUT"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 2,
+            "worst": 4
+          }
+        },
+        {
+          "team": "NAVI",
+          "qualifyProb": 0.24572,
+          "bestRankSeen": 3,
+          "worstRankSeen": 6,
+          "expectedRank": 5.179320000000001,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.03825,
+            "P4": 0.20747,
+            "P5": 0.29099,
+            "P6": 0.46329
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 3,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -1,
+                "roundDiff": -5
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "PCF 2-0",
+                  "winner": "PCF"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 6,
+                  "roundDiff": 35
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 27
+                },
+                {
+                  "rank": 3,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -5
+                },
+                {
+                  "rank": 4,
+                  "team": "TH",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 5,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -19
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -39
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 6,
+              "finalRecord": {
+                "wins": 1,
+                "losses": 4,
+                "mapDiff": -4,
+                "roundDiff": -16
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-0",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "KC 2-1",
+                  "winner": "KC"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 3,
+                  "roundDiff": 17
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 16
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 19
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -8
+                },
+                {
+                  "rank": 5,
+                  "team": "KC",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -28
+                },
+                {
+                  "rank": 6,
+                  "team": "NAVI",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -16
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.01995,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.01674,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.01462,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "BBL",
+                  "loser": "FNC"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02265,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02001,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "TH",
+                  "loser": "FUT"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 6
+          }
+        },
+        {
+          "team": "KC",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 5,
+          "worstRankSeen": 6,
+          "expectedRank": 5.536709999999999,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.46329,
+            "P6": 0.53671
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 1,
+                "losses": 4,
+                "mapDiff": -4,
+                "roundDiff": -28
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-0",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "KC 2-1",
+                  "winner": "KC"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 3,
+                  "roundDiff": 17
+                },
+                {
+                  "rank": 2,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 16
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 19
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -8
+                },
+                {
+                  "rank": 5,
+                  "team": "KC",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -28
+                },
+                {
+                  "rank": 6,
+                  "team": "NAVI",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -16
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 6,
+              "finalRecord": {
+                "wins": 0,
+                "losses": 5,
+                "mapDiff": -7,
+                "roundDiff": -33
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "TL",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 21
+                },
+                {
+                  "rank": 2,
+                  "team": "FUT",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 26
+                },
+                {
+                  "rank": 3,
+                  "team": "TH",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 10
+                },
+                {
+                  "rank": 4,
+                  "team": "M8",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -13
+                },
+                {
+                  "rank": 5,
+                  "team": "NAVI",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": -11
+                },
+                {
+                  "rank": 6,
+                  "team": "KC",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -33
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 5,
+            "worst": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omega",
+      "teams": [
+        {
+          "team": "FNC",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 2,
+          "expectedRank": 1.11533,
+          "positions": {
+            "P1": 0.88467,
+            "P2": 0.11533,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 1,
+              "finalRecord": {
+                "wins": 5,
+                "losses": 0,
+                "mapDiff": 8,
+                "roundDiff": 37
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "GX",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 3,
+                  "team": "EF",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -2
+                },
+                {
+                  "rank": 4,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 7
+                },
+                {
+                  "rank": 5,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -36
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 2,
+              "finalRecord": {
+                "wins": 4,
+                "losses": 1,
+                "mapDiff": 4,
+                "roundDiff": 17
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "KC 2-1",
+                  "winner": "KC"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-1",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-1",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-0",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 2,
+                  "team": "FNC",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 17
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 4,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -14
+                },
+                {
+                  "rank": 5,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -5
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -24
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 2
+          }
+        },
+        {
+          "team": "EF",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 4,
+          "expectedRank": 2.53902,
+          "positions": {
+            "P1": 0.11533,
+            "P2": 0.42595,
+            "P3": 0.26309,
+            "P4": 0.19563,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 1,
+              "finalRecord": {
+                "wins": 4,
+                "losses": 1,
+                "mapDiff": 5,
+                "roundDiff": 13
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "KC 2-1",
+                  "winner": "KC"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-1",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-1",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-0",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 2,
+                  "team": "FNC",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 17
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 4,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -14
+                },
+                {
+                  "rank": 5,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -5
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -24
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 4,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 2,
+                "roundDiff": -1
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-1",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-1",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-1",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-1",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 19
+                },
+                {
+                  "rank": 2,
+                  "team": "GX",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 0
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 11
+                },
+                {
+                  "rank": 4,
+                  "team": "EF",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -1
+                },
+                {
+                  "rank": 5,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -30
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 4
+          }
+        },
+        {
+          "team": "BBL",
+          "qualifyProb": 0.9133,
+          "bestRankSeen": 3,
+          "worstRankSeen": 5,
+          "expectedRank": 3.5157700000000003,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.57093,
+            "P4": 0.34237,
+            "P5": 0.0867,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 3,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 2,
+                "roundDiff": 9
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "M8 2-1",
+                  "winner": "M8"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-1",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "BBL 2-0",
+                  "winner": "BBL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 4,
+                  "roundDiff": 21
+                },
+                {
+                  "rank": 2,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 14
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": 9
+                },
+                {
+                  "rank": 4,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": 2
+                },
+                {
+                  "rank": 5,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -15
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -7,
+                  "roundDiff": -31
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -2,
+                "roundDiff": -7
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "GX",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 3,
+                  "team": "EF",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -2
+                },
+                {
+                  "rank": 4,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 7
+                },
+                {
+                  "rank": 5,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -36
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.02601,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02516,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02157,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.01205,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.01086,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.01013,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 4
+          }
+        },
+        {
+          "team": "GX",
+          "qualifyProb": 0.78313,
+          "bestRankSeen": 2,
+          "worstRankSeen": 5,
+          "expectedRank": 3.23338,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.45872,
+            "P3": 0.06605,
+            "P4": 0.25836,
+            "P5": 0.21687,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 2,
+              "finalRecord": {
+                "wins": 3,
+                "losses": 2,
+                "mapDiff": 1,
+                "roundDiff": 1
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "GX",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 3,
+                  "team": "EF",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -2
+                },
+                {
+                  "rank": 4,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 7
+                },
+                {
+                  "rank": 5,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -36
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -2,
+                "roundDiff": -14
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-0",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-1",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 3,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 8
+                },
+                {
+                  "rank": 4,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 5,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -14
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -37
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.02289,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.02194,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "GX",
+                  "loser": "EF"
+                }
+              ]
+            },
+            {
+              "share": 0.02038,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "PCF",
+                  "loser": "VIT"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.02419,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02339,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02025,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 2,
+            "worst": 5
+          }
+        },
+        {
+          "team": "VIT",
+          "qualifyProb": 0.30357,
+          "bestRankSeen": 3,
+          "worstRankSeen": 6,
+          "expectedRank": 5.03071,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.09993,
+            "P4": 0.20364,
+            "P5": 0.26222,
+            "P6": 0.43421
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 3,
+              "finalRecord": {
+                "wins": 2,
+                "losses": 3,
+                "mapDiff": -1,
+                "roundDiff": 8
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-0",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-1",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-1",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 13
+                },
+                {
+                  "rank": 3,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 8
+                },
+                {
+                  "rank": 4,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 5,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -14
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -37
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 6,
+              "finalRecord": {
+                "wins": 1,
+                "losses": 4,
+                "mapDiff": -5,
+                "roundDiff": -13
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "PCF 2-0",
+                  "winner": "PCF"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 39
+                },
+                {
+                  "rank": 2,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 15
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -9
+                },
+                {
+                  "rank": 4,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -16
+                },
+                {
+                  "rank": 5,
+                  "team": "PCF",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -16
+                },
+                {
+                  "rank": 6,
+                  "team": "VIT",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -5,
+                  "roundDiff": -13
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [
+            {
+              "share": 0.02608,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02525,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.0219,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "topEliminationPaths": [
+            {
+              "share": 0.02038,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "PCF",
+                  "loser": "VIT"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.01995,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "PCF",
+                  "loser": "VIT"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.01835,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "PCF",
+                  "loser": "VIT"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 6
+          }
+        },
+        {
+          "team": "PCF",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 5,
+          "worstRankSeen": 6,
+          "expectedRank": 5.56579,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.43421,
+            "P6": 0.56579
+          },
+          "scenarioExtremes": {
+            "bestCase": {
+              "kind": "bestCase",
+              "finalRank": 5,
+              "finalRecord": {
+                "wins": 1,
+                "losses": 4,
+                "mapDiff": -4,
+                "roundDiff": -16
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "FUT 2-1",
+                  "winner": "FUT"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "PCF 2-0",
+                  "winner": "PCF"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "EF 2-1",
+                  "winner": "EF"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 39
+                },
+                {
+                  "rank": 2,
+                  "team": "EF",
+                  "wins": 4,
+                  "losses": 1,
+                  "mapDiff": 5,
+                  "roundDiff": 15
+                },
+                {
+                  "rank": 3,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -9
+                },
+                {
+                  "rank": 4,
+                  "team": "GX",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -16
+                },
+                {
+                  "rank": 5,
+                  "team": "PCF",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -4,
+                  "roundDiff": -16
+                },
+                {
+                  "rank": 6,
+                  "team": "VIT",
+                  "wins": 1,
+                  "losses": 4,
+                  "mapDiff": -5,
+                  "roundDiff": -13
+                }
+              ],
+              "note": "Best observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global optimum."
+            },
+            "worstCase": {
+              "kind": "worstCase",
+              "finalRank": 6,
+              "finalRecord": {
+                "wins": 0,
+                "losses": 5,
+                "mapDiff": -8,
+                "roundDiff": -36
+              },
+              "matchResults": [
+                {
+                  "group": "Alpha",
+                  "match": "TH vs FUT",
+                  "result": "TH 2-1",
+                  "winner": "TH"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "NAVI vs KC",
+                  "result": "NAVI 2-0",
+                  "winner": "NAVI"
+                },
+                {
+                  "group": "Alpha",
+                  "match": "M8 vs TL",
+                  "result": "TL 2-0",
+                  "winner": "TL"
+                },
+                {
+                  "group": "Omega",
+                  "match": "VIT vs PCF",
+                  "result": "VIT 2-0",
+                  "winner": "VIT"
+                },
+                {
+                  "group": "Omega",
+                  "match": "BBL vs FNC",
+                  "result": "FNC 2-0",
+                  "winner": "FNC"
+                },
+                {
+                  "group": "Omega",
+                  "match": "GX vs EF",
+                  "result": "GX 2-0",
+                  "winner": "GX"
+                }
+              ],
+              "finalStandings": [
+                {
+                  "rank": 1,
+                  "team": "FNC",
+                  "wins": 5,
+                  "losses": 0,
+                  "mapDiff": 8,
+                  "roundDiff": 37
+                },
+                {
+                  "rank": 2,
+                  "team": "GX",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 1,
+                  "roundDiff": 1
+                },
+                {
+                  "rank": 3,
+                  "team": "EF",
+                  "wins": 3,
+                  "losses": 2,
+                  "mapDiff": 2,
+                  "roundDiff": -2
+                },
+                {
+                  "rank": 4,
+                  "team": "VIT",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -1,
+                  "roundDiff": 7
+                },
+                {
+                  "rank": 5,
+                  "team": "BBL",
+                  "wins": 2,
+                  "losses": 3,
+                  "mapDiff": -2,
+                  "roundDiff": -7
+                },
+                {
+                  "rank": 6,
+                  "team": "PCF",
+                  "wins": 0,
+                  "losses": 5,
+                  "mapDiff": -8,
+                  "roundDiff": -36
+                }
+              ],
+              "note": "Worst observed scenario within the Monte Carlo sample. This is not guaranteed to be the exact global minimum."
+            }
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [
+            {
+              "share": 0.0279,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02702,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "NAVI",
+                  "loser": "KC"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "M8",
+                  "loser": "TL"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            },
+            {
+              "share": 0.02322,
+              "matches": [
+                {
+                  "match": "TH vs FUT",
+                  "winner": "FUT",
+                  "loser": "TH"
+                },
+                {
+                  "match": "NAVI vs KC",
+                  "winner": "KC",
+                  "loser": "NAVI"
+                },
+                {
+                  "match": "M8 vs TL",
+                  "winner": "TL",
+                  "loser": "M8"
+                },
+                {
+                  "match": "VIT vs PCF",
+                  "winner": "VIT",
+                  "loser": "PCF"
+                },
+                {
+                  "match": "BBL vs FNC",
+                  "winner": "FNC",
+                  "loser": "BBL"
+                },
+                {
+                  "match": "GX vs EF",
+                  "winner": "EF",
+                  "loser": "GX"
+                }
+              ]
+            }
+          ],
+          "exactWinnerOnlyBounds": {
+            "best": 5,
+            "worst": 6
+          }
+        }
+      ]
+    }
+  ],
+  "remainingMatches": [
+    {
+      "group": "Alpha",
+      "teamA": "TH",
+      "teamB": "FUT"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "NAVI",
+      "teamB": "KC"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "M8",
+      "teamB": "TL"
+    },
+    {
+      "group": "Omega",
+      "teamA": "VIT",
+      "teamB": "PCF"
+    },
+    {
+      "group": "Omega",
+      "teamA": "BBL",
+      "teamB": "FNC"
+    },
+    {
+      "group": "Omega",
+      "teamA": "GX",
+      "teamB": "EF"
+    }
+  ],
+  "playedMatches": [],
+  "matchImpacts": {
+    "Alpha": [
+      {
+        "match": "NAVI vs KC",
+        "importance": 0.448,
+        "teamImpacts": [
+          {
+            "team": "NAVI",
+            "ifTeamAWins": 0.20228000000000002,
+            "ifTeamBWins": -0.24572
+          },
+          {
+            "team": "M8",
+            "ifTeamAWins": -0.11477666666666675,
+            "ifTeamBWins": 0.12988999999999995
+          },
+          {
+            "team": "TH",
+            "ifTeamAWins": -0.10116999999999998,
+            "ifTeamBWins": 0.11582999999999999
+          },
+          {
+            "team": "FUT",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "TL",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      },
+      {
+        "match": "M8 vs TL",
+        "importance": 0.254,
+        "teamImpacts": [
+          {
+            "team": "M8",
+            "ifTeamAWins": 0.12988999999999995,
+            "ifTeamBWins": -0.12411000000000005
+          },
+          {
+            "team": "NAVI",
+            "ifTeamAWins": -0.08505333333333331,
+            "ifTeamBWins": 0.08294666666666667
+          },
+          {
+            "team": "TH",
+            "ifTeamAWins": -0.04550333333333334,
+            "ifTeamBWins": 0.04683000000000004
+          },
+          {
+            "team": "FUT",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "TL",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      },
+      {
+        "match": "TH vs FUT",
+        "importance": 0.19433333333333336,
+        "teamImpacts": [
+          {
+            "team": "TH",
+            "ifTeamAWins": 0.11582999999999999,
+            "ifTeamBWins": -0.07850333333333337
+          },
+          {
+            "team": "NAVI",
+            "ifTeamAWins": -0.10505333333333333,
+            "ifTeamBWins": 0.08694666666666667
+          },
+          {
+            "team": "M8",
+            "ifTeamAWins": -0.0007766666666667588,
+            "ifTeamBWins": -0.007776666666666765
+          },
+          {
+            "team": "FUT",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "TL",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      }
+    ],
+    "Omega": [
+      {
+        "match": "VIT vs PCF",
+        "importance": 0.5343333333333333,
+        "teamImpacts": [
+          {
+            "team": "VIT",
+            "ifTeamAWins": 0.23076333333333332,
+            "ifTeamBWins": -0.30357
+          },
+          {
+            "team": "GX",
+            "ifTeamAWins": -0.1714633333333333,
+            "ifTeamBWins": 0.21687
+          },
+          {
+            "team": "BBL",
+            "ifTeamAWins": -0.06230000000000002,
+            "ifTeamBWins": 0.0867
+          },
+          {
+            "team": "FNC",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "EF",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      },
+      {
+        "match": "GX vs EF",
+        "importance": 0.41100000000000003,
+        "teamImpacts": [
+          {
+            "team": "GX",
+            "ifTeamAWins": 0.21687,
+            "ifTeamBWins": -0.19413000000000002
+          },
+          {
+            "team": "VIT",
+            "ifTeamAWins": -0.14057,
+            "ifTeamBWins": 0.10876333333333332
+          },
+          {
+            "team": "BBL",
+            "ifTeamAWins": -0.07796666666666663,
+            "ifTeamBWins": 0.06369999999999998
+          },
+          {
+            "team": "FNC",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "EF",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      },
+      {
+        "match": "BBL vs FNC",
+        "importance": 0.255,
+        "teamImpacts": [
+          {
+            "team": "VIT",
+            "ifTeamAWins": -0.13990333333333335,
+            "ifTeamBWins": 0.11509666666666668
+          },
+          {
+            "team": "BBL",
+            "ifTeamAWins": 0.0867,
+            "ifTeamBWins": -0.06730000000000003
+          },
+          {
+            "team": "GX",
+            "ifTeamAWins": 0.058203333333333385,
+            "ifTeamBWins": -0.05313000000000001
+          },
+          {
+            "team": "FNC",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          },
+          {
+            "team": "EF",
+            "ifTeamAWins": 0.0,
+            "ifTeamBWins": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "keyMatches": [
+    {
+      "group": "Omega",
+      "match": "VIT vs PCF",
+      "importance": 0.5343333333333333,
+      "headline": "High leverage match for the qualification race"
+    },
+    {
+      "group": "Alpha",
+      "match": "NAVI vs KC",
+      "importance": 0.448,
+      "headline": "High leverage match for the qualification race"
+    },
+    {
+      "group": "Omega",
+      "match": "GX vs EF",
+      "importance": 0.41100000000000003,
+      "headline": "High leverage match for the qualification race"
+    },
+    {
+      "group": "Omega",
+      "match": "BBL vs FNC",
+      "importance": 0.255,
+      "headline": "High leverage match for the qualification race"
+    },
+    {
+      "group": "Alpha",
+      "match": "M8 vs TL",
+      "importance": 0.254,
+      "headline": "High leverage match for the qualification race"
+    }
+  ],
+  "insights": [
+    "VIT vs PCF is currently the highest-leverage match on the board.",
+    "Omega is contested because VIT all remain exposed to the cutoff.",
+    "FUT is the strongest lock in the current simulation snapshot.",
+    "The current simulation model is 'elo', and tie-breaks follow VCT EMEA head-to-head criteria before falling back to stage map and round differential."
+  ],
+  "notes": {
+    "method": "Monte Carlo playoff qualification simulation",
+    "officialTieBreakers": [
+      "head-to-head match score",
+      "head-to-head map differential",
+      "head-to-head round differential",
+      "stage map differential",
+      "stage round differential"
+    ],
+    "sampleSize": 100000,
+    "conditionalSampleSize": 3000,
+    "scenarioExtremes": "Best / worst scenarios are observed within the simulation sample, not exact exhaustive optima.",
+    "exactWinnerOnlyBounds": "Exact over match-winner combinations only, using a deterministic 2-0 proxy scoreline for tie-break-sensitive metrics.",
+    "modelType": "elo",
+    "analysisFeatures": [
+      "matchImpacts",
+      "keyMatches",
+      "autoInsights",
+      "topQualificationPaths",
+      "winnerOnlyBounds",
+      "whatIfCLI",
+      "consoleMatchUpdate"
+    ],
+    "whatIfMode": "The what-if CLI generates a deterministic snapshot. Unforced matches default to the listed teamA winner so the output stays transparent and reproducible.",
+    "playedMatchesPersistence": "Console match updates persist to config.played_matches, update standings totals, remove the fixture from remaining_matches, and then regenerate the frontend dataset."
+  }
+}

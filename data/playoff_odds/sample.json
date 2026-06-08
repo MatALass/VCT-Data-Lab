@@ -1,0 +1,35 @@
+{
+  "league": "VCT EMEA",
+  "season": "2026",
+  "qualification_slots": 4,
+  "groups": [
+    {
+      "name": "Alpha",
+      "teams": [
+        {
+          "team": "FUT",
+          "qualify_prob": 1.0,
+          "best_rank_seen": 1,
+          "worst_rank_seen": 4,
+          "expected_rank": 1.05,
+          "positions": {
+            "P1": 0.96,
+            "P2": 0.03,
+            "P3": 0.01,
+            "P4": 0,
+            "P5": 0,
+            "P6": 0
+          }
+        }
+      ]
+    }
+  ],
+  "schemaVersion": "3.0.0",
+  "playedMatches": [],
+  "notes": {
+    "analysisFeatures": [
+      "consoleMatchUpdate"
+    ],
+    "playedMatchesPersistence": "Console match updates persist to config.played_matches, update standings totals, remove the fixture from remaining_matches, and then regenerate the frontend dataset."
+  }
+}

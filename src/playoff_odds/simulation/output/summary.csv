@@ -1,0 +1,13 @@
+team,group,qualify_count,qualify_prob,best_rank_seen,worst_rank_seen
+BBL,Omega,91330,0.9133,3,5
+EF,Omega,100000,1.0,1,4
+FNC,Omega,100000,1.0,1,2
+FUT,Alpha,100000,1.0,1,2
+GX,Omega,78313,0.78313,2,5
+KC,Alpha,0,0.0,5,6
+M8,Alpha,87011,0.87011,2,5
+NAVI,Alpha,24572,0.24572,3,6
+PCF,Omega,0,0.0,5,6
+TH,Alpha,88417,0.88417,3,5
+TL,Alpha,100000,1.0,1,4
+VIT,Omega,30357,0.30357,3,6

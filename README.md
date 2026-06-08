@@ -1,6 +1,6 @@
-# VLR Analytics Pro
+# VCT Data Lab
 
-Unified Valorant/VLR analytics project merging the previous VLR analytics pipeline, legacy VLR agent scraper notebooks, and both VCT role-ranker apps.
+Unified Valorant analytics project merging the VLR analytics pipeline, legacy VLR agent scraper notebooks, both VCT role-ranker apps, and the playoff odds simulator.
 
 ## What is included
 
@@ -36,6 +36,29 @@ streamlit run apps/role_ranker_streamlit/elo_app.py
 
 Tournament mode is the recommended mode. Elo mode is retained for backward compatibility.
 
+### 4. Playoff odds simulator
+
+The former `playoff-odds-tool` is integrated as a separate module, not mixed into the ranker logic.
+
+```bash
+streamlit run apps/playoff_odds_streamlit/app.py
+playoff-odds-simulate --config data/playoff_odds/config.sample.json --output-json data/playoff_odds/vct-emea-2026.json --output-dir data/playoff_odds/output
+```
+
+The original React/Vite frontend is preserved under:
+
+```text
+apps/playoff_odds_react/
+
+Additional CLI entrypoints:
+
+```bash
+playoff-odds list-remaining-matches --config data/playoff_odds/config.sample.json
+playoff-odds-simulate --config data/playoff_odds/config.sample.json --output-json data/playoff_odds/vct-emea-2026.json --output-dir data/playoff_odds/output
+playoff-odds-what-if --config data/playoff_odds/config.sample.json --output-json data/playoff_odds/vct-emea-2026-whatif.json --force "GX vs EF=GX"
+```
+```
+
 ## Install
 
 ```bash
@@ -69,6 +92,7 @@ vlr assets
 vlr full-run --skip-scrape
 vlr api
 vlr ranker-paths
+playoff-odds-simulate --config data/playoff_odds/config.sample.json --output-json data/playoff_odds/vct-emea-2026.json --output-dir data/playoff_odds/output
 ```
 
 ## Tests

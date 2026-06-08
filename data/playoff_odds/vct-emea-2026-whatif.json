@@ -1,0 +1,413 @@
+{
+  "league": "VCT EMEA",
+  "season": "2026",
+  "qualificationSlots": 4,
+  "groups": [
+    {
+      "name": "Alpha",
+      "teams": [
+        {
+          "team": "M8",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 1,
+          "expectedRank": 1.0,
+          "positions": {
+            "P1": 1.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 5
+          }
+        },
+        {
+          "team": "FUT",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 2,
+          "worstRankSeen": 2,
+          "expectedRank": 2.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 1.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 3
+          }
+        },
+        {
+          "team": "NAVI",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 3,
+          "worstRankSeen": 3,
+          "expectedRank": 3.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 1.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 6
+          }
+        },
+        {
+          "team": "TH",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 4,
+          "worstRankSeen": 4,
+          "expectedRank": 4.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 1.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 6
+          }
+        },
+        {
+          "team": "TL",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 5,
+          "worstRankSeen": 5,
+          "expectedRank": 5.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 1.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 6
+          }
+        },
+        {
+          "team": "KC",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 6,
+          "worstRankSeen": 6,
+          "expectedRank": 6.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 1.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Omega",
+      "teams": [
+        {
+          "team": "GX",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 1,
+          "worstRankSeen": 1,
+          "expectedRank": 1.0,
+          "positions": {
+            "P1": 1.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 5
+          }
+        },
+        {
+          "team": "BBL",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 2,
+          "worstRankSeen": 2,
+          "expectedRank": 2.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 1.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 6
+          }
+        },
+        {
+          "team": "EF",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 3,
+          "worstRankSeen": 3,
+          "expectedRank": 3.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 1.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 6
+          }
+        },
+        {
+          "team": "FNC",
+          "qualifyProb": 1.0,
+          "bestRankSeen": 4,
+          "worstRankSeen": 4,
+          "expectedRank": 4.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 1.0,
+            "P5": 0.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 1,
+            "worst": 4
+          }
+        },
+        {
+          "team": "VIT",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 5,
+          "worstRankSeen": 5,
+          "expectedRank": 5.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 1.0,
+            "P6": 0.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 6
+          }
+        },
+        {
+          "team": "PCF",
+          "qualifyProb": 0.0,
+          "bestRankSeen": 6,
+          "worstRankSeen": 6,
+          "expectedRank": 6.0,
+          "positions": {
+            "P1": 0.0,
+            "P2": 0.0,
+            "P3": 0.0,
+            "P4": 0.0,
+            "P5": 0.0,
+            "P6": 1.0
+          },
+          "scenarioExtremes": {
+            "bestCase": null,
+            "worstCase": null
+          },
+          "topQualificationPaths": [],
+          "topEliminationPaths": [],
+          "exactWinnerOnlyBounds": {
+            "best": 3,
+            "worst": 6
+          }
+        }
+      ]
+    }
+  ],
+  "remainingMatches": [
+    {
+      "group": "Alpha",
+      "teamA": "NAVI",
+      "teamB": "TL"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "KC",
+      "teamB": "FUT"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "M8",
+      "teamB": "TH"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "TH",
+      "teamB": "FUT"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "NAVI",
+      "teamB": "KC"
+    },
+    {
+      "group": "Alpha",
+      "teamA": "M8",
+      "teamB": "TL"
+    },
+    {
+      "group": "Omega",
+      "teamA": "EF",
+      "teamB": "PCF"
+    },
+    {
+      "group": "Omega",
+      "teamA": "GX",
+      "teamB": "FNC"
+    },
+    {
+      "group": "Omega",
+      "teamA": "BBL",
+      "teamB": "VIT"
+    },
+    {
+      "group": "Omega",
+      "teamA": "VIT",
+      "teamB": "PCF"
+    },
+    {
+      "group": "Omega",
+      "teamA": "BBL",
+      "teamB": "FNC"
+    },
+    {
+      "group": "Omega",
+      "teamA": "GX",
+      "teamB": "EF"
+    }
+  ],
+  "matchImpacts": {},
+  "keyMatches": [],
+  "insights": [
+    "M8 is the strongest lock in the current simulation snapshot.",
+    "The current simulation model is 'elo', and tie-breaks follow VCT EMEA head-to-head criteria before falling back to stage map and round differential."
+  ],
+  "notes": {
+    "method": "Monte Carlo playoff qualification simulation",
+    "officialTieBreakers": [
+      "head-to-head match score",
+      "head-to-head map differential",
+      "head-to-head round differential",
+      "stage map differential",
+      "stage round differential"
+    ],
+    "sampleSize": 100000,
+    "conditionalSampleSize": 3000,
+    "scenarioExtremes": "Best / worst scenarios are observed within the simulation sample, not exact exhaustive optima.",
+    "exactWinnerOnlyBounds": "Exact over match-winner combinations only, using a deterministic 2-0 proxy scoreline for tie-break-sensitive metrics.",
+    "modelType": "elo",
+    "analysisFeatures": [
+      "matchImpacts",
+      "keyMatches",
+      "autoInsights",
+      "topQualificationPaths",
+      "winnerOnlyBounds",
+      "whatIfCLI",
+      "consoleMatchUpdate"
+    ],
+    "whatIfMode": "The what-if CLI generates a deterministic snapshot. Unforced matches default to the listed teamA winner so the output stays transparent and reproducible.",
+    "playedMatchesPersistence": "Console match updates persist to config.played_matches, update standings totals, remove the fixture from remaining_matches, and then regenerate the frontend dataset."
+  },
+  "schemaVersion": "3.0.0",
+  "playedMatches": []
+}
