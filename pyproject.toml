@@ -1,6 +1,6 @@
 [project]
 name = "vlr-analytics-pro"
-version = "0.1.0"
+version = "0.5.0"
 description = "Unified VLR Valorant analytics suite: scraping, cleaning, marts, modeling, API, React dashboard and VCT role ranker."
 requires-python = ">=3.11"
 dependencies = [

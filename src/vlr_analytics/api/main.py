@@ -33,7 +33,7 @@ from vlr_analytics.config import (
     TEAM_TACTICAL_PROFILES,
 )
 
-app = FastAPI(title="VLR Analytics API", version="0.3.0")
+app = FastAPI(title="VLR Analytics API", version="0.5.0")
 
 app.add_middleware(
     CORSMiddleware,

@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from vct_ranker_elo.agents import normalize_agent_name
-from vct_ranker_elo.roles import infer_player_role
+from vct_ranker_elo.roles import enrich_player_roles, infer_player_role
 from vct_ranker_elo.vct import VctEvent
 
 VLR_BASE_URL = "https://www.vlr.gg"
@@ -68,6 +68,16 @@ def clean_text(value: str | None) -> str:
     return re.sub(r"\s+", " ", str(value or "")).strip()
 
 
+def _strip_team_suffix_from_player(player: str, team: str | None) -> tuple[str, str | None]:
+    player = clean_text(player)
+    team = clean_text(team) if team else None
+    if team and player and player != team:
+        suffix = f" {team}"
+        if player.endswith(suffix):
+            player = player[: -len(suffix)].strip()
+    return player or "Unknown", team
+
+
 def parse_float(value: str | None) -> float | None:
     text = clean_text(value).replace("%", "")
     if not text or text in {"-", "nan"}:
@@ -99,16 +109,51 @@ def _extract_agents(row) -> list[str]:
 
 
 def _extract_player_and_team(row) -> tuple[str, str | None]:
-    player_cell = row.select_one("td.mod-player") or row.select_one("td:nth-of-type(1)")
-    text = clean_text(player_cell.get_text(" ", strip=True) if player_cell else "")
+    """Extract player and team without breaking multi-word player names.
 
+    VLR's stats cell often renders the player as a link and the team as a separate
+    small label. The previous fallback split the whole cell by whitespace and turned
+    a nickname such as ``lovers rock`` into player=``lovers`` and team=``rock``.
+    """
+    player_cell = row.select_one("td.mod-player") or row.select_one("td:nth-of-type(1)")
+    if player_cell is None:
+        return "Unknown", None
+
+    player_link = player_cell.select_one("a[href*='/player/']")
+    if player_link is not None:
+        player = clean_text(player_link.get_text(" ", strip=True))
+        full_text = clean_text(player_cell.get_text(" ", strip=True))
+
+        team = None
+        for selector in [".mod-team", ".stats-player-country", ".team", ".ge-text-light"]:
+            node = player_cell.select_one(selector)
+            candidate = clean_text(node.get_text(" ", strip=True) if node else "")
+            if candidate and candidate != player and len(candidate) <= 12:
+                team = candidate
+                break
+
+        if team is None and full_text.startswith(player):
+            remainder = clean_text(full_text[len(player):])
+            if remainder and remainder != player:
+                # Team tags are normally short abbreviations. Keep the whole remainder
+                # rather than the second token so multi-word names remain intact.
+                team = remainder.split()[0] if len(remainder.split()) == 1 else remainder
+
+        return _strip_team_suffix_from_player(player or "Unknown", team)
+
+    text = clean_text(player_cell.get_text(" ", strip=True))
     if not text:
         return "Unknown", None
 
+    # Last-resort fallback for unexpected markup. If the second token is lowercase,
+    # it is more likely part of a multi-word nickname than a VCT team abbreviation.
     chunks = text.split()
+    if len(chunks) >= 2 and chunks[1].islower():
+        return _strip_team_suffix_from_player(" ".join(chunks[:2]), " ".join(chunks[2:]) or None)
+
     player = chunks[0]
     team = chunks[1] if len(chunks) > 1 else None
-    return player, team
+    return _strip_team_suffix_from_player(player, team)
 
 
 def scrape_vlr_player_stats(query: VlrStatsQuery, *, polite_delay: float = 0.7) -> pd.DataFrame:
@@ -193,7 +238,9 @@ def scrape_vct_events(events: list[VctEvent], *, min_rounds: int = 0, timespan: 
         return pd.DataFrame()
 
     df = pd.concat(frames, ignore_index=True)
-    return df.drop_duplicates(subset=["vct_region", "event_id", "player", "team"]).sort_values(
+    df = df.drop_duplicates(subset=["vct_region", "event_id", "player", "team"])
+    df = enrich_player_roles(df)
+    return df.sort_values(
         ["vct_region", "inferred_role", "rating", "acs", "player"],
         ascending=[True, True, False, False, True],
     )
@@ -210,4 +257,5 @@ def scrape_multiple_events(event_ids: list[int], *, min_rounds: int = 100) -> pd
     if not frames:
         return pd.DataFrame()
 
-    return pd.concat(frames, ignore_index=True).drop_duplicates(subset=["event_id", "player", "team"])
+    df = pd.concat(frames, ignore_index=True).drop_duplicates(subset=["event_id", "player", "team"])
+    return enrich_player_roles(df)

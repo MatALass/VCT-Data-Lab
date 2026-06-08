@@ -16,10 +16,13 @@ from vct_ranker.agents import ROLE_ORDER
 from vct_ranker.matchmaking import DuelRules, active_players, eligible_players, pick_same_role_duel
 from vct_ranker.ranking import DEFAULT_MAX_LOSSES, build_ranking, make_player_key, normalize_ranking_state, record_duel_result
 from vct_ranker.scraper import scrape_vct_events
-from vct_ranker.storage import load_players, load_rankings, save_players, save_rankings
+from vct_ranker.roles import enrich_player_roles
+from vct_ranker.storage import PLAYERS_PATH, load_players, load_rankings, save_players, save_rankings
 from vct_ranker.vct import VCT_REGIONS, events_for_region
 
 st.set_page_config(page_title="VCT Role Ranker", page_icon="⚔️", layout="wide")
+
+ROLE_RULES_CACHE_VERSION = "v11-role-rules"
 
 CUSTOM_CSS = """
 <style>
@@ -58,8 +61,9 @@ def normalize_players(df: pd.DataFrame) -> pd.DataFrame:
         df["vct_region"] = "Unknown"
     if "event_name" not in df.columns:
         df["event_name"] = "Unknown"
+    df = enrich_player_roles(df)
     df["player_key"] = df.apply(lambda row: make_player_key(row["player"], row["team"]), axis=1)
-    for column in ["rating", "acs", "kd", "kast", "adr", "kpr", "apr", "fkpr", "fdpr", "hs_pct", "rounds", "role_confidence"]:
+    for column in ["rating", "acs", "kd", "kast", "adr", "kpr", "apr", "fkpr", "fdpr", "hs_pct", "rounds", "role_confidence", "flex_score"]:
         if column in df.columns:
             df[column] = pd.to_numeric(df[column], errors="coerce")
     return df
@@ -72,12 +76,13 @@ def player_card(player: pd.Series) -> None:
         <div class="vct-card">
             <div class="vct-title">{player['player']}</div>
             <div class="vct-subtitle">
-                {player.get('team', 'FA')} · {player.get('vct_region', 'Unknown')} · {player.get('inferred_role', 'Flex')} · confiance {player.get('role_confidence', 0):.0%}
+                {player.get('team', 'FA')} · {player.get('vct_region', 'Unknown')} · rôle équipe {player.get('inferred_role', 'Flex')} · confiance {player.get('role_confidence', 0):.0%}
             </div>
+            <div><b>Rôle brut:</b> {player.get('raw_role', player.get('inferred_role', 'Flex'))} · <b>Flex score:</b> {player.get('flex_score', 0):.0%}</div>
             <div><b>VLR Rating:</b> {player.get('rating', 'N/A')} · <b>ACS:</b> {player.get('acs', 'N/A')} · <b>Rounds:</b> {player.get('rounds', 'N/A')}</div>
             <div><b>K:D:</b> {player.get('kd', 'N/A')} · <b>ADR:</b> {player.get('adr', 'N/A')} · <b>KAST:</b> {player.get('kast', 'N/A')}</div>
             <div class="vct-agents">{agents}</div>
-            <div class="small-muted">Même rôle, même région sélectionnée, filtré sur volume + confiance rôle.</div>
+            <div class="small-muted">{player.get('role_explanation', 'Rôle inféré à partir du pool agents et du contexte équipe.')}</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -87,6 +92,26 @@ def player_card(player: pd.Series) -> None:
 @st.cache_data(show_spinner=False)
 def cached_scrape_vct(region: str, timespan: str, min_rounds: int) -> pd.DataFrame:
     return scrape_vct_events(events_for_region(region), min_rounds=min_rounds, timespan=timespan)
+
+
+def _players_file_signature() -> tuple[str, int, int]:
+    if not PLAYERS_PATH.exists():
+        return (ROLE_RULES_CACHE_VERSION, str(PLAYERS_PATH), 0, 0)
+    stat = PLAYERS_PATH.stat()
+    return (ROLE_RULES_CACHE_VERSION, str(PLAYERS_PATH), int(stat.st_mtime), int(stat.st_size))
+
+
+@st.cache_data(show_spinner=False)
+def cached_load_local_players(signature: tuple[str, int, int]) -> pd.DataFrame:
+    # signature intentionally participates in the cache key so saved CSV updates are
+    # reloaded without re-scraping or recomputing roles on every Streamlit rerun.
+    return normalize_players(load_players())
+
+
+def refresh_players_from_disk() -> pd.DataFrame:
+    players_df = cached_load_local_players(_players_file_signature())
+    st.session_state.players = players_df
+    return players_df
 
 
 
@@ -156,7 +181,6 @@ st.caption("Classement subjectif des joueurs VCT uniquement, par région et par 
 
 with st.sidebar:
     st.header("Périmètre VCT")
-    source_mode = st.radio("Données", ["Charger CSV local", "Scraper VCT maintenant"], index=0)
     selected_region = st.selectbox("Région VCT", VCT_REGIONS, index=0)
     role_filter = st.selectbox("Rôle à classer", ROLE_ORDER, index=0)
 
@@ -169,15 +193,27 @@ with st.sidebar:
     prefer_close_records = st.checkbox("Comparer des bilans proches", value=True)
     timespan = st.selectbox("Timespan VLR", ["all", "30d", "60d", "90d"], index=0)
 
-    if source_mode == "Scraper VCT maintenant":
-        event_names = ", ".join(event.name for event in events_for_region(selected_region))
-        st.caption(f"Events utilisés : {event_names}")
-        if st.button("Scraper VCT et sauvegarder", type="primary"):
+    st.header("Chargement des données")
+    scrape_scope = st.selectbox("Portée du refresh VLR", VCT_REGIONS, index=0, help="Recommandé : All. Le scrape se fait une fois, puis les filtres région/rôle/rounds se font localement sans re-scraper.")
+    event_names = ", ".join(event.name for event in events_for_region(scrape_scope))
+    st.caption(f"Events configurés : {event_names}")
+
+    load_col, refresh_col = st.columns(2)
+    with load_col:
+        if st.button("Recharger CSV", help="Recharge le CSV local sans accéder à VLR."):
+            cached_load_local_players.clear()
+            refresh_players_from_disk()
+            st.session_state.current_tournament_duel = None
+            st.success("CSV local rechargé.")
+    with refresh_col:
+        if st.button("Actualiser VLR", type="primary", help="Scrape VLR puis sauvegarde le CSV. Les sliders ne déclenchent pas de scrape."):
             with st.spinner("Scraping HTML VLR des events VCT configurés..."):
-                scraped = cached_scrape_vct(selected_region, timespan, min_rounds)
+                scraped = cached_scrape_vct(scrape_scope, timespan, 0)
                 scraped = normalize_players(scraped)
                 save_players(scraped)
+                cached_load_local_players.clear()
                 st.session_state.players = scraped
+                st.session_state.current_tournament_duel = None
             st.success(f"{len(scraped)} lignes joueurs VCT chargées.")
 
     if st.button("Réinitialiser mon tournoi"):
@@ -187,10 +223,12 @@ with st.sidebar:
         st.session_state.current_tournament_duel = None
         st.success("Tournoi réinitialisé.")
 
-players = st.session_state.get("players", normalize_players(load_players()))
+players = st.session_state.get("players")
+if players is None:
+    players = refresh_players_from_disk()
 
 if players.empty:
-    st.info("Aucune donnée joueur chargée. Lance le scraping VCT dans la barre latérale.")
+    st.info("Aucune donnée joueur chargée. Clique sur « Actualiser VLR » dans la barre latérale, ou ajoute un CSV local dans data/processed/vlr_players_processed.csv.")
     st.stop()
 
 rules = DuelRules(
@@ -296,7 +334,7 @@ if not ranking.empty:
     st.plotly_chart(fig, width="stretch")
 
 with st.expander("Contrôle qualité des rôles et du périmètre VCT"):
-    cols = ["player", "team", "vct_region", "event_name", "agents", "inferred_role", "role_confidence", "rounds", "rating", "acs"]
+    cols = ["player", "team", "vct_region", "event_name", "agents", "raw_role", "team_role", "inferred_role", "role_confidence", "flex_score", "distinct_roles", "role_scores", "role_explanation", "rounds", "rating", "acs"]
     existing = [col for col in cols if col in players.columns]
     st.dataframe(
         players[existing].sort_values(["vct_region", "inferred_role", "role_confidence"], ascending=[True, True, False]),
@@ -304,6 +342,9 @@ with st.expander("Contrôle qualité des rôles et du périmètre VCT"):
         hide_index=True,
     )
     st.markdown(
-        "Règle rôle : majorité des agents joués. Si aucun rôle officiel n'atteint 60 %, le joueur devient Flex. "
-        "Les duels ne comparent ensuite que des joueurs du même rôle inféré et de la région sélectionnée."
+        "Règle rôle : pondération par usage agent quand disponible, fallback égalitaire si VLR ne fournit que le pool agents. "
+        "Viper est toujours traitée comme Sentinel-side zone-control, pas comme Smoker/Controller. "
+        "Chamber compte Duelist uniquement dans un pool exclusivement Duelist/Chamber, sinon Sentinel. "
+        "Un pool Duelist + Sentinel est classé Sentinel, tandis qu’un pool Duelist + Initiator/Controller devient Flex. "
+        "Le contexte équipe couvre Duelist, Controller/Smoker, Initiator et Sentinel. Dans une équipe stable de 5 joueurs, Flex est attendu sauf si deux joueurs sont verrouillés Duelist purs."
     )
