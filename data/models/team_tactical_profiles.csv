@@ -1,0 +1,49 @@
+team,total_compositions,maps_covered,agent_pool_size,unique_compositions,composition_reuse_rate,composition_stability_score,map_pool_visibility_score,agent_core_score,map_identity_score,sample_reliability_score,tactical_profile_score,tactical_profile_label
+Xi Lai Gaming,16,6,12,5,0.6875,0.6875,0.8571,0.4167,0.3125,1.0,0.6391,stable_core
+Titan Esports Club,14,6,11,7,0.5,0.5,0.8571,0.5455,0.3571,0.9354,0.6172,stable_core
+Dragon Ranger Gaming,15,6,10,7,0.5333,0.5333,0.8571,0.5,0.3333,0.9682,0.6166,stable_core
+FunPlus Phoenix,13,5,11,5,0.6154,0.6154,0.7143,0.5455,0.3077,0.9014,0.6026,stable_core
+All Gamers,16,6,14,8,0.5,0.5,0.8571,0.3571,0.25,1.0,0.5678,stable_core
+GIANTX,11,6,13,6,0.4545,0.4545,0.8571,0.3846,0.3636,0.8292,0.5591,stable_core
+EDward Gaming,15,6,16,7,0.5333,0.5333,0.8571,0.25,0.2667,0.9682,0.5533,stable_core
+Trace Esports,15,6,17,8,0.4667,0.4667,0.8571,0.2353,0.3333,0.9682,0.547,stable_core
+KRÜ Esports,6,4,9,3,0.5,0.5,0.5714,0.5556,0.5,0.6124,0.5423,stable_core
+FULL SENSE,9,6,12,5,0.4444,0.4444,0.8571,0.4167,0.2222,0.75,0.5228,stable_core
+JDG Esports,14,6,17,9,0.3571,0.3571,0.8571,0.2353,0.3571,0.9354,0.5195,flexible_pool
+Team Liquid,9,6,13,6,0.3333,0.3333,0.8571,0.5385,0.2222,0.75,0.5194,flexible_pool
+FURIA,7,4,10,4,0.4286,0.4286,0.5714,0.7,0.2857,0.6614,0.5178,stable_core
+Wolves Esports,12,5,17,8,0.3333,0.3333,0.7143,0.3529,0.4167,0.866,0.51,flexible_pool
+TYLOO,15,6,16,9,0.4,0.4,0.8571,0.1875,0.2667,0.9682,0.5075,stable_core
+Paper Rex,10,6,15,6,0.4,0.4,0.8571,0.2667,0.3,0.7906,0.5034,stable_core
+LEVIATÁN,7,6,13,5,0.2857,0.2857,0.8571,0.4615,0.2857,0.6614,0.4915,flexible_pool
+Natus Vincere,11,5,13,7,0.3636,0.3636,0.7143,0.3846,0.2727,0.8292,0.4896,flexible_pool
+T1,6,4,10,4,0.3333,0.3333,0.5714,0.5,0.5,0.6124,0.4895,flexible_pool
+Bilibili Gaming,13,6,17,8,0.3846,0.3846,0.8571,0.1765,0.2308,0.9014,0.4842,flexible_pool
+PCIFIC Esports,10,6,17,8,0.2,0.2,0.8571,0.2941,0.4,0.7906,0.4788,flexible_pool
+Karmine Corp,11,5,17,7,0.3636,0.3636,0.7143,0.2353,0.3636,0.8292,0.4779,flexible_pool
+MIBR,4,3,8,3,0.25,0.25,0.4286,0.75,0.5,0.5,0.4732,flexible_pool
+LOUD,7,5,14,5,0.2857,0.2857,0.7143,0.5,0.2857,0.6614,0.4706,flexible_pool
+Team Heretics,10,5,14,6,0.4,0.4,0.7143,0.2143,0.3,0.7906,0.4643,stable_core
+ZETA DIVISION,8,6,13,6,0.25,0.25,0.8571,0.3077,0.25,0.7071,0.4515,flexible_pool
+Team Vitality,9,6,15,7,0.2222,0.2222,0.8571,0.3333,0.2222,0.75,0.4506,flexible_pool
+Gentle Mates,10,5,14,6,0.4,0.4,0.7143,0.1429,0.3,0.7906,0.45,stable_core
+Eternal Fire,10,6,17,8,0.2,0.2,0.8571,0.2353,0.3,0.7906,0.4471,flexible_pool
+G2 Esports,7,6,12,6,0.1429,0.1429,0.8571,0.4167,0.2857,0.6614,0.4468,flexible_pool
+DetonatioN FocusMe,10,5,17,6,0.4,0.4,0.7143,0.1176,0.3,0.7906,0.445,stable_core
+Nova Esports,10,6,16,7,0.3,0.3,0.8571,0.1875,0.2,0.7906,0.4425,flexible_pool
+Rex Regum Qeon,10,5,15,6,0.4,0.4,0.7143,0.2,0.2,0.7906,0.4414,stable_core
+Gen.G,10,7,19,8,0.2,0.2,1.0,0.1579,0.2,0.7906,0.4402,flexible_pool
+Nongshim RedForce,8,6,16,6,0.25,0.25,0.8571,0.25,0.25,0.7071,0.44,flexible_pool
+FUT Esports,11,7,16,10,0.0909,0.0909,1.0,0.1875,0.2727,0.8292,0.4391,flexible_pool
+BBL Esports,10,5,14,8,0.2,0.2,0.7143,0.2857,0.3,0.7906,0.4286,flexible_pool
+Global Esports,8,6,18,7,0.125,0.125,0.8571,0.2222,0.375,0.7071,0.4282,flexible_pool
+FNATIC,10,5,16,7,0.3,0.3,0.7143,0.125,0.3,0.7906,0.4214,flexible_pool
+ENVY,8,7,18,7,0.125,0.125,1.0,0.1667,0.25,0.7071,0.4207,flexible_pool
+Evil Geniuses,5,4,11,4,0.2,0.2,0.5714,0.4545,0.4,0.559,0.419,flexible_pool
+VARREL,9,6,19,8,0.1111,0.1111,0.8571,0.1579,0.3333,0.75,0.4099,flexible_pool
+100 Thieves,5,4,14,4,0.2,0.2,0.5714,0.2857,0.4,0.559,0.3853,flexible_pool
+Kiwoom DRX,10,4,15,8,0.2,0.2,0.5714,0.2,0.3,0.7906,0.3829,flexible_pool
+Cloud9,5,3,10,4,0.2,0.2,0.4286,0.4,0.4,0.559,0.3796,flexible_pool
+Team Secret,6,5,15,6,0.0,0.0,0.7143,0.3333,0.3333,0.6124,0.368,flexible_pool
+NRG,5,3,13,4,0.2,0.2,0.4286,0.2308,0.4,0.559,0.3457,flexible_pool
+Sentinels,4,4,12,4,0.0,0.0,0.5714,0.3333,0.25,0.5,0.3059,flexible_pool

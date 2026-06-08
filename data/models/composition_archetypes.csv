@@ -1,0 +1,9 @@
+cluster,cluster_label,compositions,teams_count,maps_count,representative_agents,most_common_map,note
+0,fade + omen + viper,96,40,5,"fade,omen,viper,neon,raze",LOTUS,exploratory_only
+1,skye + neon + brimstone,73,28,4,"skye,neon,brimstone,viper,waylay",BIND,exploratory_only
+6,omen + skye + neon,62,29,5,"omen,skye,neon,waylay,viper",SPLIT,exploratory_only
+3,astra + neon + sova,54,26,6,"astra,neon,sova,chamber,waylay",PEARL,exploratory_only
+5,astra + fade + neon,51,25,4,"astra,fade,neon,phoenix,killjoy",PEARL,exploratory_only
+4,sova + viper + neon,50,27,2,"sova,viper,neon,omen,killjoy",BREEZE,exploratory_only
+2,omen + cypher + neon,45,23,2,"omen,cypher,neon,sova,phoenix",HAVEN,exploratory_only
+7,brimstone + neon + breach,33,22,2,"brimstone,neon,breach,cypher,tejo",FRACTURE,exploratory_only

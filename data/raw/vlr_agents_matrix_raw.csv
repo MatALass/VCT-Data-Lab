@@ -1,0 +1,2321 @@
+event,map,team,opponent,agent
+americas_stage_1,LOTUS,ENVY,LOUD,neon
+americas_stage_1,LOTUS,ENVY,LOUD,viper
+americas_stage_1,LOTUS,ENVY,LOUD,omen
+americas_stage_1,LOTUS,ENVY,LOUD,fade
+americas_stage_1,LOTUS,ENVY,LOUD,veto
+americas_stage_1,LOTUS,G2 Esports,MIBR,neon
+americas_stage_1,LOTUS,G2 Esports,MIBR,omen
+americas_stage_1,LOTUS,G2 Esports,MIBR,fade
+americas_stage_1,LOTUS,G2 Esports,MIBR,vyse
+americas_stage_1,LOTUS,G2 Esports,MIBR,harbor
+americas_stage_1,LOTUS,LOUD,ENVY,viper
+americas_stage_1,LOTUS,LOUD,ENVY,omen
+americas_stage_1,LOTUS,LOUD,ENVY,fade
+americas_stage_1,LOTUS,LOUD,ENVY,vyse
+americas_stage_1,LOTUS,LOUD,ENVY,raze
+americas_stage_1,LOTUS,FURIA,Evil Geniuses,neon
+americas_stage_1,LOTUS,FURIA,Evil Geniuses,viper
+americas_stage_1,LOTUS,FURIA,Evil Geniuses,omen
+americas_stage_1,LOTUS,FURIA,Evil Geniuses,fade
+americas_stage_1,LOTUS,FURIA,Evil Geniuses,vyse
+americas_stage_1,LOTUS,FURIA,KRÜ Esports,neon
+americas_stage_1,LOTUS,FURIA,KRÜ Esports,viper
+americas_stage_1,LOTUS,FURIA,KRÜ Esports,omen
+americas_stage_1,LOTUS,FURIA,KRÜ Esports,fade
+americas_stage_1,LOTUS,FURIA,KRÜ Esports,vyse
+americas_stage_1,LOTUS,KRÜ Esports,Sentinels,neon
+americas_stage_1,LOTUS,KRÜ Esports,Sentinels,viper
+americas_stage_1,LOTUS,KRÜ Esports,Sentinels,omen
+americas_stage_1,LOTUS,KRÜ Esports,Sentinels,fade
+americas_stage_1,LOTUS,KRÜ Esports,Sentinels,vyse
+americas_stage_1,LOTUS,KRÜ Esports,NRG,neon
+americas_stage_1,LOTUS,KRÜ Esports,NRG,viper
+americas_stage_1,LOTUS,KRÜ Esports,NRG,omen
+americas_stage_1,LOTUS,KRÜ Esports,NRG,fade
+americas_stage_1,LOTUS,KRÜ Esports,NRG,vyse
+americas_stage_1,LOTUS,KRÜ Esports,FURIA,neon
+americas_stage_1,LOTUS,KRÜ Esports,FURIA,viper
+americas_stage_1,LOTUS,KRÜ Esports,FURIA,omen
+americas_stage_1,LOTUS,KRÜ Esports,FURIA,fade
+americas_stage_1,LOTUS,KRÜ Esports,FURIA,vyse
+americas_stage_1,LOTUS,Evil Geniuses,FURIA,neon
+americas_stage_1,LOTUS,Evil Geniuses,FURIA,viper
+americas_stage_1,LOTUS,Evil Geniuses,FURIA,omen
+americas_stage_1,LOTUS,Evil Geniuses,FURIA,fade
+americas_stage_1,LOTUS,Evil Geniuses,FURIA,vyse
+americas_stage_1,LOTUS,NRG,KRÜ Esports,neon
+americas_stage_1,LOTUS,NRG,KRÜ Esports,viper
+americas_stage_1,LOTUS,NRG,KRÜ Esports,omen
+americas_stage_1,LOTUS,NRG,KRÜ Esports,fade
+americas_stage_1,LOTUS,NRG,KRÜ Esports,vyse
+americas_stage_1,LOTUS,Sentinels,KRÜ Esports,viper
+americas_stage_1,LOTUS,Sentinels,KRÜ Esports,omen
+americas_stage_1,LOTUS,Sentinels,KRÜ Esports,fade
+americas_stage_1,LOTUS,Sentinels,KRÜ Esports,raze
+americas_stage_1,LOTUS,Sentinels,KRÜ Esports,veto
+americas_stage_1,LOTUS,MIBR,G2 Esports,neon
+americas_stage_1,LOTUS,MIBR,G2 Esports,omen
+americas_stage_1,LOTUS,MIBR,G2 Esports,fade
+americas_stage_1,LOTUS,MIBR,G2 Esports,vyse
+americas_stage_1,LOTUS,MIBR,G2 Esports,raze
+americas_stage_1,BREEZE,ENVY,LOUD,neon
+americas_stage_1,BREEZE,ENVY,LOUD,viper
+americas_stage_1,BREEZE,ENVY,LOUD,sova
+americas_stage_1,BREEZE,ENVY,LOUD,harbor
+americas_stage_1,BREEZE,ENVY,LOUD,iso
+americas_stage_1,BREEZE,G2 Esports,LEVIATÁN,neon
+americas_stage_1,BREEZE,G2 Esports,LEVIATÁN,sova
+americas_stage_1,BREEZE,G2 Esports,LEVIATÁN,vyse
+americas_stage_1,BREEZE,G2 Esports,LEVIATÁN,astra
+americas_stage_1,BREEZE,G2 Esports,LEVIATÁN,harbor
+americas_stage_1,BREEZE,LOUD,ENVY,sova
+americas_stage_1,BREEZE,LOUD,ENVY,astra
+americas_stage_1,BREEZE,LOUD,ENVY,harbor
+americas_stage_1,BREEZE,LOUD,ENVY,kayo
+americas_stage_1,BREEZE,LOUD,ENVY,jett
+americas_stage_1,BREEZE,LEVIATÁN,G2 Esports,neon
+americas_stage_1,BREEZE,LEVIATÁN,G2 Esports,viper
+americas_stage_1,BREEZE,LEVIATÁN,G2 Esports,omen
+americas_stage_1,BREEZE,LEVIATÁN,G2 Esports,sova
+americas_stage_1,BREEZE,LEVIATÁN,G2 Esports,chamber
+americas_stage_1,BREEZE,KRÜ Esports,Sentinels,neon
+americas_stage_1,BREEZE,KRÜ Esports,Sentinels,viper
+americas_stage_1,BREEZE,KRÜ Esports,Sentinels,omen
+americas_stage_1,BREEZE,KRÜ Esports,Sentinels,sova
+americas_stage_1,BREEZE,KRÜ Esports,Sentinels,chamber
+americas_stage_1,BREEZE,100 Thieves,Evil Geniuses,viper
+americas_stage_1,BREEZE,100 Thieves,Evil Geniuses,sova
+americas_stage_1,BREEZE,100 Thieves,Evil Geniuses,harbor
+americas_stage_1,BREEZE,100 Thieves,Evil Geniuses,kayo
+americas_stage_1,BREEZE,100 Thieves,Evil Geniuses,jett
+americas_stage_1,BREEZE,Evil Geniuses,100 Thieves,neon
+americas_stage_1,BREEZE,Evil Geniuses,100 Thieves,viper
+americas_stage_1,BREEZE,Evil Geniuses,100 Thieves,sova
+americas_stage_1,BREEZE,Evil Geniuses,100 Thieves,harbor
+americas_stage_1,BREEZE,Evil Geniuses,100 Thieves,kayo
+americas_stage_1,BREEZE,Sentinels,KRÜ Esports,neon
+americas_stage_1,BREEZE,Sentinels,KRÜ Esports,viper
+americas_stage_1,BREEZE,Sentinels,KRÜ Esports,sova
+americas_stage_1,BREEZE,Sentinels,KRÜ Esports,harbor
+americas_stage_1,BREEZE,Sentinels,KRÜ Esports,iso
+americas_stage_1,SPLIT,ENVY,Cloud9,viper
+americas_stage_1,SPLIT,ENVY,Cloud9,omen
+americas_stage_1,SPLIT,ENVY,Cloud9,skye
+americas_stage_1,SPLIT,ENVY,Cloud9,raze
+americas_stage_1,SPLIT,ENVY,Cloud9,jett
+americas_stage_1,SPLIT,G2 Esports,MIBR,neon
+americas_stage_1,SPLIT,G2 Esports,MIBR,fade
+americas_stage_1,SPLIT,G2 Esports,MIBR,vyse
+americas_stage_1,SPLIT,G2 Esports,MIBR,astra
+americas_stage_1,SPLIT,G2 Esports,MIBR,harbor
+americas_stage_1,SPLIT,G2 Esports,LEVIATÁN,fade
+americas_stage_1,SPLIT,G2 Esports,LEVIATÁN,vyse
+americas_stage_1,SPLIT,G2 Esports,LEVIATÁN,astra
+americas_stage_1,SPLIT,G2 Esports,LEVIATÁN,raze
+americas_stage_1,SPLIT,G2 Esports,LEVIATÁN,harbor
+americas_stage_1,SPLIT,LOUD,MIBR,neon
+americas_stage_1,SPLIT,LOUD,MIBR,viper
+americas_stage_1,SPLIT,LOUD,MIBR,omen
+americas_stage_1,SPLIT,LOUD,MIBR,skye
+americas_stage_1,SPLIT,LOUD,MIBR,cypher
+americas_stage_1,SPLIT,LEVIATÁN,G2 Esports,neon
+americas_stage_1,SPLIT,LEVIATÁN,G2 Esports,viper
+americas_stage_1,SPLIT,LEVIATÁN,G2 Esports,omen
+americas_stage_1,SPLIT,LEVIATÁN,G2 Esports,fade
+americas_stage_1,SPLIT,LEVIATÁN,G2 Esports,phoenix
+americas_stage_1,SPLIT,FURIA,NRG,neon
+americas_stage_1,SPLIT,FURIA,NRG,viper
+americas_stage_1,SPLIT,FURIA,NRG,omen
+americas_stage_1,SPLIT,FURIA,NRG,fade
+americas_stage_1,SPLIT,FURIA,NRG,vyse
+americas_stage_1,SPLIT,KRÜ Esports,NRG,neon
+americas_stage_1,SPLIT,KRÜ Esports,NRG,viper
+americas_stage_1,SPLIT,KRÜ Esports,NRG,omen
+americas_stage_1,SPLIT,KRÜ Esports,NRG,fade
+americas_stage_1,SPLIT,KRÜ Esports,NRG,vyse
+americas_stage_1,SPLIT,100 Thieves,Sentinels,viper
+americas_stage_1,SPLIT,100 Thieves,Sentinels,omen
+americas_stage_1,SPLIT,100 Thieves,Sentinels,fade
+americas_stage_1,SPLIT,100 Thieves,Sentinels,raze
+americas_stage_1,SPLIT,100 Thieves,Sentinels,sage
+americas_stage_1,SPLIT,Cloud9,ENVY,neon
+americas_stage_1,SPLIT,Cloud9,ENVY,viper
+americas_stage_1,SPLIT,Cloud9,ENVY,omen
+americas_stage_1,SPLIT,Cloud9,ENVY,vyse
+americas_stage_1,SPLIT,Cloud9,ENVY,skye
+americas_stage_1,SPLIT,NRG,FURIA,viper
+americas_stage_1,SPLIT,NRG,FURIA,omen
+americas_stage_1,SPLIT,NRG,FURIA,skye
+americas_stage_1,SPLIT,NRG,FURIA,raze
+americas_stage_1,SPLIT,NRG,FURIA,deadlock
+americas_stage_1,SPLIT,NRG,KRÜ Esports,neon
+americas_stage_1,SPLIT,NRG,KRÜ Esports,viper
+americas_stage_1,SPLIT,NRG,KRÜ Esports,omen
+americas_stage_1,SPLIT,NRG,KRÜ Esports,fade
+americas_stage_1,SPLIT,NRG,KRÜ Esports,vyse
+americas_stage_1,SPLIT,Sentinels,100 Thieves,neon
+americas_stage_1,SPLIT,Sentinels,100 Thieves,viper
+americas_stage_1,SPLIT,Sentinels,100 Thieves,omen
+americas_stage_1,SPLIT,Sentinels,100 Thieves,skye
+americas_stage_1,SPLIT,Sentinels,100 Thieves,sage
+americas_stage_1,SPLIT,MIBR,G2 Esports,neon
+americas_stage_1,SPLIT,MIBR,G2 Esports,fade
+americas_stage_1,SPLIT,MIBR,G2 Esports,vyse
+americas_stage_1,SPLIT,MIBR,G2 Esports,astra
+americas_stage_1,SPLIT,MIBR,G2 Esports,raze
+americas_stage_1,SPLIT,MIBR,LOUD,neon
+americas_stage_1,SPLIT,MIBR,LOUD,fade
+americas_stage_1,SPLIT,MIBR,LOUD,vyse
+americas_stage_1,SPLIT,MIBR,LOUD,astra
+americas_stage_1,SPLIT,MIBR,LOUD,raze
+americas_stage_1,HAVEN,ENVY,Cloud9,neon
+americas_stage_1,HAVEN,ENVY,Cloud9,sova
+americas_stage_1,HAVEN,ENVY,Cloud9,astra
+americas_stage_1,HAVEN,ENVY,Cloud9,phoenix
+americas_stage_1,HAVEN,ENVY,Cloud9,chamber
+americas_stage_1,HAVEN,G2 Esports,LOUD,neon
+americas_stage_1,HAVEN,G2 Esports,LOUD,fade
+americas_stage_1,HAVEN,G2 Esports,LOUD,astra
+americas_stage_1,HAVEN,G2 Esports,LOUD,phoenix
+americas_stage_1,HAVEN,G2 Esports,LOUD,chamber
+americas_stage_1,HAVEN,LOUD,MIBR,neon
+americas_stage_1,HAVEN,LOUD,MIBR,viper
+americas_stage_1,HAVEN,LOUD,MIBR,omen
+americas_stage_1,HAVEN,LOUD,MIBR,sova
+americas_stage_1,HAVEN,LOUD,MIBR,vyse
+americas_stage_1,HAVEN,LOUD,G2 Esports,neon
+americas_stage_1,HAVEN,LOUD,G2 Esports,viper
+americas_stage_1,HAVEN,LOUD,G2 Esports,omen
+americas_stage_1,HAVEN,LOUD,G2 Esports,sova
+americas_stage_1,HAVEN,LOUD,G2 Esports,vyse
+americas_stage_1,HAVEN,LEVIATÁN,Cloud9,neon
+americas_stage_1,HAVEN,LEVIATÁN,Cloud9,sova
+americas_stage_1,HAVEN,LEVIATÁN,Cloud9,astra
+americas_stage_1,HAVEN,LEVIATÁN,Cloud9,phoenix
+americas_stage_1,HAVEN,LEVIATÁN,Cloud9,chamber
+americas_stage_1,HAVEN,FURIA,Evil Geniuses,neon
+americas_stage_1,HAVEN,FURIA,Evil Geniuses,viper
+americas_stage_1,HAVEN,FURIA,Evil Geniuses,omen
+americas_stage_1,HAVEN,FURIA,Evil Geniuses,sova
+americas_stage_1,HAVEN,FURIA,Evil Geniuses,killjoy
+americas_stage_1,HAVEN,FURIA,KRÜ Esports,neon
+americas_stage_1,HAVEN,FURIA,KRÜ Esports,omen
+americas_stage_1,HAVEN,FURIA,KRÜ Esports,sova
+americas_stage_1,HAVEN,FURIA,KRÜ Esports,phoenix
+americas_stage_1,HAVEN,FURIA,KRÜ Esports,cypher
+americas_stage_1,HAVEN,KRÜ Esports,FURIA,neon
+americas_stage_1,HAVEN,KRÜ Esports,FURIA,omen
+americas_stage_1,HAVEN,KRÜ Esports,FURIA,fade
+americas_stage_1,HAVEN,KRÜ Esports,FURIA,phoenix
+americas_stage_1,HAVEN,KRÜ Esports,FURIA,cypher
+americas_stage_1,HAVEN,100 Thieves,Evil Geniuses,neon
+americas_stage_1,HAVEN,100 Thieves,Evil Geniuses,omen
+americas_stage_1,HAVEN,100 Thieves,Evil Geniuses,sova
+americas_stage_1,HAVEN,100 Thieves,Evil Geniuses,phoenix
+americas_stage_1,HAVEN,100 Thieves,Evil Geniuses,cypher
+americas_stage_1,HAVEN,100 Thieves,Sentinels,neon
+americas_stage_1,HAVEN,100 Thieves,Sentinels,omen
+americas_stage_1,HAVEN,100 Thieves,Sentinels,sova
+americas_stage_1,HAVEN,100 Thieves,Sentinels,phoenix
+americas_stage_1,HAVEN,100 Thieves,Sentinels,cypher
+americas_stage_1,HAVEN,Evil Geniuses,100 Thieves,neon
+americas_stage_1,HAVEN,Evil Geniuses,100 Thieves,viper
+americas_stage_1,HAVEN,Evil Geniuses,100 Thieves,omen
+americas_stage_1,HAVEN,Evil Geniuses,100 Thieves,sova
+americas_stage_1,HAVEN,Evil Geniuses,100 Thieves,killjoy
+americas_stage_1,HAVEN,Evil Geniuses,FURIA,neon
+americas_stage_1,HAVEN,Evil Geniuses,FURIA,viper
+americas_stage_1,HAVEN,Evil Geniuses,FURIA,omen
+americas_stage_1,HAVEN,Evil Geniuses,FURIA,sova
+americas_stage_1,HAVEN,Evil Geniuses,FURIA,killjoy
+americas_stage_1,HAVEN,Cloud9,LEVIATÁN,neon
+americas_stage_1,HAVEN,Cloud9,LEVIATÁN,viper
+americas_stage_1,HAVEN,Cloud9,LEVIATÁN,omen
+americas_stage_1,HAVEN,Cloud9,LEVIATÁN,sova
+americas_stage_1,HAVEN,Cloud9,LEVIATÁN,killjoy
+americas_stage_1,HAVEN,Cloud9,ENVY,neon
+americas_stage_1,HAVEN,Cloud9,ENVY,viper
+americas_stage_1,HAVEN,Cloud9,ENVY,omen
+americas_stage_1,HAVEN,Cloud9,ENVY,sova
+americas_stage_1,HAVEN,Cloud9,ENVY,killjoy
+americas_stage_1,HAVEN,Sentinels,100 Thieves,neon
+americas_stage_1,HAVEN,Sentinels,100 Thieves,viper
+americas_stage_1,HAVEN,Sentinels,100 Thieves,omen
+americas_stage_1,HAVEN,Sentinels,100 Thieves,sova
+americas_stage_1,HAVEN,Sentinels,100 Thieves,killjoy
+americas_stage_1,HAVEN,MIBR,LOUD,omen
+americas_stage_1,HAVEN,MIBR,LOUD,fade
+americas_stage_1,HAVEN,MIBR,LOUD,vyse
+americas_stage_1,HAVEN,MIBR,LOUD,phoenix
+americas_stage_1,HAVEN,MIBR,LOUD,jett
+americas_stage_1,PEARL,ENVY,LOUD,sova
+americas_stage_1,PEARL,ENVY,LOUD,astra
+americas_stage_1,PEARL,ENVY,LOUD,tejo
+americas_stage_1,PEARL,ENVY,LOUD,veto
+americas_stage_1,PEARL,ENVY,LOUD,waylay
+americas_stage_1,PEARL,ENVY,Cloud9,neon
+americas_stage_1,PEARL,ENVY,Cloud9,sova
+americas_stage_1,PEARL,ENVY,Cloud9,astra
+americas_stage_1,PEARL,ENVY,Cloud9,phoenix
+americas_stage_1,PEARL,ENVY,Cloud9,chamber
+americas_stage_1,PEARL,G2 Esports,LOUD,neon
+americas_stage_1,PEARL,G2 Esports,LOUD,sova
+americas_stage_1,PEARL,G2 Esports,LOUD,vyse
+americas_stage_1,PEARL,G2 Esports,LOUD,astra
+americas_stage_1,PEARL,G2 Esports,LOUD,harbor
+americas_stage_1,PEARL,LOUD,ENVY,neon
+americas_stage_1,PEARL,LOUD,ENVY,sova
+americas_stage_1,PEARL,LOUD,ENVY,astra
+americas_stage_1,PEARL,LOUD,ENVY,chamber
+americas_stage_1,PEARL,LOUD,ENVY,kayo
+americas_stage_1,PEARL,LOUD,G2 Esports,neon
+americas_stage_1,PEARL,LOUD,G2 Esports,sova
+americas_stage_1,PEARL,LOUD,G2 Esports,astra
+americas_stage_1,PEARL,LOUD,G2 Esports,chamber
+americas_stage_1,PEARL,LOUD,G2 Esports,kayo
+americas_stage_1,PEARL,LEVIATÁN,Cloud9,neon
+americas_stage_1,PEARL,LEVIATÁN,Cloud9,sova
+americas_stage_1,PEARL,LEVIATÁN,Cloud9,astra
+americas_stage_1,PEARL,LEVIATÁN,Cloud9,phoenix
+americas_stage_1,PEARL,LEVIATÁN,Cloud9,chamber
+americas_stage_1,PEARL,FURIA,NRG,neon
+americas_stage_1,PEARL,FURIA,NRG,fade
+americas_stage_1,PEARL,FURIA,NRG,astra
+americas_stage_1,PEARL,FURIA,NRG,phoenix
+americas_stage_1,PEARL,FURIA,NRG,killjoy
+americas_stage_1,PEARL,FURIA,Evil Geniuses,neon
+americas_stage_1,PEARL,FURIA,Evil Geniuses,fade
+americas_stage_1,PEARL,FURIA,Evil Geniuses,astra
+americas_stage_1,PEARL,FURIA,Evil Geniuses,phoenix
+americas_stage_1,PEARL,FURIA,Evil Geniuses,killjoy
+americas_stage_1,PEARL,100 Thieves,NRG,neon
+americas_stage_1,PEARL,100 Thieves,NRG,fade
+americas_stage_1,PEARL,100 Thieves,NRG,astra
+americas_stage_1,PEARL,100 Thieves,NRG,phoenix
+americas_stage_1,PEARL,100 Thieves,NRG,chamber
+americas_stage_1,PEARL,Evil Geniuses,FURIA,neon
+americas_stage_1,PEARL,Evil Geniuses,FURIA,sova
+americas_stage_1,PEARL,Evil Geniuses,FURIA,astra
+americas_stage_1,PEARL,Evil Geniuses,FURIA,killjoy
+americas_stage_1,PEARL,Evil Geniuses,FURIA,waylay
+americas_stage_1,PEARL,Cloud9,LEVIATÁN,neon
+americas_stage_1,PEARL,Cloud9,LEVIATÁN,astra
+americas_stage_1,PEARL,Cloud9,LEVIATÁN,chamber
+americas_stage_1,PEARL,Cloud9,LEVIATÁN,skye
+americas_stage_1,PEARL,Cloud9,LEVIATÁN,tejo
+americas_stage_1,PEARL,Cloud9,ENVY,neon
+americas_stage_1,PEARL,Cloud9,ENVY,vyse
+americas_stage_1,PEARL,Cloud9,ENVY,astra
+americas_stage_1,PEARL,Cloud9,ENVY,skye
+americas_stage_1,PEARL,Cloud9,ENVY,tejo
+americas_stage_1,PEARL,NRG,FURIA,sova
+americas_stage_1,PEARL,NRG,FURIA,astra
+americas_stage_1,PEARL,NRG,FURIA,killjoy
+americas_stage_1,PEARL,NRG,FURIA,tejo
+americas_stage_1,PEARL,NRG,FURIA,waylay
+americas_stage_1,PEARL,NRG,100 Thieves,neon
+americas_stage_1,PEARL,NRG,100 Thieves,sova
+americas_stage_1,PEARL,NRG,100 Thieves,astra
+americas_stage_1,PEARL,NRG,100 Thieves,killjoy
+americas_stage_1,PEARL,NRG,100 Thieves,tejo
+americas_stage_1,BIND,ENVY,LEVIATÁN,neon
+americas_stage_1,BIND,ENVY,LEVIATÁN,viper
+americas_stage_1,BIND,ENVY,LEVIATÁN,chamber
+americas_stage_1,BIND,ENVY,LEVIATÁN,skye
+americas_stage_1,BIND,ENVY,LEVIATÁN,brimstone
+americas_stage_1,BIND,G2 Esports,LEVIATÁN,viper
+americas_stage_1,BIND,G2 Esports,LEVIATÁN,fade
+americas_stage_1,BIND,G2 Esports,LEVIATÁN,vyse
+americas_stage_1,BIND,G2 Esports,LEVIATÁN,raze
+americas_stage_1,BIND,G2 Esports,LEVIATÁN,brimstone
+americas_stage_1,BIND,LEVIATÁN,G2 Esports,neon
+americas_stage_1,BIND,LEVIATÁN,G2 Esports,viper
+americas_stage_1,BIND,LEVIATÁN,G2 Esports,phoenix
+americas_stage_1,BIND,LEVIATÁN,G2 Esports,skye
+americas_stage_1,BIND,LEVIATÁN,G2 Esports,brimstone
+americas_stage_1,BIND,LEVIATÁN,ENVY,neon
+americas_stage_1,BIND,LEVIATÁN,ENVY,viper
+americas_stage_1,BIND,LEVIATÁN,ENVY,phoenix
+americas_stage_1,BIND,LEVIATÁN,ENVY,skye
+americas_stage_1,BIND,LEVIATÁN,ENVY,brimstone
+americas_stage_1,FRACTURE,ENVY,LEVIATÁN,neon
+americas_stage_1,FRACTURE,ENVY,LEVIATÁN,skye
+americas_stage_1,FRACTURE,ENVY,LEVIATÁN,brimstone
+americas_stage_1,FRACTURE,ENVY,LEVIATÁN,veto
+americas_stage_1,FRACTURE,ENVY,LEVIATÁN,breach
+americas_stage_1,FRACTURE,LEVIATÁN,ENVY,neon
+americas_stage_1,FRACTURE,LEVIATÁN,ENVY,tejo
+americas_stage_1,FRACTURE,LEVIATÁN,ENVY,brimstone
+americas_stage_1,FRACTURE,LEVIATÁN,ENVY,waylay
+americas_stage_1,FRACTURE,LEVIATÁN,ENVY,breach
+china_stage_1,LOTUS,All Gamers,Titan Esports Club,neon
+china_stage_1,LOTUS,All Gamers,Titan Esports Club,waylay
+china_stage_1,LOTUS,All Gamers,Titan Esports Club,omen
+china_stage_1,LOTUS,All Gamers,Titan Esports Club,cypher
+china_stage_1,LOTUS,All Gamers,Titan Esports Club,fade
+china_stage_1,LOTUS,All Gamers,JDG Esports,neon
+china_stage_1,LOTUS,All Gamers,JDG Esports,waylay
+china_stage_1,LOTUS,All Gamers,JDG Esports,omen
+china_stage_1,LOTUS,All Gamers,JDG Esports,cypher
+china_stage_1,LOTUS,All Gamers,JDG Esports,fade
+china_stage_1,LOTUS,All Gamers,Bilibili Gaming,neon
+china_stage_1,LOTUS,All Gamers,Bilibili Gaming,waylay
+china_stage_1,LOTUS,All Gamers,Bilibili Gaming,omen
+china_stage_1,LOTUS,All Gamers,Bilibili Gaming,cypher
+china_stage_1,LOTUS,All Gamers,Bilibili Gaming,fade
+china_stage_1,LOTUS,All Gamers,Xi Lai Gaming,neon
+china_stage_1,LOTUS,All Gamers,Xi Lai Gaming,waylay
+china_stage_1,LOTUS,All Gamers,Xi Lai Gaming,omen
+china_stage_1,LOTUS,All Gamers,Xi Lai Gaming,cypher
+china_stage_1,LOTUS,All Gamers,Xi Lai Gaming,fade
+china_stage_1,LOTUS,Xi Lai Gaming,Dragon Ranger Gaming,neon
+china_stage_1,LOTUS,Xi Lai Gaming,Dragon Ranger Gaming,waylay
+china_stage_1,LOTUS,Xi Lai Gaming,Dragon Ranger Gaming,viper
+china_stage_1,LOTUS,Xi Lai Gaming,Dragon Ranger Gaming,omen
+china_stage_1,LOTUS,Xi Lai Gaming,Dragon Ranger Gaming,skye
+china_stage_1,LOTUS,Xi Lai Gaming,Trace Esports,neon
+china_stage_1,LOTUS,Xi Lai Gaming,Trace Esports,waylay
+china_stage_1,LOTUS,Xi Lai Gaming,Trace Esports,viper
+china_stage_1,LOTUS,Xi Lai Gaming,Trace Esports,omen
+china_stage_1,LOTUS,Xi Lai Gaming,Trace Esports,skye
+china_stage_1,LOTUS,Xi Lai Gaming,Wolves Esports,neon
+china_stage_1,LOTUS,Xi Lai Gaming,Wolves Esports,waylay
+china_stage_1,LOTUS,Xi Lai Gaming,Wolves Esports,viper
+china_stage_1,LOTUS,Xi Lai Gaming,Wolves Esports,omen
+china_stage_1,LOTUS,Xi Lai Gaming,Wolves Esports,skye
+china_stage_1,LOTUS,Xi Lai Gaming,EDward Gaming,neon
+china_stage_1,LOTUS,Xi Lai Gaming,EDward Gaming,waylay
+china_stage_1,LOTUS,Xi Lai Gaming,EDward Gaming,viper
+china_stage_1,LOTUS,Xi Lai Gaming,EDward Gaming,omen
+china_stage_1,LOTUS,Xi Lai Gaming,EDward Gaming,skye
+china_stage_1,LOTUS,Xi Lai Gaming,All Gamers,neon
+china_stage_1,LOTUS,Xi Lai Gaming,All Gamers,waylay
+china_stage_1,LOTUS,Xi Lai Gaming,All Gamers,viper
+china_stage_1,LOTUS,Xi Lai Gaming,All Gamers,omen
+china_stage_1,LOTUS,Xi Lai Gaming,All Gamers,skye
+china_stage_1,LOTUS,EDward Gaming,Wolves Esports,omen
+china_stage_1,LOTUS,EDward Gaming,Wolves Esports,cypher
+china_stage_1,LOTUS,EDward Gaming,Wolves Esports,fade
+china_stage_1,LOTUS,EDward Gaming,Wolves Esports,phoenix
+china_stage_1,LOTUS,EDward Gaming,Wolves Esports,raze
+china_stage_1,LOTUS,EDward Gaming,Trace Esports,omen
+china_stage_1,LOTUS,EDward Gaming,Trace Esports,cypher
+china_stage_1,LOTUS,EDward Gaming,Trace Esports,fade
+china_stage_1,LOTUS,EDward Gaming,Trace Esports,phoenix
+china_stage_1,LOTUS,EDward Gaming,Trace Esports,raze
+china_stage_1,LOTUS,EDward Gaming,Dragon Ranger Gaming,omen
+china_stage_1,LOTUS,EDward Gaming,Dragon Ranger Gaming,cypher
+china_stage_1,LOTUS,EDward Gaming,Dragon Ranger Gaming,fade
+china_stage_1,LOTUS,EDward Gaming,Dragon Ranger Gaming,phoenix
+china_stage_1,LOTUS,EDward Gaming,Dragon Ranger Gaming,raze
+china_stage_1,LOTUS,EDward Gaming,Xi Lai Gaming,omen
+china_stage_1,LOTUS,EDward Gaming,Xi Lai Gaming,cypher
+china_stage_1,LOTUS,EDward Gaming,Xi Lai Gaming,fade
+china_stage_1,LOTUS,EDward Gaming,Xi Lai Gaming,phoenix
+china_stage_1,LOTUS,EDward Gaming,Xi Lai Gaming,raze
+china_stage_1,LOTUS,Dragon Ranger Gaming,Xi Lai Gaming,neon
+china_stage_1,LOTUS,Dragon Ranger Gaming,Xi Lai Gaming,waylay
+china_stage_1,LOTUS,Dragon Ranger Gaming,Xi Lai Gaming,omen
+china_stage_1,LOTUS,Dragon Ranger Gaming,Xi Lai Gaming,skye
+china_stage_1,LOTUS,Dragon Ranger Gaming,Xi Lai Gaming,miks
+china_stage_1,LOTUS,Dragon Ranger Gaming,Wolves Esports,neon
+china_stage_1,LOTUS,Dragon Ranger Gaming,Wolves Esports,waylay
+china_stage_1,LOTUS,Dragon Ranger Gaming,Wolves Esports,omen
+china_stage_1,LOTUS,Dragon Ranger Gaming,Wolves Esports,skye
+china_stage_1,LOTUS,Dragon Ranger Gaming,Wolves Esports,cypher
+china_stage_1,LOTUS,Dragon Ranger Gaming,EDward Gaming,neon
+china_stage_1,LOTUS,Dragon Ranger Gaming,EDward Gaming,waylay
+china_stage_1,LOTUS,Dragon Ranger Gaming,EDward Gaming,omen
+china_stage_1,LOTUS,Dragon Ranger Gaming,EDward Gaming,skye
+china_stage_1,LOTUS,Dragon Ranger Gaming,EDward Gaming,cypher
+china_stage_1,LOTUS,Dragon Ranger Gaming,Trace Esports,neon
+china_stage_1,LOTUS,Dragon Ranger Gaming,Trace Esports,waylay
+china_stage_1,LOTUS,Dragon Ranger Gaming,Trace Esports,omen
+china_stage_1,LOTUS,Dragon Ranger Gaming,Trace Esports,skye
+china_stage_1,LOTUS,Dragon Ranger Gaming,Trace Esports,cypher
+china_stage_1,LOTUS,Trace Esports,Wolves Esports,viper
+china_stage_1,LOTUS,Trace Esports,Wolves Esports,omen
+china_stage_1,LOTUS,Trace Esports,Wolves Esports,fade
+china_stage_1,LOTUS,Trace Esports,Wolves Esports,raze
+china_stage_1,LOTUS,Trace Esports,Wolves Esports,veto
+china_stage_1,LOTUS,Trace Esports,Xi Lai Gaming,viper
+china_stage_1,LOTUS,Trace Esports,Xi Lai Gaming,omen
+china_stage_1,LOTUS,Trace Esports,Xi Lai Gaming,fade
+china_stage_1,LOTUS,Trace Esports,Xi Lai Gaming,raze
+china_stage_1,LOTUS,Trace Esports,Xi Lai Gaming,veto
+china_stage_1,LOTUS,Trace Esports,EDward Gaming,viper
+china_stage_1,LOTUS,Trace Esports,EDward Gaming,omen
+china_stage_1,LOTUS,Trace Esports,EDward Gaming,fade
+china_stage_1,LOTUS,Trace Esports,EDward Gaming,raze
+china_stage_1,LOTUS,Trace Esports,EDward Gaming,veto
+china_stage_1,LOTUS,Trace Esports,Nova Esports,waylay
+china_stage_1,LOTUS,Trace Esports,Nova Esports,viper
+china_stage_1,LOTUS,Trace Esports,Nova Esports,omen
+china_stage_1,LOTUS,Trace Esports,Nova Esports,fade
+china_stage_1,LOTUS,Trace Esports,Nova Esports,killjoy
+china_stage_1,LOTUS,Trace Esports,Dragon Ranger Gaming,neon
+china_stage_1,LOTUS,Trace Esports,Dragon Ranger Gaming,waylay
+china_stage_1,LOTUS,Trace Esports,Dragon Ranger Gaming,omen
+china_stage_1,LOTUS,Trace Esports,Dragon Ranger Gaming,fade
+china_stage_1,LOTUS,Trace Esports,Dragon Ranger Gaming,vyse
+china_stage_1,LOTUS,Titan Esports Club,All Gamers,neon
+china_stage_1,LOTUS,Titan Esports Club,All Gamers,waylay
+china_stage_1,LOTUS,Titan Esports Club,All Gamers,viper
+china_stage_1,LOTUS,Titan Esports Club,All Gamers,omen
+china_stage_1,LOTUS,Titan Esports Club,All Gamers,fade
+china_stage_1,LOTUS,JDG Esports,FunPlus Phoenix,viper
+china_stage_1,LOTUS,JDG Esports,FunPlus Phoenix,omen
+china_stage_1,LOTUS,JDG Esports,FunPlus Phoenix,fade
+china_stage_1,LOTUS,JDG Esports,FunPlus Phoenix,killjoy
+china_stage_1,LOTUS,JDG Esports,FunPlus Phoenix,raze
+china_stage_1,LOTUS,JDG Esports,All Gamers,viper
+china_stage_1,LOTUS,JDG Esports,All Gamers,omen
+china_stage_1,LOTUS,JDG Esports,All Gamers,fade
+china_stage_1,LOTUS,JDG Esports,All Gamers,killjoy
+china_stage_1,LOTUS,JDG Esports,All Gamers,raze
+china_stage_1,LOTUS,FunPlus Phoenix,JDG Esports,neon
+china_stage_1,LOTUS,FunPlus Phoenix,JDG Esports,waylay
+china_stage_1,LOTUS,FunPlus Phoenix,JDG Esports,viper
+china_stage_1,LOTUS,FunPlus Phoenix,JDG Esports,omen
+china_stage_1,LOTUS,FunPlus Phoenix,JDG Esports,fade
+china_stage_1,LOTUS,FunPlus Phoenix,Bilibili Gaming,neon
+china_stage_1,LOTUS,FunPlus Phoenix,Bilibili Gaming,waylay
+china_stage_1,LOTUS,FunPlus Phoenix,Bilibili Gaming,viper
+china_stage_1,LOTUS,FunPlus Phoenix,Bilibili Gaming,omen
+china_stage_1,LOTUS,FunPlus Phoenix,Bilibili Gaming,fade
+china_stage_1,LOTUS,Bilibili Gaming,FunPlus Phoenix,viper
+china_stage_1,LOTUS,Bilibili Gaming,FunPlus Phoenix,omen
+china_stage_1,LOTUS,Bilibili Gaming,FunPlus Phoenix,fade
+china_stage_1,LOTUS,Bilibili Gaming,FunPlus Phoenix,killjoy
+china_stage_1,LOTUS,Bilibili Gaming,FunPlus Phoenix,raze
+china_stage_1,LOTUS,Bilibili Gaming,All Gamers,viper
+china_stage_1,LOTUS,Bilibili Gaming,All Gamers,omen
+china_stage_1,LOTUS,Bilibili Gaming,All Gamers,fade
+china_stage_1,LOTUS,Bilibili Gaming,All Gamers,killjoy
+china_stage_1,LOTUS,Bilibili Gaming,All Gamers,raze
+china_stage_1,LOTUS,Wolves Esports,Trace Esports,waylay
+china_stage_1,LOTUS,Wolves Esports,Trace Esports,viper
+china_stage_1,LOTUS,Wolves Esports,Trace Esports,omen
+china_stage_1,LOTUS,Wolves Esports,Trace Esports,fade
+china_stage_1,LOTUS,Wolves Esports,Trace Esports,killjoy
+china_stage_1,LOTUS,Wolves Esports,EDward Gaming,waylay
+china_stage_1,LOTUS,Wolves Esports,EDward Gaming,viper
+china_stage_1,LOTUS,Wolves Esports,EDward Gaming,omen
+china_stage_1,LOTUS,Wolves Esports,EDward Gaming,fade
+china_stage_1,LOTUS,Wolves Esports,EDward Gaming,killjoy
+china_stage_1,LOTUS,Wolves Esports,Dragon Ranger Gaming,waylay
+china_stage_1,LOTUS,Wolves Esports,Dragon Ranger Gaming,viper
+china_stage_1,LOTUS,Wolves Esports,Dragon Ranger Gaming,omen
+china_stage_1,LOTUS,Wolves Esports,Dragon Ranger Gaming,fade
+china_stage_1,LOTUS,Wolves Esports,Dragon Ranger Gaming,killjoy
+china_stage_1,LOTUS,Wolves Esports,Xi Lai Gaming,waylay
+china_stage_1,LOTUS,Wolves Esports,Xi Lai Gaming,viper
+china_stage_1,LOTUS,Wolves Esports,Xi Lai Gaming,omen
+china_stage_1,LOTUS,Wolves Esports,Xi Lai Gaming,fade
+china_stage_1,LOTUS,Wolves Esports,Xi Lai Gaming,killjoy
+china_stage_1,LOTUS,Wolves Esports,Nova Esports,neon
+china_stage_1,LOTUS,Wolves Esports,Nova Esports,omen
+china_stage_1,LOTUS,Wolves Esports,Nova Esports,fade
+china_stage_1,LOTUS,Wolves Esports,Nova Esports,raze
+china_stage_1,LOTUS,Wolves Esports,Nova Esports,vyse
+china_stage_1,LOTUS,Nova Esports,Trace Esports,neon
+china_stage_1,LOTUS,Nova Esports,Trace Esports,viper
+china_stage_1,LOTUS,Nova Esports,Trace Esports,omen
+china_stage_1,LOTUS,Nova Esports,Trace Esports,cypher
+china_stage_1,LOTUS,Nova Esports,Trace Esports,fade
+china_stage_1,LOTUS,Nova Esports,Wolves Esports,neon
+china_stage_1,LOTUS,Nova Esports,Wolves Esports,viper
+china_stage_1,LOTUS,Nova Esports,Wolves Esports,omen
+china_stage_1,LOTUS,Nova Esports,Wolves Esports,cypher
+china_stage_1,LOTUS,Nova Esports,Wolves Esports,fade
+china_stage_1,BIND,All Gamers,Titan Esports Club,waylay
+china_stage_1,BIND,All Gamers,Titan Esports Club,viper
+china_stage_1,BIND,All Gamers,Titan Esports Club,skye
+china_stage_1,BIND,All Gamers,Titan Esports Club,brimstone
+china_stage_1,BIND,All Gamers,Titan Esports Club,gekko
+china_stage_1,BIND,All Gamers,TYLOO,neon
+china_stage_1,BIND,All Gamers,TYLOO,waylay
+china_stage_1,BIND,All Gamers,TYLOO,viper
+china_stage_1,BIND,All Gamers,TYLOO,skye
+china_stage_1,BIND,All Gamers,TYLOO,brimstone
+china_stage_1,BIND,All Gamers,Bilibili Gaming,neon
+china_stage_1,BIND,All Gamers,Bilibili Gaming,waylay
+china_stage_1,BIND,All Gamers,Bilibili Gaming,viper
+china_stage_1,BIND,All Gamers,Bilibili Gaming,skye
+china_stage_1,BIND,All Gamers,Bilibili Gaming,brimstone
+china_stage_1,BIND,All Gamers,Xi Lai Gaming,neon
+china_stage_1,BIND,All Gamers,Xi Lai Gaming,waylay
+china_stage_1,BIND,All Gamers,Xi Lai Gaming,viper
+china_stage_1,BIND,All Gamers,Xi Lai Gaming,skye
+china_stage_1,BIND,All Gamers,Xi Lai Gaming,brimstone
+china_stage_1,BIND,Xi Lai Gaming,Dragon Ranger Gaming,neon
+china_stage_1,BIND,Xi Lai Gaming,Dragon Ranger Gaming,waylay
+china_stage_1,BIND,Xi Lai Gaming,Dragon Ranger Gaming,viper
+china_stage_1,BIND,Xi Lai Gaming,Dragon Ranger Gaming,skye
+china_stage_1,BIND,Xi Lai Gaming,Dragon Ranger Gaming,brimstone
+china_stage_1,BIND,Xi Lai Gaming,Trace Esports,neon
+china_stage_1,BIND,Xi Lai Gaming,Trace Esports,waylay
+china_stage_1,BIND,Xi Lai Gaming,Trace Esports,viper
+china_stage_1,BIND,Xi Lai Gaming,Trace Esports,skye
+china_stage_1,BIND,Xi Lai Gaming,Trace Esports,brimstone
+china_stage_1,BIND,Xi Lai Gaming,Nova Esports,neon
+china_stage_1,BIND,Xi Lai Gaming,Nova Esports,waylay
+china_stage_1,BIND,Xi Lai Gaming,Nova Esports,viper
+china_stage_1,BIND,Xi Lai Gaming,Nova Esports,skye
+china_stage_1,BIND,Xi Lai Gaming,Nova Esports,brimstone
+china_stage_1,BIND,Xi Lai Gaming,Wolves Esports,neon
+china_stage_1,BIND,Xi Lai Gaming,Wolves Esports,waylay
+china_stage_1,BIND,Xi Lai Gaming,Wolves Esports,viper
+china_stage_1,BIND,Xi Lai Gaming,Wolves Esports,skye
+china_stage_1,BIND,Xi Lai Gaming,Wolves Esports,brimstone
+china_stage_1,BIND,Xi Lai Gaming,All Gamers,neon
+china_stage_1,BIND,Xi Lai Gaming,All Gamers,waylay
+china_stage_1,BIND,Xi Lai Gaming,All Gamers,viper
+china_stage_1,BIND,Xi Lai Gaming,All Gamers,skye
+china_stage_1,BIND,Xi Lai Gaming,All Gamers,brimstone
+china_stage_1,BIND,EDward Gaming,JDG Esports,waylay
+china_stage_1,BIND,EDward Gaming,JDG Esports,viper
+china_stage_1,BIND,EDward Gaming,JDG Esports,brimstone
+china_stage_1,BIND,EDward Gaming,JDG Esports,kayo
+china_stage_1,BIND,EDward Gaming,JDG Esports,gekko
+china_stage_1,BIND,Dragon Ranger Gaming,Xi Lai Gaming,neon
+china_stage_1,BIND,Dragon Ranger Gaming,Xi Lai Gaming,waylay
+china_stage_1,BIND,Dragon Ranger Gaming,Xi Lai Gaming,skye
+china_stage_1,BIND,Dragon Ranger Gaming,Xi Lai Gaming,brimstone
+china_stage_1,BIND,Dragon Ranger Gaming,Xi Lai Gaming,miks
+china_stage_1,BIND,Dragon Ranger Gaming,Trace Esports,neon
+china_stage_1,BIND,Dragon Ranger Gaming,Trace Esports,waylay
+china_stage_1,BIND,Dragon Ranger Gaming,Trace Esports,skye
+china_stage_1,BIND,Dragon Ranger Gaming,Trace Esports,brimstone
+china_stage_1,BIND,Dragon Ranger Gaming,Trace Esports,cypher
+china_stage_1,BIND,Trace Esports,Wolves Esports,neon
+china_stage_1,BIND,Trace Esports,Wolves Esports,waylay
+china_stage_1,BIND,Trace Esports,Wolves Esports,viper
+china_stage_1,BIND,Trace Esports,Wolves Esports,skye
+china_stage_1,BIND,Trace Esports,Wolves Esports,brimstone
+china_stage_1,BIND,Trace Esports,Xi Lai Gaming,neon
+china_stage_1,BIND,Trace Esports,Xi Lai Gaming,waylay
+china_stage_1,BIND,Trace Esports,Xi Lai Gaming,viper
+china_stage_1,BIND,Trace Esports,Xi Lai Gaming,skye
+china_stage_1,BIND,Trace Esports,Xi Lai Gaming,brimstone
+china_stage_1,BIND,Trace Esports,Dragon Ranger Gaming,neon
+china_stage_1,BIND,Trace Esports,Dragon Ranger Gaming,waylay
+china_stage_1,BIND,Trace Esports,Dragon Ranger Gaming,viper
+china_stage_1,BIND,Trace Esports,Dragon Ranger Gaming,skye
+china_stage_1,BIND,Trace Esports,Dragon Ranger Gaming,brimstone
+china_stage_1,BIND,TYLOO,Bilibili Gaming,neon
+china_stage_1,BIND,TYLOO,Bilibili Gaming,waylay
+china_stage_1,BIND,TYLOO,Bilibili Gaming,viper
+china_stage_1,BIND,TYLOO,Bilibili Gaming,skye
+china_stage_1,BIND,TYLOO,Bilibili Gaming,brimstone
+china_stage_1,BIND,TYLOO,FunPlus Phoenix,neon
+china_stage_1,BIND,TYLOO,FunPlus Phoenix,waylay
+china_stage_1,BIND,TYLOO,FunPlus Phoenix,viper
+china_stage_1,BIND,TYLOO,FunPlus Phoenix,skye
+china_stage_1,BIND,TYLOO,FunPlus Phoenix,brimstone
+china_stage_1,BIND,TYLOO,All Gamers,neon
+china_stage_1,BIND,TYLOO,All Gamers,waylay
+china_stage_1,BIND,TYLOO,All Gamers,viper
+china_stage_1,BIND,TYLOO,All Gamers,skye
+china_stage_1,BIND,TYLOO,All Gamers,brimstone
+china_stage_1,BIND,TYLOO,JDG Esports,neon
+china_stage_1,BIND,TYLOO,JDG Esports,waylay
+china_stage_1,BIND,TYLOO,JDG Esports,viper
+china_stage_1,BIND,TYLOO,JDG Esports,skye
+china_stage_1,BIND,TYLOO,JDG Esports,brimstone
+china_stage_1,BIND,Titan Esports Club,All Gamers,neon
+china_stage_1,BIND,Titan Esports Club,All Gamers,waylay
+china_stage_1,BIND,Titan Esports Club,All Gamers,viper
+china_stage_1,BIND,Titan Esports Club,All Gamers,skye
+china_stage_1,BIND,Titan Esports Club,All Gamers,brimstone
+china_stage_1,BIND,JDG Esports,TYLOO,neon
+china_stage_1,BIND,JDG Esports,TYLOO,waylay
+china_stage_1,BIND,JDG Esports,TYLOO,omen
+china_stage_1,BIND,JDG Esports,TYLOO,skye
+china_stage_1,BIND,JDG Esports,TYLOO,brimstone
+china_stage_1,BIND,JDG Esports,EDward Gaming,neon
+china_stage_1,BIND,JDG Esports,EDward Gaming,waylay
+china_stage_1,BIND,JDG Esports,EDward Gaming,omen
+china_stage_1,BIND,JDG Esports,EDward Gaming,skye
+china_stage_1,BIND,JDG Esports,EDward Gaming,brimstone
+china_stage_1,BIND,FunPlus Phoenix,TYLOO,neon
+china_stage_1,BIND,FunPlus Phoenix,TYLOO,waylay
+china_stage_1,BIND,FunPlus Phoenix,TYLOO,viper
+china_stage_1,BIND,FunPlus Phoenix,TYLOO,skye
+china_stage_1,BIND,FunPlus Phoenix,TYLOO,brimstone
+china_stage_1,BIND,Bilibili Gaming,TYLOO,neon
+china_stage_1,BIND,Bilibili Gaming,TYLOO,waylay
+china_stage_1,BIND,Bilibili Gaming,TYLOO,viper
+china_stage_1,BIND,Bilibili Gaming,TYLOO,skye
+china_stage_1,BIND,Bilibili Gaming,TYLOO,astra
+china_stage_1,BIND,Bilibili Gaming,All Gamers,viper
+china_stage_1,BIND,Bilibili Gaming,All Gamers,brimstone
+china_stage_1,BIND,Bilibili Gaming,All Gamers,fade
+china_stage_1,BIND,Bilibili Gaming,All Gamers,raze
+china_stage_1,BIND,Bilibili Gaming,All Gamers,kayo
+china_stage_1,BIND,Wolves Esports,Trace Esports,waylay
+china_stage_1,BIND,Wolves Esports,Trace Esports,viper
+china_stage_1,BIND,Wolves Esports,Trace Esports,skye
+china_stage_1,BIND,Wolves Esports,Trace Esports,brimstone
+china_stage_1,BIND,Wolves Esports,Trace Esports,tejo
+china_stage_1,BIND,Wolves Esports,Xi Lai Gaming,neon
+china_stage_1,BIND,Wolves Esports,Xi Lai Gaming,viper
+china_stage_1,BIND,Wolves Esports,Xi Lai Gaming,skye
+china_stage_1,BIND,Wolves Esports,Xi Lai Gaming,brimstone
+china_stage_1,BIND,Wolves Esports,Xi Lai Gaming,raze
+china_stage_1,BIND,Nova Esports,Xi Lai Gaming,neon
+china_stage_1,BIND,Nova Esports,Xi Lai Gaming,viper
+china_stage_1,BIND,Nova Esports,Xi Lai Gaming,skye
+china_stage_1,BIND,Nova Esports,Xi Lai Gaming,brimstone
+china_stage_1,BIND,Nova Esports,Xi Lai Gaming,chamber
+china_stage_1,BREEZE,All Gamers,Titan Esports Club,neon
+china_stage_1,BREEZE,All Gamers,Titan Esports Club,waylay
+china_stage_1,BREEZE,All Gamers,Titan Esports Club,viper
+china_stage_1,BREEZE,All Gamers,Titan Esports Club,sova
+china_stage_1,BREEZE,All Gamers,Titan Esports Club,astra
+china_stage_1,BREEZE,All Gamers,TYLOO,neon
+china_stage_1,BREEZE,All Gamers,TYLOO,waylay
+china_stage_1,BREEZE,All Gamers,TYLOO,viper
+china_stage_1,BREEZE,All Gamers,TYLOO,sova
+china_stage_1,BREEZE,All Gamers,TYLOO,astra
+china_stage_1,BREEZE,Xi Lai Gaming,Trace Esports,neon
+china_stage_1,BREEZE,Xi Lai Gaming,Trace Esports,viper
+china_stage_1,BREEZE,Xi Lai Gaming,Trace Esports,sova
+china_stage_1,BREEZE,Xi Lai Gaming,Trace Esports,chamber
+china_stage_1,BREEZE,Xi Lai Gaming,Trace Esports,sage
+china_stage_1,BREEZE,EDward Gaming,Nova Esports,viper
+china_stage_1,BREEZE,EDward Gaming,Nova Esports,sova
+china_stage_1,BREEZE,EDward Gaming,Nova Esports,jett
+china_stage_1,BREEZE,EDward Gaming,Nova Esports,kayo
+china_stage_1,BREEZE,EDward Gaming,Nova Esports,harbor
+china_stage_1,BREEZE,EDward Gaming,Dragon Ranger Gaming,viper
+china_stage_1,BREEZE,EDward Gaming,Dragon Ranger Gaming,sova
+china_stage_1,BREEZE,EDward Gaming,Dragon Ranger Gaming,jett
+china_stage_1,BREEZE,EDward Gaming,Dragon Ranger Gaming,kayo
+china_stage_1,BREEZE,EDward Gaming,Dragon Ranger Gaming,harbor
+china_stage_1,BREEZE,Dragon Ranger Gaming,Nova Esports,neon
+china_stage_1,BREEZE,Dragon Ranger Gaming,Nova Esports,waylay
+china_stage_1,BREEZE,Dragon Ranger Gaming,Nova Esports,omen
+china_stage_1,BREEZE,Dragon Ranger Gaming,Nova Esports,skye
+china_stage_1,BREEZE,Dragon Ranger Gaming,Nova Esports,astra
+china_stage_1,BREEZE,Dragon Ranger Gaming,Wolves Esports,neon
+china_stage_1,BREEZE,Dragon Ranger Gaming,Wolves Esports,waylay
+china_stage_1,BREEZE,Dragon Ranger Gaming,Wolves Esports,omen
+china_stage_1,BREEZE,Dragon Ranger Gaming,Wolves Esports,skye
+china_stage_1,BREEZE,Dragon Ranger Gaming,Wolves Esports,astra
+china_stage_1,BREEZE,Dragon Ranger Gaming,EDward Gaming,neon
+china_stage_1,BREEZE,Dragon Ranger Gaming,EDward Gaming,waylay
+china_stage_1,BREEZE,Dragon Ranger Gaming,EDward Gaming,omen
+china_stage_1,BREEZE,Dragon Ranger Gaming,EDward Gaming,skye
+china_stage_1,BREEZE,Dragon Ranger Gaming,EDward Gaming,astra
+china_stage_1,BREEZE,Dragon Ranger Gaming,Trace Esports,neon
+china_stage_1,BREEZE,Dragon Ranger Gaming,Trace Esports,waylay
+china_stage_1,BREEZE,Dragon Ranger Gaming,Trace Esports,viper
+china_stage_1,BREEZE,Dragon Ranger Gaming,Trace Esports,skye
+china_stage_1,BREEZE,Dragon Ranger Gaming,Trace Esports,astra
+china_stage_1,BREEZE,Dragon Ranger Gaming,TYLOO,neon
+china_stage_1,BREEZE,Dragon Ranger Gaming,TYLOO,waylay
+china_stage_1,BREEZE,Dragon Ranger Gaming,TYLOO,viper
+china_stage_1,BREEZE,Dragon Ranger Gaming,TYLOO,skye
+china_stage_1,BREEZE,Dragon Ranger Gaming,TYLOO,astra
+china_stage_1,BREEZE,Trace Esports,Xi Lai Gaming,viper
+china_stage_1,BREEZE,Trace Esports,Xi Lai Gaming,omen
+china_stage_1,BREEZE,Trace Esports,Xi Lai Gaming,sova
+china_stage_1,BREEZE,Trace Esports,Xi Lai Gaming,phoenix
+china_stage_1,BREEZE,Trace Esports,Xi Lai Gaming,jett
+china_stage_1,BREEZE,Trace Esports,Dragon Ranger Gaming,viper
+china_stage_1,BREEZE,Trace Esports,Dragon Ranger Gaming,omen
+china_stage_1,BREEZE,Trace Esports,Dragon Ranger Gaming,sova
+china_stage_1,BREEZE,Trace Esports,Dragon Ranger Gaming,phoenix
+china_stage_1,BREEZE,Trace Esports,Dragon Ranger Gaming,jett
+china_stage_1,BREEZE,Trace Esports,Titan Esports Club,viper
+china_stage_1,BREEZE,Trace Esports,Titan Esports Club,omen
+china_stage_1,BREEZE,Trace Esports,Titan Esports Club,sova
+china_stage_1,BREEZE,Trace Esports,Titan Esports Club,phoenix
+china_stage_1,BREEZE,Trace Esports,Titan Esports Club,jett
+china_stage_1,BREEZE,TYLOO,Bilibili Gaming,viper
+china_stage_1,BREEZE,TYLOO,Bilibili Gaming,sova
+china_stage_1,BREEZE,TYLOO,Bilibili Gaming,astra
+china_stage_1,BREEZE,TYLOO,Bilibili Gaming,jett
+china_stage_1,BREEZE,TYLOO,Bilibili Gaming,kayo
+china_stage_1,BREEZE,TYLOO,All Gamers,viper
+china_stage_1,BREEZE,TYLOO,All Gamers,sova
+china_stage_1,BREEZE,TYLOO,All Gamers,astra
+china_stage_1,BREEZE,TYLOO,All Gamers,jett
+china_stage_1,BREEZE,TYLOO,All Gamers,kayo
+china_stage_1,BREEZE,TYLOO,Dragon Ranger Gaming,viper
+china_stage_1,BREEZE,TYLOO,Dragon Ranger Gaming,sova
+china_stage_1,BREEZE,TYLOO,Dragon Ranger Gaming,astra
+china_stage_1,BREEZE,TYLOO,Dragon Ranger Gaming,jett
+china_stage_1,BREEZE,TYLOO,Dragon Ranger Gaming,kayo
+china_stage_1,BREEZE,Titan Esports Club,All Gamers,neon
+china_stage_1,BREEZE,Titan Esports Club,All Gamers,waylay
+china_stage_1,BREEZE,Titan Esports Club,All Gamers,viper
+china_stage_1,BREEZE,Titan Esports Club,All Gamers,sova
+china_stage_1,BREEZE,Titan Esports Club,All Gamers,astra
+china_stage_1,BREEZE,Titan Esports Club,Bilibili Gaming,neon
+china_stage_1,BREEZE,Titan Esports Club,Bilibili Gaming,waylay
+china_stage_1,BREEZE,Titan Esports Club,Bilibili Gaming,viper
+china_stage_1,BREEZE,Titan Esports Club,Bilibili Gaming,sova
+china_stage_1,BREEZE,Titan Esports Club,Bilibili Gaming,astra
+china_stage_1,BREEZE,Titan Esports Club,Trace Esports,neon
+china_stage_1,BREEZE,Titan Esports Club,Trace Esports,waylay
+china_stage_1,BREEZE,Titan Esports Club,Trace Esports,viper
+china_stage_1,BREEZE,Titan Esports Club,Trace Esports,sova
+china_stage_1,BREEZE,Titan Esports Club,Trace Esports,harbor
+china_stage_1,BREEZE,Bilibili Gaming,TYLOO,neon
+china_stage_1,BREEZE,Bilibili Gaming,TYLOO,viper
+china_stage_1,BREEZE,Bilibili Gaming,TYLOO,omen
+china_stage_1,BREEZE,Bilibili Gaming,TYLOO,skye
+china_stage_1,BREEZE,Bilibili Gaming,TYLOO,chamber
+china_stage_1,BREEZE,Bilibili Gaming,Titan Esports Club,neon
+china_stage_1,BREEZE,Bilibili Gaming,Titan Esports Club,viper
+china_stage_1,BREEZE,Bilibili Gaming,Titan Esports Club,sova
+china_stage_1,BREEZE,Bilibili Gaming,Titan Esports Club,astra
+china_stage_1,BREEZE,Bilibili Gaming,Titan Esports Club,jett
+china_stage_1,BREEZE,Wolves Esports,Dragon Ranger Gaming,viper
+china_stage_1,BREEZE,Wolves Esports,Dragon Ranger Gaming,sova
+china_stage_1,BREEZE,Wolves Esports,Dragon Ranger Gaming,astra
+china_stage_1,BREEZE,Wolves Esports,Dragon Ranger Gaming,jett
+china_stage_1,BREEZE,Wolves Esports,Dragon Ranger Gaming,kayo
+china_stage_1,BREEZE,Nova Esports,EDward Gaming,neon
+china_stage_1,BREEZE,Nova Esports,EDward Gaming,viper
+china_stage_1,BREEZE,Nova Esports,EDward Gaming,omen
+china_stage_1,BREEZE,Nova Esports,EDward Gaming,sova
+china_stage_1,BREEZE,Nova Esports,EDward Gaming,jett
+china_stage_1,BREEZE,Nova Esports,Dragon Ranger Gaming,neon
+china_stage_1,BREEZE,Nova Esports,Dragon Ranger Gaming,viper
+china_stage_1,BREEZE,Nova Esports,Dragon Ranger Gaming,omen
+china_stage_1,BREEZE,Nova Esports,Dragon Ranger Gaming,sova
+china_stage_1,BREEZE,Nova Esports,Dragon Ranger Gaming,jett
+china_stage_1,FRACTURE,Xi Lai Gaming,Wolves Esports,neon
+china_stage_1,FRACTURE,Xi Lai Gaming,Wolves Esports,skye
+china_stage_1,FRACTURE,Xi Lai Gaming,Wolves Esports,brimstone
+china_stage_1,FRACTURE,Xi Lai Gaming,Wolves Esports,tejo
+china_stage_1,FRACTURE,Xi Lai Gaming,Wolves Esports,veto
+china_stage_1,FRACTURE,EDward Gaming,Nova Esports,neon
+china_stage_1,FRACTURE,EDward Gaming,Nova Esports,waylay
+china_stage_1,FRACTURE,EDward Gaming,Nova Esports,skye
+china_stage_1,FRACTURE,EDward Gaming,Nova Esports,brimstone
+china_stage_1,FRACTURE,EDward Gaming,Nova Esports,cypher
+china_stage_1,FRACTURE,EDward Gaming,Wolves Esports,neon
+china_stage_1,FRACTURE,EDward Gaming,Wolves Esports,waylay
+china_stage_1,FRACTURE,EDward Gaming,Wolves Esports,skye
+china_stage_1,FRACTURE,EDward Gaming,Wolves Esports,brimstone
+china_stage_1,FRACTURE,EDward Gaming,Wolves Esports,cypher
+china_stage_1,FRACTURE,EDward Gaming,JDG Esports,neon
+china_stage_1,FRACTURE,EDward Gaming,JDG Esports,waylay
+china_stage_1,FRACTURE,EDward Gaming,JDG Esports,skye
+china_stage_1,FRACTURE,EDward Gaming,JDG Esports,brimstone
+china_stage_1,FRACTURE,EDward Gaming,JDG Esports,cypher
+china_stage_1,FRACTURE,Trace Esports,Titan Esports Club,neon
+china_stage_1,FRACTURE,Trace Esports,Titan Esports Club,brimstone
+china_stage_1,FRACTURE,Trace Esports,Titan Esports Club,cypher
+china_stage_1,FRACTURE,Trace Esports,Titan Esports Club,tejo
+china_stage_1,FRACTURE,Trace Esports,Titan Esports Club,breach
+china_stage_1,FRACTURE,TYLOO,Titan Esports Club,neon
+china_stage_1,FRACTURE,TYLOO,Titan Esports Club,brimstone
+china_stage_1,FRACTURE,TYLOO,Titan Esports Club,cypher
+china_stage_1,FRACTURE,TYLOO,Titan Esports Club,phoenix
+china_stage_1,FRACTURE,TYLOO,Titan Esports Club,tejo
+china_stage_1,FRACTURE,Titan Esports Club,TYLOO,neon
+china_stage_1,FRACTURE,Titan Esports Club,TYLOO,waylay
+china_stage_1,FRACTURE,Titan Esports Club,TYLOO,skye
+china_stage_1,FRACTURE,Titan Esports Club,TYLOO,brimstone
+china_stage_1,FRACTURE,Titan Esports Club,TYLOO,cypher
+china_stage_1,FRACTURE,Titan Esports Club,Bilibili Gaming,neon
+china_stage_1,FRACTURE,Titan Esports Club,Bilibili Gaming,waylay
+china_stage_1,FRACTURE,Titan Esports Club,Bilibili Gaming,skye
+china_stage_1,FRACTURE,Titan Esports Club,Bilibili Gaming,brimstone
+china_stage_1,FRACTURE,Titan Esports Club,Bilibili Gaming,cypher
+china_stage_1,FRACTURE,Titan Esports Club,JDG Esports,neon
+china_stage_1,FRACTURE,Titan Esports Club,JDG Esports,waylay
+china_stage_1,FRACTURE,Titan Esports Club,JDG Esports,skye
+china_stage_1,FRACTURE,Titan Esports Club,JDG Esports,brimstone
+china_stage_1,FRACTURE,Titan Esports Club,JDG Esports,cypher
+china_stage_1,FRACTURE,Titan Esports Club,FunPlus Phoenix,neon
+china_stage_1,FRACTURE,Titan Esports Club,FunPlus Phoenix,waylay
+china_stage_1,FRACTURE,Titan Esports Club,FunPlus Phoenix,skye
+china_stage_1,FRACTURE,Titan Esports Club,FunPlus Phoenix,brimstone
+china_stage_1,FRACTURE,Titan Esports Club,FunPlus Phoenix,cypher
+china_stage_1,FRACTURE,Titan Esports Club,Trace Esports,neon
+china_stage_1,FRACTURE,Titan Esports Club,Trace Esports,waylay
+china_stage_1,FRACTURE,Titan Esports Club,Trace Esports,skye
+china_stage_1,FRACTURE,Titan Esports Club,Trace Esports,brimstone
+china_stage_1,FRACTURE,Titan Esports Club,Trace Esports,cypher
+china_stage_1,FRACTURE,JDG Esports,Bilibili Gaming,neon
+china_stage_1,FRACTURE,JDG Esports,Bilibili Gaming,brimstone
+china_stage_1,FRACTURE,JDG Esports,Bilibili Gaming,cypher
+china_stage_1,FRACTURE,JDG Esports,Bilibili Gaming,tejo
+china_stage_1,FRACTURE,JDG Esports,Bilibili Gaming,breach
+china_stage_1,FRACTURE,JDG Esports,Titan Esports Club,neon
+china_stage_1,FRACTURE,JDG Esports,Titan Esports Club,waylay
+china_stage_1,FRACTURE,JDG Esports,Titan Esports Club,skye
+china_stage_1,FRACTURE,JDG Esports,Titan Esports Club,brimstone
+china_stage_1,FRACTURE,JDG Esports,Titan Esports Club,cypher
+china_stage_1,FRACTURE,JDG Esports,EDward Gaming,neon
+china_stage_1,FRACTURE,JDG Esports,EDward Gaming,waylay
+china_stage_1,FRACTURE,JDG Esports,EDward Gaming,skye
+china_stage_1,FRACTURE,JDG Esports,EDward Gaming,brimstone
+china_stage_1,FRACTURE,JDG Esports,EDward Gaming,cypher
+china_stage_1,FRACTURE,FunPlus Phoenix,Bilibili Gaming,neon
+china_stage_1,FRACTURE,FunPlus Phoenix,Bilibili Gaming,waylay
+china_stage_1,FRACTURE,FunPlus Phoenix,Bilibili Gaming,astra
+china_stage_1,FRACTURE,FunPlus Phoenix,Bilibili Gaming,tejo
+china_stage_1,FRACTURE,FunPlus Phoenix,Bilibili Gaming,sage
+china_stage_1,FRACTURE,FunPlus Phoenix,Titan Esports Club,neon
+china_stage_1,FRACTURE,FunPlus Phoenix,Titan Esports Club,waylay
+china_stage_1,FRACTURE,FunPlus Phoenix,Titan Esports Club,astra
+china_stage_1,FRACTURE,FunPlus Phoenix,Titan Esports Club,tejo
+china_stage_1,FRACTURE,FunPlus Phoenix,Titan Esports Club,sage
+china_stage_1,FRACTURE,Bilibili Gaming,JDG Esports,neon
+china_stage_1,FRACTURE,Bilibili Gaming,JDG Esports,waylay
+china_stage_1,FRACTURE,Bilibili Gaming,JDG Esports,brimstone
+china_stage_1,FRACTURE,Bilibili Gaming,JDG Esports,cypher
+china_stage_1,FRACTURE,Bilibili Gaming,JDG Esports,tejo
+china_stage_1,FRACTURE,Bilibili Gaming,Titan Esports Club,neon
+china_stage_1,FRACTURE,Bilibili Gaming,Titan Esports Club,waylay
+china_stage_1,FRACTURE,Bilibili Gaming,Titan Esports Club,brimstone
+china_stage_1,FRACTURE,Bilibili Gaming,Titan Esports Club,cypher
+china_stage_1,FRACTURE,Bilibili Gaming,Titan Esports Club,tejo
+china_stage_1,FRACTURE,Bilibili Gaming,FunPlus Phoenix,neon
+china_stage_1,FRACTURE,Bilibili Gaming,FunPlus Phoenix,waylay
+china_stage_1,FRACTURE,Bilibili Gaming,FunPlus Phoenix,brimstone
+china_stage_1,FRACTURE,Bilibili Gaming,FunPlus Phoenix,cypher
+china_stage_1,FRACTURE,Bilibili Gaming,FunPlus Phoenix,tejo
+china_stage_1,FRACTURE,Wolves Esports,EDward Gaming,neon
+china_stage_1,FRACTURE,Wolves Esports,EDward Gaming,waylay
+china_stage_1,FRACTURE,Wolves Esports,EDward Gaming,skye
+china_stage_1,FRACTURE,Wolves Esports,EDward Gaming,brimstone
+china_stage_1,FRACTURE,Wolves Esports,EDward Gaming,cypher
+china_stage_1,FRACTURE,Wolves Esports,Xi Lai Gaming,waylay
+china_stage_1,FRACTURE,Wolves Esports,Xi Lai Gaming,brimstone
+china_stage_1,FRACTURE,Wolves Esports,Xi Lai Gaming,cypher
+china_stage_1,FRACTURE,Wolves Esports,Xi Lai Gaming,tejo
+china_stage_1,FRACTURE,Wolves Esports,Xi Lai Gaming,breach
+china_stage_1,FRACTURE,Wolves Esports,Nova Esports,waylay
+china_stage_1,FRACTURE,Wolves Esports,Nova Esports,brimstone
+china_stage_1,FRACTURE,Wolves Esports,Nova Esports,cypher
+china_stage_1,FRACTURE,Wolves Esports,Nova Esports,tejo
+china_stage_1,FRACTURE,Wolves Esports,Nova Esports,breach
+china_stage_1,FRACTURE,Nova Esports,EDward Gaming,neon
+china_stage_1,FRACTURE,Nova Esports,EDward Gaming,brimstone
+china_stage_1,FRACTURE,Nova Esports,EDward Gaming,tejo
+china_stage_1,FRACTURE,Nova Esports,EDward Gaming,chamber
+china_stage_1,FRACTURE,Nova Esports,EDward Gaming,breach
+china_stage_1,FRACTURE,Nova Esports,Wolves Esports,neon
+china_stage_1,FRACTURE,Nova Esports,Wolves Esports,waylay
+china_stage_1,FRACTURE,Nova Esports,Wolves Esports,skye
+china_stage_1,FRACTURE,Nova Esports,Wolves Esports,brimstone
+china_stage_1,FRACTURE,Nova Esports,Wolves Esports,cypher
+china_stage_1,SPLIT,All Gamers,FunPlus Phoenix,neon
+china_stage_1,SPLIT,All Gamers,FunPlus Phoenix,waylay
+china_stage_1,SPLIT,All Gamers,FunPlus Phoenix,viper
+china_stage_1,SPLIT,All Gamers,FunPlus Phoenix,omen
+china_stage_1,SPLIT,All Gamers,FunPlus Phoenix,skye
+china_stage_1,SPLIT,All Gamers,Xi Lai Gaming,neon
+china_stage_1,SPLIT,All Gamers,Xi Lai Gaming,waylay
+china_stage_1,SPLIT,All Gamers,Xi Lai Gaming,viper
+china_stage_1,SPLIT,All Gamers,Xi Lai Gaming,omen
+china_stage_1,SPLIT,All Gamers,Xi Lai Gaming,skye
+china_stage_1,SPLIT,Xi Lai Gaming,EDward Gaming,neon
+china_stage_1,SPLIT,Xi Lai Gaming,EDward Gaming,waylay
+china_stage_1,SPLIT,Xi Lai Gaming,EDward Gaming,viper
+china_stage_1,SPLIT,Xi Lai Gaming,EDward Gaming,omen
+china_stage_1,SPLIT,Xi Lai Gaming,EDward Gaming,skye
+china_stage_1,SPLIT,Xi Lai Gaming,All Gamers,neon
+china_stage_1,SPLIT,Xi Lai Gaming,All Gamers,waylay
+china_stage_1,SPLIT,Xi Lai Gaming,All Gamers,viper
+china_stage_1,SPLIT,Xi Lai Gaming,All Gamers,omen
+china_stage_1,SPLIT,Xi Lai Gaming,All Gamers,skye
+china_stage_1,SPLIT,EDward Gaming,Dragon Ranger Gaming,neon
+china_stage_1,SPLIT,EDward Gaming,Dragon Ranger Gaming,waylay
+china_stage_1,SPLIT,EDward Gaming,Dragon Ranger Gaming,viper
+china_stage_1,SPLIT,EDward Gaming,Dragon Ranger Gaming,omen
+china_stage_1,SPLIT,EDward Gaming,Dragon Ranger Gaming,skye
+china_stage_1,SPLIT,EDward Gaming,Xi Lai Gaming,neon
+china_stage_1,SPLIT,EDward Gaming,Xi Lai Gaming,waylay
+china_stage_1,SPLIT,EDward Gaming,Xi Lai Gaming,viper
+china_stage_1,SPLIT,EDward Gaming,Xi Lai Gaming,omen
+china_stage_1,SPLIT,EDward Gaming,Xi Lai Gaming,skye
+china_stage_1,SPLIT,Dragon Ranger Gaming,EDward Gaming,neon
+china_stage_1,SPLIT,Dragon Ranger Gaming,EDward Gaming,waylay
+china_stage_1,SPLIT,Dragon Ranger Gaming,EDward Gaming,omen
+china_stage_1,SPLIT,Dragon Ranger Gaming,EDward Gaming,skye
+china_stage_1,SPLIT,Dragon Ranger Gaming,EDward Gaming,cypher
+china_stage_1,SPLIT,Trace Esports,Nova Esports,neon
+china_stage_1,SPLIT,Trace Esports,Nova Esports,waylay
+china_stage_1,SPLIT,Trace Esports,Nova Esports,viper
+china_stage_1,SPLIT,Trace Esports,Nova Esports,omen
+china_stage_1,SPLIT,Trace Esports,Nova Esports,skye
+china_stage_1,SPLIT,Trace Esports,Titan Esports Club,neon
+china_stage_1,SPLIT,Trace Esports,Titan Esports Club,waylay
+china_stage_1,SPLIT,Trace Esports,Titan Esports Club,viper
+china_stage_1,SPLIT,Trace Esports,Titan Esports Club,omen
+china_stage_1,SPLIT,Trace Esports,Titan Esports Club,skye
+china_stage_1,SPLIT,TYLOO,Titan Esports Club,neon
+china_stage_1,SPLIT,TYLOO,Titan Esports Club,waylay
+china_stage_1,SPLIT,TYLOO,Titan Esports Club,viper
+china_stage_1,SPLIT,TYLOO,Titan Esports Club,omen
+china_stage_1,SPLIT,TYLOO,Titan Esports Club,skye
+china_stage_1,SPLIT,TYLOO,FunPlus Phoenix,neon
+china_stage_1,SPLIT,TYLOO,FunPlus Phoenix,waylay
+china_stage_1,SPLIT,TYLOO,FunPlus Phoenix,viper
+china_stage_1,SPLIT,TYLOO,FunPlus Phoenix,omen
+china_stage_1,SPLIT,TYLOO,FunPlus Phoenix,skye
+china_stage_1,SPLIT,Titan Esports Club,TYLOO,neon
+china_stage_1,SPLIT,Titan Esports Club,TYLOO,waylay
+china_stage_1,SPLIT,Titan Esports Club,TYLOO,viper
+china_stage_1,SPLIT,Titan Esports Club,TYLOO,omen
+china_stage_1,SPLIT,Titan Esports Club,TYLOO,skye
+china_stage_1,SPLIT,Titan Esports Club,FunPlus Phoenix,neon
+china_stage_1,SPLIT,Titan Esports Club,FunPlus Phoenix,waylay
+china_stage_1,SPLIT,Titan Esports Club,FunPlus Phoenix,viper
+china_stage_1,SPLIT,Titan Esports Club,FunPlus Phoenix,omen
+china_stage_1,SPLIT,Titan Esports Club,FunPlus Phoenix,skye
+china_stage_1,SPLIT,Titan Esports Club,Trace Esports,neon
+china_stage_1,SPLIT,Titan Esports Club,Trace Esports,waylay
+china_stage_1,SPLIT,Titan Esports Club,Trace Esports,viper
+china_stage_1,SPLIT,Titan Esports Club,Trace Esports,omen
+china_stage_1,SPLIT,Titan Esports Club,Trace Esports,skye
+china_stage_1,SPLIT,JDG Esports,FunPlus Phoenix,viper
+china_stage_1,SPLIT,JDG Esports,FunPlus Phoenix,omen
+china_stage_1,SPLIT,JDG Esports,FunPlus Phoenix,fade
+china_stage_1,SPLIT,JDG Esports,FunPlus Phoenix,raze
+china_stage_1,SPLIT,JDG Esports,FunPlus Phoenix,vyse
+china_stage_1,SPLIT,FunPlus Phoenix,JDG Esports,neon
+china_stage_1,SPLIT,FunPlus Phoenix,JDG Esports,waylay
+china_stage_1,SPLIT,FunPlus Phoenix,JDG Esports,viper
+china_stage_1,SPLIT,FunPlus Phoenix,JDG Esports,omen
+china_stage_1,SPLIT,FunPlus Phoenix,JDG Esports,skye
+china_stage_1,SPLIT,FunPlus Phoenix,All Gamers,neon
+china_stage_1,SPLIT,FunPlus Phoenix,All Gamers,waylay
+china_stage_1,SPLIT,FunPlus Phoenix,All Gamers,viper
+china_stage_1,SPLIT,FunPlus Phoenix,All Gamers,omen
+china_stage_1,SPLIT,FunPlus Phoenix,All Gamers,fade
+china_stage_1,SPLIT,FunPlus Phoenix,TYLOO,neon
+china_stage_1,SPLIT,FunPlus Phoenix,TYLOO,waylay
+china_stage_1,SPLIT,FunPlus Phoenix,TYLOO,viper
+china_stage_1,SPLIT,FunPlus Phoenix,TYLOO,omen
+china_stage_1,SPLIT,FunPlus Phoenix,TYLOO,fade
+china_stage_1,SPLIT,FunPlus Phoenix,Titan Esports Club,neon
+china_stage_1,SPLIT,FunPlus Phoenix,Titan Esports Club,waylay
+china_stage_1,SPLIT,FunPlus Phoenix,Titan Esports Club,viper
+china_stage_1,SPLIT,FunPlus Phoenix,Titan Esports Club,omen
+china_stage_1,SPLIT,FunPlus Phoenix,Titan Esports Club,fade
+china_stage_1,SPLIT,Nova Esports,Trace Esports,viper
+china_stage_1,SPLIT,Nova Esports,Trace Esports,omen
+china_stage_1,SPLIT,Nova Esports,Trace Esports,fade
+china_stage_1,SPLIT,Nova Esports,Trace Esports,raze
+china_stage_1,SPLIT,Nova Esports,Trace Esports,vyse
+china_stage_1,PEARL,All Gamers,FunPlus Phoenix,neon
+china_stage_1,PEARL,All Gamers,FunPlus Phoenix,waylay
+china_stage_1,PEARL,All Gamers,FunPlus Phoenix,fade
+china_stage_1,PEARL,All Gamers,FunPlus Phoenix,astra
+china_stage_1,PEARL,All Gamers,FunPlus Phoenix,killjoy
+china_stage_1,PEARL,All Gamers,Bilibili Gaming,neon
+china_stage_1,PEARL,All Gamers,Bilibili Gaming,fade
+china_stage_1,PEARL,All Gamers,Bilibili Gaming,astra
+china_stage_1,PEARL,All Gamers,Bilibili Gaming,phoenix
+china_stage_1,PEARL,All Gamers,Bilibili Gaming,chamber
+china_stage_1,PEARL,Dragon Ranger Gaming,Wolves Esports,neon
+china_stage_1,PEARL,Dragon Ranger Gaming,Wolves Esports,waylay
+china_stage_1,PEARL,Dragon Ranger Gaming,Wolves Esports,skye
+china_stage_1,PEARL,Dragon Ranger Gaming,Wolves Esports,astra
+china_stage_1,PEARL,Dragon Ranger Gaming,Wolves Esports,vyse
+china_stage_1,PEARL,TYLOO,Bilibili Gaming,neon
+china_stage_1,PEARL,TYLOO,Bilibili Gaming,fade
+china_stage_1,PEARL,TYLOO,Bilibili Gaming,astra
+china_stage_1,PEARL,TYLOO,Bilibili Gaming,phoenix
+china_stage_1,PEARL,TYLOO,Bilibili Gaming,chamber
+china_stage_1,PEARL,TYLOO,FunPlus Phoenix,neon
+china_stage_1,PEARL,TYLOO,FunPlus Phoenix,fade
+china_stage_1,PEARL,TYLOO,FunPlus Phoenix,astra
+china_stage_1,PEARL,TYLOO,FunPlus Phoenix,killjoy
+china_stage_1,PEARL,TYLOO,FunPlus Phoenix,phoenix
+china_stage_1,PEARL,JDG Esports,FunPlus Phoenix,neon
+china_stage_1,PEARL,JDG Esports,FunPlus Phoenix,fade
+china_stage_1,PEARL,JDG Esports,FunPlus Phoenix,astra
+china_stage_1,PEARL,JDG Esports,FunPlus Phoenix,killjoy
+china_stage_1,PEARL,JDG Esports,FunPlus Phoenix,phoenix
+china_stage_1,PEARL,FunPlus Phoenix,JDG Esports,neon
+china_stage_1,PEARL,FunPlus Phoenix,JDG Esports,waylay
+china_stage_1,PEARL,FunPlus Phoenix,JDG Esports,fade
+china_stage_1,PEARL,FunPlus Phoenix,JDG Esports,astra
+china_stage_1,PEARL,FunPlus Phoenix,JDG Esports,killjoy
+china_stage_1,PEARL,FunPlus Phoenix,All Gamers,neon
+china_stage_1,PEARL,FunPlus Phoenix,All Gamers,waylay
+china_stage_1,PEARL,FunPlus Phoenix,All Gamers,fade
+china_stage_1,PEARL,FunPlus Phoenix,All Gamers,astra
+china_stage_1,PEARL,FunPlus Phoenix,All Gamers,killjoy
+china_stage_1,PEARL,FunPlus Phoenix,TYLOO,neon
+china_stage_1,PEARL,FunPlus Phoenix,TYLOO,waylay
+china_stage_1,PEARL,FunPlus Phoenix,TYLOO,fade
+china_stage_1,PEARL,FunPlus Phoenix,TYLOO,astra
+china_stage_1,PEARL,FunPlus Phoenix,TYLOO,killjoy
+china_stage_1,PEARL,FunPlus Phoenix,Bilibili Gaming,neon
+china_stage_1,PEARL,FunPlus Phoenix,Bilibili Gaming,waylay
+china_stage_1,PEARL,FunPlus Phoenix,Bilibili Gaming,fade
+china_stage_1,PEARL,FunPlus Phoenix,Bilibili Gaming,astra
+china_stage_1,PEARL,FunPlus Phoenix,Bilibili Gaming,killjoy
+china_stage_1,PEARL,Bilibili Gaming,TYLOO,neon
+china_stage_1,PEARL,Bilibili Gaming,TYLOO,astra
+china_stage_1,PEARL,Bilibili Gaming,TYLOO,killjoy
+china_stage_1,PEARL,Bilibili Gaming,TYLOO,phoenix
+china_stage_1,PEARL,Bilibili Gaming,TYLOO,tejo
+china_stage_1,PEARL,Bilibili Gaming,FunPlus Phoenix,neon
+china_stage_1,PEARL,Bilibili Gaming,FunPlus Phoenix,astra
+china_stage_1,PEARL,Bilibili Gaming,FunPlus Phoenix,killjoy
+china_stage_1,PEARL,Bilibili Gaming,FunPlus Phoenix,phoenix
+china_stage_1,PEARL,Bilibili Gaming,FunPlus Phoenix,tejo
+china_stage_1,PEARL,Bilibili Gaming,All Gamers,neon
+china_stage_1,PEARL,Bilibili Gaming,All Gamers,astra
+china_stage_1,PEARL,Bilibili Gaming,All Gamers,killjoy
+china_stage_1,PEARL,Bilibili Gaming,All Gamers,phoenix
+china_stage_1,PEARL,Bilibili Gaming,All Gamers,tejo
+china_stage_1,PEARL,Wolves Esports,Dragon Ranger Gaming,waylay
+china_stage_1,PEARL,Wolves Esports,Dragon Ranger Gaming,sova
+china_stage_1,PEARL,Wolves Esports,Dragon Ranger Gaming,astra
+china_stage_1,PEARL,Wolves Esports,Dragon Ranger Gaming,killjoy
+china_stage_1,PEARL,Wolves Esports,Dragon Ranger Gaming,tejo
+china_stage_1,HAVEN,All Gamers,JDG Esports,neon
+china_stage_1,HAVEN,All Gamers,JDG Esports,waylay
+china_stage_1,HAVEN,All Gamers,JDG Esports,omen
+china_stage_1,HAVEN,All Gamers,JDG Esports,skye
+china_stage_1,HAVEN,All Gamers,JDG Esports,cypher
+china_stage_1,HAVEN,All Gamers,TYLOO,neon
+china_stage_1,HAVEN,All Gamers,TYLOO,waylay
+china_stage_1,HAVEN,All Gamers,TYLOO,omen
+china_stage_1,HAVEN,All Gamers,TYLOO,skye
+china_stage_1,HAVEN,All Gamers,TYLOO,cypher
+china_stage_1,HAVEN,Xi Lai Gaming,Nova Esports,neon
+china_stage_1,HAVEN,Xi Lai Gaming,Nova Esports,viper
+china_stage_1,HAVEN,Xi Lai Gaming,Nova Esports,omen
+china_stage_1,HAVEN,Xi Lai Gaming,Nova Esports,sova
+china_stage_1,HAVEN,Xi Lai Gaming,Nova Esports,killjoy
+china_stage_1,HAVEN,Xi Lai Gaming,EDward Gaming,neon
+china_stage_1,HAVEN,Xi Lai Gaming,EDward Gaming,viper
+china_stage_1,HAVEN,Xi Lai Gaming,EDward Gaming,omen
+china_stage_1,HAVEN,Xi Lai Gaming,EDward Gaming,sova
+china_stage_1,HAVEN,Xi Lai Gaming,EDward Gaming,killjoy
+china_stage_1,HAVEN,EDward Gaming,Trace Esports,neon
+china_stage_1,HAVEN,EDward Gaming,Trace Esports,waylay
+china_stage_1,HAVEN,EDward Gaming,Trace Esports,omen
+china_stage_1,HAVEN,EDward Gaming,Trace Esports,cypher
+china_stage_1,HAVEN,EDward Gaming,Trace Esports,sova
+china_stage_1,HAVEN,EDward Gaming,Xi Lai Gaming,neon
+china_stage_1,HAVEN,EDward Gaming,Xi Lai Gaming,omen
+china_stage_1,HAVEN,EDward Gaming,Xi Lai Gaming,fade
+china_stage_1,HAVEN,EDward Gaming,Xi Lai Gaming,phoenix
+china_stage_1,HAVEN,EDward Gaming,Xi Lai Gaming,chamber
+china_stage_1,HAVEN,EDward Gaming,JDG Esports,neon
+china_stage_1,HAVEN,EDward Gaming,JDG Esports,omen
+china_stage_1,HAVEN,EDward Gaming,JDG Esports,fade
+china_stage_1,HAVEN,EDward Gaming,JDG Esports,phoenix
+china_stage_1,HAVEN,EDward Gaming,JDG Esports,chamber
+china_stage_1,HAVEN,Dragon Ranger Gaming,Nova Esports,neon
+china_stage_1,HAVEN,Dragon Ranger Gaming,Nova Esports,waylay
+china_stage_1,HAVEN,Dragon Ranger Gaming,Nova Esports,omen
+china_stage_1,HAVEN,Dragon Ranger Gaming,Nova Esports,skye
+china_stage_1,HAVEN,Dragon Ranger Gaming,Nova Esports,cypher
+china_stage_1,HAVEN,Dragon Ranger Gaming,TYLOO,neon
+china_stage_1,HAVEN,Dragon Ranger Gaming,TYLOO,waylay
+china_stage_1,HAVEN,Dragon Ranger Gaming,TYLOO,omen
+china_stage_1,HAVEN,Dragon Ranger Gaming,TYLOO,skye
+china_stage_1,HAVEN,Dragon Ranger Gaming,TYLOO,cypher
+china_stage_1,HAVEN,Trace Esports,EDward Gaming,neon
+china_stage_1,HAVEN,Trace Esports,EDward Gaming,viper
+china_stage_1,HAVEN,Trace Esports,EDward Gaming,omen
+china_stage_1,HAVEN,Trace Esports,EDward Gaming,sova
+china_stage_1,HAVEN,Trace Esports,EDward Gaming,killjoy
+china_stage_1,HAVEN,TYLOO,All Gamers,neon
+china_stage_1,HAVEN,TYLOO,All Gamers,viper
+china_stage_1,HAVEN,TYLOO,All Gamers,omen
+china_stage_1,HAVEN,TYLOO,All Gamers,sova
+china_stage_1,HAVEN,TYLOO,All Gamers,killjoy
+china_stage_1,HAVEN,TYLOO,JDG Esports,neon
+china_stage_1,HAVEN,TYLOO,JDG Esports,viper
+china_stage_1,HAVEN,TYLOO,JDG Esports,omen
+china_stage_1,HAVEN,TYLOO,JDG Esports,cypher
+china_stage_1,HAVEN,TYLOO,JDG Esports,sova
+china_stage_1,HAVEN,TYLOO,Dragon Ranger Gaming,neon
+china_stage_1,HAVEN,TYLOO,Dragon Ranger Gaming,waylay
+china_stage_1,HAVEN,TYLOO,Dragon Ranger Gaming,omen
+china_stage_1,HAVEN,TYLOO,Dragon Ranger Gaming,cypher
+china_stage_1,HAVEN,TYLOO,Dragon Ranger Gaming,sova
+china_stage_1,HAVEN,Titan Esports Club,JDG Esports,neon
+china_stage_1,HAVEN,Titan Esports Club,JDG Esports,waylay
+china_stage_1,HAVEN,Titan Esports Club,JDG Esports,omen
+china_stage_1,HAVEN,Titan Esports Club,JDG Esports,cypher
+china_stage_1,HAVEN,Titan Esports Club,JDG Esports,sova
+china_stage_1,HAVEN,JDG Esports,Bilibili Gaming,neon
+china_stage_1,HAVEN,JDG Esports,Bilibili Gaming,viper
+china_stage_1,HAVEN,JDG Esports,Bilibili Gaming,omen
+china_stage_1,HAVEN,JDG Esports,Bilibili Gaming,sova
+china_stage_1,HAVEN,JDG Esports,Bilibili Gaming,killjoy
+china_stage_1,HAVEN,JDG Esports,All Gamers,neon
+china_stage_1,HAVEN,JDG Esports,All Gamers,omen
+china_stage_1,HAVEN,JDG Esports,All Gamers,cypher
+china_stage_1,HAVEN,JDG Esports,All Gamers,sova
+china_stage_1,HAVEN,JDG Esports,All Gamers,chamber
+china_stage_1,HAVEN,JDG Esports,Titan Esports Club,neon
+china_stage_1,HAVEN,JDG Esports,Titan Esports Club,waylay
+china_stage_1,HAVEN,JDG Esports,Titan Esports Club,omen
+china_stage_1,HAVEN,JDG Esports,Titan Esports Club,cypher
+china_stage_1,HAVEN,JDG Esports,Titan Esports Club,sova
+china_stage_1,HAVEN,JDG Esports,TYLOO,neon
+china_stage_1,HAVEN,JDG Esports,TYLOO,waylay
+china_stage_1,HAVEN,JDG Esports,TYLOO,omen
+china_stage_1,HAVEN,JDG Esports,TYLOO,cypher
+china_stage_1,HAVEN,JDG Esports,TYLOO,sova
+china_stage_1,HAVEN,JDG Esports,EDward Gaming,neon
+china_stage_1,HAVEN,JDG Esports,EDward Gaming,waylay
+china_stage_1,HAVEN,JDG Esports,EDward Gaming,omen
+china_stage_1,HAVEN,JDG Esports,EDward Gaming,cypher
+china_stage_1,HAVEN,JDG Esports,EDward Gaming,sova
+china_stage_1,HAVEN,Bilibili Gaming,JDG Esports,neon
+china_stage_1,HAVEN,Bilibili Gaming,JDG Esports,waylay
+china_stage_1,HAVEN,Bilibili Gaming,JDG Esports,omen
+china_stage_1,HAVEN,Bilibili Gaming,JDG Esports,cypher
+china_stage_1,HAVEN,Bilibili Gaming,JDG Esports,sova
+china_stage_1,HAVEN,Nova Esports,Dragon Ranger Gaming,neon
+china_stage_1,HAVEN,Nova Esports,Dragon Ranger Gaming,viper
+china_stage_1,HAVEN,Nova Esports,Dragon Ranger Gaming,omen
+china_stage_1,HAVEN,Nova Esports,Dragon Ranger Gaming,sova
+china_stage_1,HAVEN,Nova Esports,Dragon Ranger Gaming,killjoy
+china_stage_1,HAVEN,Nova Esports,Xi Lai Gaming,neon
+china_stage_1,HAVEN,Nova Esports,Xi Lai Gaming,viper
+china_stage_1,HAVEN,Nova Esports,Xi Lai Gaming,omen
+china_stage_1,HAVEN,Nova Esports,Xi Lai Gaming,sova
+china_stage_1,HAVEN,Nova Esports,Xi Lai Gaming,killjoy
+pacific_stage_1,BIND,Gen.G,Global Esports,neon
+pacific_stage_1,BIND,Gen.G,Global Esports,fade
+pacific_stage_1,BIND,Gen.G,Global Esports,viper
+pacific_stage_1,BIND,Gen.G,Global Esports,brimstone
+pacific_stage_1,BIND,Gen.G,Global Esports,yoru
+pacific_stage_1,BIND,DetonatioN FocusMe,FULL SENSE,neon
+pacific_stage_1,BIND,DetonatioN FocusMe,FULL SENSE,skye
+pacific_stage_1,BIND,DetonatioN FocusMe,FULL SENSE,viper
+pacific_stage_1,BIND,DetonatioN FocusMe,FULL SENSE,waylay
+pacific_stage_1,BIND,DetonatioN FocusMe,FULL SENSE,brimstone
+pacific_stage_1,BIND,DetonatioN FocusMe,ZETA DIVISION,neon
+pacific_stage_1,BIND,DetonatioN FocusMe,ZETA DIVISION,skye
+pacific_stage_1,BIND,DetonatioN FocusMe,ZETA DIVISION,viper
+pacific_stage_1,BIND,DetonatioN FocusMe,ZETA DIVISION,waylay
+pacific_stage_1,BIND,DetonatioN FocusMe,ZETA DIVISION,brimstone
+pacific_stage_1,BIND,Rex Regum Qeon,VARREL,neon
+pacific_stage_1,BIND,Rex Regum Qeon,VARREL,skye
+pacific_stage_1,BIND,Rex Regum Qeon,VARREL,viper
+pacific_stage_1,BIND,Rex Regum Qeon,VARREL,waylay
+pacific_stage_1,BIND,Rex Regum Qeon,VARREL,brimstone
+pacific_stage_1,BIND,Rex Regum Qeon,T1,neon
+pacific_stage_1,BIND,Rex Regum Qeon,T1,skye
+pacific_stage_1,BIND,Rex Regum Qeon,T1,viper
+pacific_stage_1,BIND,Rex Regum Qeon,T1,waylay
+pacific_stage_1,BIND,Rex Regum Qeon,T1,brimstone
+pacific_stage_1,BIND,VARREL,Rex Regum Qeon,skye
+pacific_stage_1,BIND,VARREL,Rex Regum Qeon,waylay
+pacific_stage_1,BIND,VARREL,Rex Regum Qeon,astra
+pacific_stage_1,BIND,VARREL,Rex Regum Qeon,chamber
+pacific_stage_1,BIND,VARREL,Rex Regum Qeon,jett
+pacific_stage_1,BIND,FULL SENSE,DetonatioN FocusMe,neon
+pacific_stage_1,BIND,FULL SENSE,DetonatioN FocusMe,skye
+pacific_stage_1,BIND,FULL SENSE,DetonatioN FocusMe,viper
+pacific_stage_1,BIND,FULL SENSE,DetonatioN FocusMe,waylay
+pacific_stage_1,BIND,FULL SENSE,DetonatioN FocusMe,brimstone
+pacific_stage_1,BIND,Global Esports,Gen.G,neon
+pacific_stage_1,BIND,Global Esports,Gen.G,brimstone
+pacific_stage_1,BIND,Global Esports,Gen.G,deadlock
+pacific_stage_1,BIND,Global Esports,Gen.G,kayo
+pacific_stage_1,BIND,Global Esports,Gen.G,gekko
+pacific_stage_1,BIND,ZETA DIVISION,DetonatioN FocusMe,neon
+pacific_stage_1,BIND,ZETA DIVISION,DetonatioN FocusMe,skye
+pacific_stage_1,BIND,ZETA DIVISION,DetonatioN FocusMe,viper
+pacific_stage_1,BIND,ZETA DIVISION,DetonatioN FocusMe,waylay
+pacific_stage_1,BIND,ZETA DIVISION,DetonatioN FocusMe,brimstone
+pacific_stage_1,BIND,T1,Rex Regum Qeon,neon
+pacific_stage_1,BIND,T1,Rex Regum Qeon,skye
+pacific_stage_1,BIND,T1,Rex Regum Qeon,viper
+pacific_stage_1,BIND,T1,Rex Regum Qeon,brimstone
+pacific_stage_1,BIND,T1,Rex Regum Qeon,chamber
+pacific_stage_1,SPLIT,Gen.G,Global Esports,neon
+pacific_stage_1,SPLIT,Gen.G,Global Esports,omen
+pacific_stage_1,SPLIT,Gen.G,Global Esports,fade
+pacific_stage_1,SPLIT,Gen.G,Global Esports,viper
+pacific_stage_1,SPLIT,Gen.G,Global Esports,cypher
+pacific_stage_1,SPLIT,Paper Rex,Nongshim RedForce,omen
+pacific_stage_1,SPLIT,Paper Rex,Nongshim RedForce,skye
+pacific_stage_1,SPLIT,Paper Rex,Nongshim RedForce,viper
+pacific_stage_1,SPLIT,Paper Rex,Nongshim RedForce,raze
+pacific_stage_1,SPLIT,Paper Rex,Nongshim RedForce,jett
+pacific_stage_1,SPLIT,Paper Rex,Team Secret,omen
+pacific_stage_1,SPLIT,Paper Rex,Team Secret,skye
+pacific_stage_1,SPLIT,Paper Rex,Team Secret,viper
+pacific_stage_1,SPLIT,Paper Rex,Team Secret,raze
+pacific_stage_1,SPLIT,Paper Rex,Team Secret,jett
+pacific_stage_1,SPLIT,Paper Rex,Global Esports,omen
+pacific_stage_1,SPLIT,Paper Rex,Global Esports,skye
+pacific_stage_1,SPLIT,Paper Rex,Global Esports,viper
+pacific_stage_1,SPLIT,Paper Rex,Global Esports,raze
+pacific_stage_1,SPLIT,Paper Rex,Global Esports,jett
+pacific_stage_1,SPLIT,Rex Regum Qeon,ZETA DIVISION,neon
+pacific_stage_1,SPLIT,Rex Regum Qeon,ZETA DIVISION,omen
+pacific_stage_1,SPLIT,Rex Regum Qeon,ZETA DIVISION,skye
+pacific_stage_1,SPLIT,Rex Regum Qeon,ZETA DIVISION,viper
+pacific_stage_1,SPLIT,Rex Regum Qeon,ZETA DIVISION,waylay
+pacific_stage_1,SPLIT,Rex Regum Qeon,VARREL,neon
+pacific_stage_1,SPLIT,Rex Regum Qeon,VARREL,omen
+pacific_stage_1,SPLIT,Rex Regum Qeon,VARREL,skye
+pacific_stage_1,SPLIT,Rex Regum Qeon,VARREL,viper
+pacific_stage_1,SPLIT,Rex Regum Qeon,VARREL,waylay
+pacific_stage_1,SPLIT,VARREL,Rex Regum Qeon,skye
+pacific_stage_1,SPLIT,VARREL,Rex Regum Qeon,astra
+pacific_stage_1,SPLIT,VARREL,Rex Regum Qeon,jett
+pacific_stage_1,SPLIT,VARREL,Rex Regum Qeon,tejo
+pacific_stage_1,SPLIT,VARREL,Rex Regum Qeon,deadlock
+pacific_stage_1,SPLIT,FULL SENSE,ZETA DIVISION,omen
+pacific_stage_1,SPLIT,FULL SENSE,ZETA DIVISION,skye
+pacific_stage_1,SPLIT,FULL SENSE,ZETA DIVISION,waylay
+pacific_stage_1,SPLIT,FULL SENSE,ZETA DIVISION,cypher
+pacific_stage_1,SPLIT,FULL SENSE,ZETA DIVISION,deadlock
+pacific_stage_1,SPLIT,Global Esports,Gen.G,omen
+pacific_stage_1,SPLIT,Global Esports,Gen.G,fade
+pacific_stage_1,SPLIT,Global Esports,Gen.G,viper
+pacific_stage_1,SPLIT,Global Esports,Gen.G,raze
+pacific_stage_1,SPLIT,Global Esports,Gen.G,veto
+pacific_stage_1,SPLIT,Global Esports,Team Secret,omen
+pacific_stage_1,SPLIT,Global Esports,Team Secret,fade
+pacific_stage_1,SPLIT,Global Esports,Team Secret,viper
+pacific_stage_1,SPLIT,Global Esports,Team Secret,raze
+pacific_stage_1,SPLIT,Global Esports,Team Secret,veto
+pacific_stage_1,SPLIT,Global Esports,Paper Rex,neon
+pacific_stage_1,SPLIT,Global Esports,Paper Rex,omen
+pacific_stage_1,SPLIT,Global Esports,Paper Rex,fade
+pacific_stage_1,SPLIT,Global Esports,Paper Rex,viper
+pacific_stage_1,SPLIT,Global Esports,Paper Rex,vyse
+pacific_stage_1,SPLIT,Nongshim RedForce,Paper Rex,neon
+pacific_stage_1,SPLIT,Nongshim RedForce,Paper Rex,omen
+pacific_stage_1,SPLIT,Nongshim RedForce,Paper Rex,fade
+pacific_stage_1,SPLIT,Nongshim RedForce,Paper Rex,viper
+pacific_stage_1,SPLIT,Nongshim RedForce,Paper Rex,waylay
+pacific_stage_1,SPLIT,ZETA DIVISION,Rex Regum Qeon,neon
+pacific_stage_1,SPLIT,ZETA DIVISION,Rex Regum Qeon,omen
+pacific_stage_1,SPLIT,ZETA DIVISION,Rex Regum Qeon,skye
+pacific_stage_1,SPLIT,ZETA DIVISION,Rex Regum Qeon,viper
+pacific_stage_1,SPLIT,ZETA DIVISION,Rex Regum Qeon,waylay
+pacific_stage_1,SPLIT,ZETA DIVISION,FULL SENSE,neon
+pacific_stage_1,SPLIT,ZETA DIVISION,FULL SENSE,omen
+pacific_stage_1,SPLIT,ZETA DIVISION,FULL SENSE,skye
+pacific_stage_1,SPLIT,ZETA DIVISION,FULL SENSE,viper
+pacific_stage_1,SPLIT,ZETA DIVISION,FULL SENSE,waylay
+pacific_stage_1,SPLIT,Team Secret,Global Esports,neon
+pacific_stage_1,SPLIT,Team Secret,Global Esports,skye
+pacific_stage_1,SPLIT,Team Secret,Global Esports,viper
+pacific_stage_1,SPLIT,Team Secret,Global Esports,astra
+pacific_stage_1,SPLIT,Team Secret,Global Esports,cypher
+pacific_stage_1,SPLIT,Team Secret,Paper Rex,neon
+pacific_stage_1,SPLIT,Team Secret,Paper Rex,omen
+pacific_stage_1,SPLIT,Team Secret,Paper Rex,skye
+pacific_stage_1,SPLIT,Team Secret,Paper Rex,viper
+pacific_stage_1,SPLIT,Team Secret,Paper Rex,cypher
+pacific_stage_1,HAVEN,Gen.G,Paper Rex,neon
+pacific_stage_1,HAVEN,Gen.G,Paper Rex,omen
+pacific_stage_1,HAVEN,Gen.G,Paper Rex,fade
+pacific_stage_1,HAVEN,Gen.G,Paper Rex,chamber
+pacific_stage_1,HAVEN,Gen.G,Paper Rex,phoenix
+pacific_stage_1,HAVEN,Gen.G,Kiwoom DRX,neon
+pacific_stage_1,HAVEN,Gen.G,Kiwoom DRX,omen
+pacific_stage_1,HAVEN,Gen.G,Kiwoom DRX,fade
+pacific_stage_1,HAVEN,Gen.G,Kiwoom DRX,chamber
+pacific_stage_1,HAVEN,Gen.G,Kiwoom DRX,phoenix
+pacific_stage_1,HAVEN,Paper Rex,Gen.G,neon
+pacific_stage_1,HAVEN,Paper Rex,Gen.G,omen
+pacific_stage_1,HAVEN,Paper Rex,Gen.G,chamber
+pacific_stage_1,HAVEN,Paper Rex,Gen.G,sova
+pacific_stage_1,HAVEN,Paper Rex,Gen.G,phoenix
+pacific_stage_1,HAVEN,DetonatioN FocusMe,VARREL,neon
+pacific_stage_1,HAVEN,DetonatioN FocusMe,VARREL,omen
+pacific_stage_1,HAVEN,DetonatioN FocusMe,VARREL,skye
+pacific_stage_1,HAVEN,DetonatioN FocusMe,VARREL,cypher
+pacific_stage_1,HAVEN,DetonatioN FocusMe,VARREL,jett
+pacific_stage_1,HAVEN,Kiwoom DRX,Nongshim RedForce,neon
+pacific_stage_1,HAVEN,Kiwoom DRX,Nongshim RedForce,omen
+pacific_stage_1,HAVEN,Kiwoom DRX,Nongshim RedForce,cypher
+pacific_stage_1,HAVEN,Kiwoom DRX,Nongshim RedForce,sova
+pacific_stage_1,HAVEN,Kiwoom DRX,Nongshim RedForce,phoenix
+pacific_stage_1,HAVEN,Kiwoom DRX,Global Esports,neon
+pacific_stage_1,HAVEN,Kiwoom DRX,Global Esports,omen
+pacific_stage_1,HAVEN,Kiwoom DRX,Global Esports,skye
+pacific_stage_1,HAVEN,Kiwoom DRX,Global Esports,chamber
+pacific_stage_1,HAVEN,Kiwoom DRX,Global Esports,jett
+pacific_stage_1,HAVEN,Kiwoom DRX,Gen.G,neon
+pacific_stage_1,HAVEN,Kiwoom DRX,Gen.G,omen
+pacific_stage_1,HAVEN,Kiwoom DRX,Gen.G,skye
+pacific_stage_1,HAVEN,Kiwoom DRX,Gen.G,chamber
+pacific_stage_1,HAVEN,Kiwoom DRX,Gen.G,phoenix
+pacific_stage_1,HAVEN,Rex Regum Qeon,ZETA DIVISION,neon
+pacific_stage_1,HAVEN,Rex Regum Qeon,ZETA DIVISION,omen
+pacific_stage_1,HAVEN,Rex Regum Qeon,ZETA DIVISION,viper
+pacific_stage_1,HAVEN,Rex Regum Qeon,ZETA DIVISION,sova
+pacific_stage_1,HAVEN,Rex Regum Qeon,ZETA DIVISION,killjoy
+pacific_stage_1,HAVEN,Rex Regum Qeon,FULL SENSE,neon
+pacific_stage_1,HAVEN,Rex Regum Qeon,FULL SENSE,omen
+pacific_stage_1,HAVEN,Rex Regum Qeon,FULL SENSE,cypher
+pacific_stage_1,HAVEN,Rex Regum Qeon,FULL SENSE,sova
+pacific_stage_1,HAVEN,Rex Regum Qeon,FULL SENSE,jett
+pacific_stage_1,HAVEN,VARREL,T1,neon
+pacific_stage_1,HAVEN,VARREL,T1,omen
+pacific_stage_1,HAVEN,VARREL,T1,cypher
+pacific_stage_1,HAVEN,VARREL,T1,sova
+pacific_stage_1,HAVEN,VARREL,T1,jett
+pacific_stage_1,HAVEN,VARREL,FULL SENSE,neon
+pacific_stage_1,HAVEN,VARREL,FULL SENSE,astra
+pacific_stage_1,HAVEN,VARREL,FULL SENSE,chamber
+pacific_stage_1,HAVEN,VARREL,FULL SENSE,sova
+pacific_stage_1,HAVEN,VARREL,FULL SENSE,phoenix
+pacific_stage_1,HAVEN,VARREL,DetonatioN FocusMe,omen
+pacific_stage_1,HAVEN,VARREL,DetonatioN FocusMe,skye
+pacific_stage_1,HAVEN,VARREL,DetonatioN FocusMe,waylay
+pacific_stage_1,HAVEN,VARREL,DetonatioN FocusMe,cypher
+pacific_stage_1,HAVEN,VARREL,DetonatioN FocusMe,deadlock
+pacific_stage_1,HAVEN,FULL SENSE,VARREL,omen
+pacific_stage_1,HAVEN,FULL SENSE,VARREL,skye
+pacific_stage_1,HAVEN,FULL SENSE,VARREL,waylay
+pacific_stage_1,HAVEN,FULL SENSE,VARREL,cypher
+pacific_stage_1,HAVEN,FULL SENSE,VARREL,deadlock
+pacific_stage_1,HAVEN,FULL SENSE,Rex Regum Qeon,omen
+pacific_stage_1,HAVEN,FULL SENSE,Rex Regum Qeon,skye
+pacific_stage_1,HAVEN,FULL SENSE,Rex Regum Qeon,waylay
+pacific_stage_1,HAVEN,FULL SENSE,Rex Regum Qeon,cypher
+pacific_stage_1,HAVEN,FULL SENSE,Rex Regum Qeon,deadlock
+pacific_stage_1,HAVEN,Global Esports,Kiwoom DRX,omen
+pacific_stage_1,HAVEN,Global Esports,Kiwoom DRX,skye
+pacific_stage_1,HAVEN,Global Esports,Kiwoom DRX,waylay
+pacific_stage_1,HAVEN,Global Esports,Kiwoom DRX,cypher
+pacific_stage_1,HAVEN,Global Esports,Kiwoom DRX,deadlock
+pacific_stage_1,HAVEN,Nongshim RedForce,Kiwoom DRX,neon
+pacific_stage_1,HAVEN,Nongshim RedForce,Kiwoom DRX,omen
+pacific_stage_1,HAVEN,Nongshim RedForce,Kiwoom DRX,sova
+pacific_stage_1,HAVEN,Nongshim RedForce,Kiwoom DRX,breach
+pacific_stage_1,HAVEN,Nongshim RedForce,Kiwoom DRX,killjoy
+pacific_stage_1,HAVEN,ZETA DIVISION,Rex Regum Qeon,neon
+pacific_stage_1,HAVEN,ZETA DIVISION,Rex Regum Qeon,omen
+pacific_stage_1,HAVEN,ZETA DIVISION,Rex Regum Qeon,waylay
+pacific_stage_1,HAVEN,ZETA DIVISION,Rex Regum Qeon,cypher
+pacific_stage_1,HAVEN,ZETA DIVISION,Rex Regum Qeon,sova
+pacific_stage_1,HAVEN,T1,VARREL,neon
+pacific_stage_1,HAVEN,T1,VARREL,skye
+pacific_stage_1,HAVEN,T1,VARREL,astra
+pacific_stage_1,HAVEN,T1,VARREL,chamber
+pacific_stage_1,HAVEN,T1,VARREL,phoenix
+pacific_stage_1,PEARL,Gen.G,Nongshim RedForce,neon
+pacific_stage_1,PEARL,Gen.G,Nongshim RedForce,fade
+pacific_stage_1,PEARL,Gen.G,Nongshim RedForce,astra
+pacific_stage_1,PEARL,Gen.G,Nongshim RedForce,phoenix
+pacific_stage_1,PEARL,Gen.G,Nongshim RedForce,killjoy
+pacific_stage_1,PEARL,Gen.G,Kiwoom DRX,neon
+pacific_stage_1,PEARL,Gen.G,Kiwoom DRX,fade
+pacific_stage_1,PEARL,Gen.G,Kiwoom DRX,astra
+pacific_stage_1,PEARL,Gen.G,Kiwoom DRX,chamber
+pacific_stage_1,PEARL,Gen.G,Kiwoom DRX,phoenix
+pacific_stage_1,PEARL,Paper Rex,Global Esports,fade
+pacific_stage_1,PEARL,Paper Rex,Global Esports,astra
+pacific_stage_1,PEARL,Paper Rex,Global Esports,phoenix
+pacific_stage_1,PEARL,Paper Rex,Global Esports,jett
+pacific_stage_1,PEARL,Paper Rex,Global Esports,vyse
+pacific_stage_1,PEARL,DetonatioN FocusMe,FULL SENSE,waylay
+pacific_stage_1,PEARL,DetonatioN FocusMe,FULL SENSE,astra
+pacific_stage_1,PEARL,DetonatioN FocusMe,FULL SENSE,sova
+pacific_stage_1,PEARL,DetonatioN FocusMe,FULL SENSE,killjoy
+pacific_stage_1,PEARL,DetonatioN FocusMe,FULL SENSE,tejo
+pacific_stage_1,PEARL,DetonatioN FocusMe,T1,waylay
+pacific_stage_1,PEARL,DetonatioN FocusMe,T1,astra
+pacific_stage_1,PEARL,DetonatioN FocusMe,T1,sova
+pacific_stage_1,PEARL,DetonatioN FocusMe,T1,killjoy
+pacific_stage_1,PEARL,DetonatioN FocusMe,T1,tejo
+pacific_stage_1,PEARL,DetonatioN FocusMe,ZETA DIVISION,waylay
+pacific_stage_1,PEARL,DetonatioN FocusMe,ZETA DIVISION,astra
+pacific_stage_1,PEARL,DetonatioN FocusMe,ZETA DIVISION,sova
+pacific_stage_1,PEARL,DetonatioN FocusMe,ZETA DIVISION,killjoy
+pacific_stage_1,PEARL,DetonatioN FocusMe,ZETA DIVISION,tejo
+pacific_stage_1,PEARL,Kiwoom DRX,Team Secret,neon
+pacific_stage_1,PEARL,Kiwoom DRX,Team Secret,fade
+pacific_stage_1,PEARL,Kiwoom DRX,Team Secret,astra
+pacific_stage_1,PEARL,Kiwoom DRX,Team Secret,chamber
+pacific_stage_1,PEARL,Kiwoom DRX,Team Secret,phoenix
+pacific_stage_1,PEARL,Kiwoom DRX,Gen.G,neon
+pacific_stage_1,PEARL,Kiwoom DRX,Gen.G,skye
+pacific_stage_1,PEARL,Kiwoom DRX,Gen.G,astra
+pacific_stage_1,PEARL,Kiwoom DRX,Gen.G,chamber
+pacific_stage_1,PEARL,Kiwoom DRX,Gen.G,jett
+pacific_stage_1,PEARL,Rex Regum Qeon,T1,neon
+pacific_stage_1,PEARL,Rex Regum Qeon,T1,astra
+pacific_stage_1,PEARL,Rex Regum Qeon,T1,chamber
+pacific_stage_1,PEARL,Rex Regum Qeon,T1,sova
+pacific_stage_1,PEARL,Rex Regum Qeon,T1,kayo
+pacific_stage_1,PEARL,Rex Regum Qeon,FULL SENSE,neon
+pacific_stage_1,PEARL,Rex Regum Qeon,FULL SENSE,astra
+pacific_stage_1,PEARL,Rex Regum Qeon,FULL SENSE,chamber
+pacific_stage_1,PEARL,Rex Regum Qeon,FULL SENSE,sova
+pacific_stage_1,PEARL,Rex Regum Qeon,FULL SENSE,kayo
+pacific_stage_1,PEARL,VARREL,T1,fade
+pacific_stage_1,PEARL,VARREL,T1,waylay
+pacific_stage_1,PEARL,VARREL,T1,astra
+pacific_stage_1,PEARL,VARREL,T1,killjoy
+pacific_stage_1,PEARL,VARREL,T1,kayo
+pacific_stage_1,PEARL,FULL SENSE,DetonatioN FocusMe,neon
+pacific_stage_1,PEARL,FULL SENSE,DetonatioN FocusMe,fade
+pacific_stage_1,PEARL,FULL SENSE,DetonatioN FocusMe,astra
+pacific_stage_1,PEARL,FULL SENSE,DetonatioN FocusMe,cypher
+pacific_stage_1,PEARL,FULL SENSE,DetonatioN FocusMe,phoenix
+pacific_stage_1,PEARL,FULL SENSE,Rex Regum Qeon,neon
+pacific_stage_1,PEARL,FULL SENSE,Rex Regum Qeon,fade
+pacific_stage_1,PEARL,FULL SENSE,Rex Regum Qeon,astra
+pacific_stage_1,PEARL,FULL SENSE,Rex Regum Qeon,cypher
+pacific_stage_1,PEARL,FULL SENSE,Rex Regum Qeon,phoenix
+pacific_stage_1,PEARL,Global Esports,Paper Rex,neon
+pacific_stage_1,PEARL,Global Esports,Paper Rex,fade
+pacific_stage_1,PEARL,Global Esports,Paper Rex,astra
+pacific_stage_1,PEARL,Global Esports,Paper Rex,chamber
+pacific_stage_1,PEARL,Global Esports,Paper Rex,tejo
+pacific_stage_1,PEARL,Nongshim RedForce,Gen.G,neon
+pacific_stage_1,PEARL,Nongshim RedForce,Gen.G,fade
+pacific_stage_1,PEARL,Nongshim RedForce,Gen.G,astra
+pacific_stage_1,PEARL,Nongshim RedForce,Gen.G,chamber
+pacific_stage_1,PEARL,Nongshim RedForce,Gen.G,phoenix
+pacific_stage_1,PEARL,ZETA DIVISION,DetonatioN FocusMe,neon
+pacific_stage_1,PEARL,ZETA DIVISION,DetonatioN FocusMe,fade
+pacific_stage_1,PEARL,ZETA DIVISION,DetonatioN FocusMe,astra
+pacific_stage_1,PEARL,ZETA DIVISION,DetonatioN FocusMe,cypher
+pacific_stage_1,PEARL,ZETA DIVISION,DetonatioN FocusMe,phoenix
+pacific_stage_1,PEARL,T1,VARREL,neon
+pacific_stage_1,PEARL,T1,VARREL,skye
+pacific_stage_1,PEARL,T1,VARREL,astra
+pacific_stage_1,PEARL,T1,VARREL,chamber
+pacific_stage_1,PEARL,T1,VARREL,killjoy
+pacific_stage_1,PEARL,T1,DetonatioN FocusMe,neon
+pacific_stage_1,PEARL,T1,DetonatioN FocusMe,skye
+pacific_stage_1,PEARL,T1,DetonatioN FocusMe,astra
+pacific_stage_1,PEARL,T1,DetonatioN FocusMe,chamber
+pacific_stage_1,PEARL,T1,DetonatioN FocusMe,killjoy
+pacific_stage_1,PEARL,T1,Rex Regum Qeon,neon
+pacific_stage_1,PEARL,T1,Rex Regum Qeon,skye
+pacific_stage_1,PEARL,T1,Rex Regum Qeon,astra
+pacific_stage_1,PEARL,T1,Rex Regum Qeon,chamber
+pacific_stage_1,PEARL,T1,Rex Regum Qeon,killjoy
+pacific_stage_1,PEARL,Team Secret,Kiwoom DRX,neon
+pacific_stage_1,PEARL,Team Secret,Kiwoom DRX,skye
+pacific_stage_1,PEARL,Team Secret,Kiwoom DRX,astra
+pacific_stage_1,PEARL,Team Secret,Kiwoom DRX,chamber
+pacific_stage_1,PEARL,Team Secret,Kiwoom DRX,killjoy
+pacific_stage_1,FRACTURE,Gen.G,Paper Rex,neon
+pacific_stage_1,FRACTURE,Gen.G,Paper Rex,waylay
+pacific_stage_1,FRACTURE,Gen.G,Paper Rex,cypher
+pacific_stage_1,FRACTURE,Gen.G,Paper Rex,brimstone
+pacific_stage_1,FRACTURE,Gen.G,Paper Rex,breach
+pacific_stage_1,FRACTURE,Paper Rex,Nongshim RedForce,neon
+pacific_stage_1,FRACTURE,Paper Rex,Nongshim RedForce,brimstone
+pacific_stage_1,FRACTURE,Paper Rex,Nongshim RedForce,raze
+pacific_stage_1,FRACTURE,Paper Rex,Nongshim RedForce,breach
+pacific_stage_1,FRACTURE,Paper Rex,Nongshim RedForce,killjoy
+pacific_stage_1,FRACTURE,Paper Rex,Gen.G,neon
+pacific_stage_1,FRACTURE,Paper Rex,Gen.G,brimstone
+pacific_stage_1,FRACTURE,Paper Rex,Gen.G,raze
+pacific_stage_1,FRACTURE,Paper Rex,Gen.G,breach
+pacific_stage_1,FRACTURE,Paper Rex,Gen.G,killjoy
+pacific_stage_1,FRACTURE,DetonatioN FocusMe,VARREL,neon
+pacific_stage_1,FRACTURE,DetonatioN FocusMe,VARREL,cypher
+pacific_stage_1,FRACTURE,DetonatioN FocusMe,VARREL,brimstone
+pacific_stage_1,FRACTURE,DetonatioN FocusMe,VARREL,breach
+pacific_stage_1,FRACTURE,DetonatioN FocusMe,VARREL,tejo
+pacific_stage_1,FRACTURE,Kiwoom DRX,Team Secret,waylay
+pacific_stage_1,FRACTURE,Kiwoom DRX,Team Secret,cypher
+pacific_stage_1,FRACTURE,Kiwoom DRX,Team Secret,brimstone
+pacific_stage_1,FRACTURE,Kiwoom DRX,Team Secret,breach
+pacific_stage_1,FRACTURE,Kiwoom DRX,Team Secret,tejo
+pacific_stage_1,FRACTURE,Kiwoom DRX,Nongshim RedForce,waylay
+pacific_stage_1,FRACTURE,Kiwoom DRX,Nongshim RedForce,cypher
+pacific_stage_1,FRACTURE,Kiwoom DRX,Nongshim RedForce,brimstone
+pacific_stage_1,FRACTURE,Kiwoom DRX,Nongshim RedForce,breach
+pacific_stage_1,FRACTURE,Kiwoom DRX,Nongshim RedForce,tejo
+pacific_stage_1,FRACTURE,Kiwoom DRX,Global Esports,neon
+pacific_stage_1,FRACTURE,Kiwoom DRX,Global Esports,cypher
+pacific_stage_1,FRACTURE,Kiwoom DRX,Global Esports,brimstone
+pacific_stage_1,FRACTURE,Kiwoom DRX,Global Esports,raze
+pacific_stage_1,FRACTURE,Kiwoom DRX,Global Esports,breach
+pacific_stage_1,FRACTURE,Rex Regum Qeon,ZETA DIVISION,neon
+pacific_stage_1,FRACTURE,Rex Regum Qeon,ZETA DIVISION,skye
+pacific_stage_1,FRACTURE,Rex Regum Qeon,ZETA DIVISION,brimstone
+pacific_stage_1,FRACTURE,Rex Regum Qeon,ZETA DIVISION,raze
+pacific_stage_1,FRACTURE,Rex Regum Qeon,ZETA DIVISION,veto
+pacific_stage_1,FRACTURE,Rex Regum Qeon,FULL SENSE,neon
+pacific_stage_1,FRACTURE,Rex Regum Qeon,FULL SENSE,skye
+pacific_stage_1,FRACTURE,Rex Regum Qeon,FULL SENSE,brimstone
+pacific_stage_1,FRACTURE,Rex Regum Qeon,FULL SENSE,raze
+pacific_stage_1,FRACTURE,Rex Regum Qeon,FULL SENSE,veto
+pacific_stage_1,FRACTURE,VARREL,DetonatioN FocusMe,neon
+pacific_stage_1,FRACTURE,VARREL,DetonatioN FocusMe,cypher
+pacific_stage_1,FRACTURE,VARREL,DetonatioN FocusMe,brimstone
+pacific_stage_1,FRACTURE,VARREL,DetonatioN FocusMe,raze
+pacific_stage_1,FRACTURE,VARREL,DetonatioN FocusMe,breach
+pacific_stage_1,FRACTURE,FULL SENSE,ZETA DIVISION,neon
+pacific_stage_1,FRACTURE,FULL SENSE,ZETA DIVISION,skye
+pacific_stage_1,FRACTURE,FULL SENSE,ZETA DIVISION,waylay
+pacific_stage_1,FRACTURE,FULL SENSE,ZETA DIVISION,cypher
+pacific_stage_1,FRACTURE,FULL SENSE,ZETA DIVISION,brimstone
+pacific_stage_1,FRACTURE,FULL SENSE,Rex Regum Qeon,neon
+pacific_stage_1,FRACTURE,FULL SENSE,Rex Regum Qeon,skye
+pacific_stage_1,FRACTURE,FULL SENSE,Rex Regum Qeon,waylay
+pacific_stage_1,FRACTURE,FULL SENSE,Rex Regum Qeon,cypher
+pacific_stage_1,FRACTURE,FULL SENSE,Rex Regum Qeon,brimstone
+pacific_stage_1,FRACTURE,Global Esports,Kiwoom DRX,brimstone
+pacific_stage_1,FRACTURE,Global Esports,Kiwoom DRX,raze
+pacific_stage_1,FRACTURE,Global Esports,Kiwoom DRX,breach
+pacific_stage_1,FRACTURE,Global Esports,Kiwoom DRX,tejo
+pacific_stage_1,FRACTURE,Global Esports,Kiwoom DRX,deadlock
+pacific_stage_1,FRACTURE,Nongshim RedForce,Paper Rex,neon
+pacific_stage_1,FRACTURE,Nongshim RedForce,Paper Rex,cypher
+pacific_stage_1,FRACTURE,Nongshim RedForce,Paper Rex,brimstone
+pacific_stage_1,FRACTURE,Nongshim RedForce,Paper Rex,breach
+pacific_stage_1,FRACTURE,Nongshim RedForce,Paper Rex,tejo
+pacific_stage_1,FRACTURE,Nongshim RedForce,Kiwoom DRX,neon
+pacific_stage_1,FRACTURE,Nongshim RedForce,Kiwoom DRX,cypher
+pacific_stage_1,FRACTURE,Nongshim RedForce,Kiwoom DRX,brimstone
+pacific_stage_1,FRACTURE,Nongshim RedForce,Kiwoom DRX,breach
+pacific_stage_1,FRACTURE,Nongshim RedForce,Kiwoom DRX,tejo
+pacific_stage_1,FRACTURE,ZETA DIVISION,Rex Regum Qeon,neon
+pacific_stage_1,FRACTURE,ZETA DIVISION,Rex Regum Qeon,waylay
+pacific_stage_1,FRACTURE,ZETA DIVISION,Rex Regum Qeon,brimstone
+pacific_stage_1,FRACTURE,ZETA DIVISION,Rex Regum Qeon,breach
+pacific_stage_1,FRACTURE,ZETA DIVISION,Rex Regum Qeon,veto
+pacific_stage_1,FRACTURE,ZETA DIVISION,FULL SENSE,neon
+pacific_stage_1,FRACTURE,ZETA DIVISION,FULL SENSE,waylay
+pacific_stage_1,FRACTURE,ZETA DIVISION,FULL SENSE,brimstone
+pacific_stage_1,FRACTURE,ZETA DIVISION,FULL SENSE,breach
+pacific_stage_1,FRACTURE,ZETA DIVISION,FULL SENSE,veto
+pacific_stage_1,FRACTURE,Team Secret,Kiwoom DRX,neon
+pacific_stage_1,FRACTURE,Team Secret,Kiwoom DRX,skye
+pacific_stage_1,FRACTURE,Team Secret,Kiwoom DRX,cypher
+pacific_stage_1,FRACTURE,Team Secret,Kiwoom DRX,brimstone
+pacific_stage_1,FRACTURE,Team Secret,Kiwoom DRX,tejo
+pacific_stage_1,LOTUS,Gen.G,Paper Rex,neon
+pacific_stage_1,LOTUS,Gen.G,Paper Rex,omen
+pacific_stage_1,LOTUS,Gen.G,Paper Rex,fade
+pacific_stage_1,LOTUS,Gen.G,Paper Rex,raze
+pacific_stage_1,LOTUS,Gen.G,Paper Rex,vyse
+pacific_stage_1,LOTUS,Gen.G,Kiwoom DRX,neon
+pacific_stage_1,LOTUS,Gen.G,Kiwoom DRX,omen
+pacific_stage_1,LOTUS,Gen.G,Kiwoom DRX,fade
+pacific_stage_1,LOTUS,Gen.G,Kiwoom DRX,raze
+pacific_stage_1,LOTUS,Gen.G,Kiwoom DRX,vyse
+pacific_stage_1,LOTUS,Paper Rex,Nongshim RedForce,neon
+pacific_stage_1,LOTUS,Paper Rex,Nongshim RedForce,omen
+pacific_stage_1,LOTUS,Paper Rex,Nongshim RedForce,fade
+pacific_stage_1,LOTUS,Paper Rex,Nongshim RedForce,raze
+pacific_stage_1,LOTUS,Paper Rex,Nongshim RedForce,vyse
+pacific_stage_1,LOTUS,Paper Rex,Gen.G,neon
+pacific_stage_1,LOTUS,Paper Rex,Gen.G,omen
+pacific_stage_1,LOTUS,Paper Rex,Gen.G,fade
+pacific_stage_1,LOTUS,Paper Rex,Gen.G,raze
+pacific_stage_1,LOTUS,Paper Rex,Gen.G,vyse
+pacific_stage_1,LOTUS,DetonatioN FocusMe,T1,neon
+pacific_stage_1,LOTUS,DetonatioN FocusMe,T1,omen
+pacific_stage_1,LOTUS,DetonatioN FocusMe,T1,fade
+pacific_stage_1,LOTUS,DetonatioN FocusMe,T1,viper
+pacific_stage_1,LOTUS,DetonatioN FocusMe,T1,iso
+pacific_stage_1,LOTUS,DetonatioN FocusMe,ZETA DIVISION,neon
+pacific_stage_1,LOTUS,DetonatioN FocusMe,ZETA DIVISION,omen
+pacific_stage_1,LOTUS,DetonatioN FocusMe,ZETA DIVISION,fade
+pacific_stage_1,LOTUS,DetonatioN FocusMe,ZETA DIVISION,raze
+pacific_stage_1,LOTUS,DetonatioN FocusMe,ZETA DIVISION,vyse
+pacific_stage_1,LOTUS,DetonatioN FocusMe,VARREL,neon
+pacific_stage_1,LOTUS,DetonatioN FocusMe,VARREL,omen
+pacific_stage_1,LOTUS,DetonatioN FocusMe,VARREL,fade
+pacific_stage_1,LOTUS,DetonatioN FocusMe,VARREL,raze
+pacific_stage_1,LOTUS,DetonatioN FocusMe,VARREL,vyse
+pacific_stage_1,LOTUS,Kiwoom DRX,Nongshim RedForce,neon
+pacific_stage_1,LOTUS,Kiwoom DRX,Nongshim RedForce,omen
+pacific_stage_1,LOTUS,Kiwoom DRX,Nongshim RedForce,fade
+pacific_stage_1,LOTUS,Kiwoom DRX,Nongshim RedForce,raze
+pacific_stage_1,LOTUS,Kiwoom DRX,Nongshim RedForce,chamber
+pacific_stage_1,LOTUS,Kiwoom DRX,Gen.G,neon
+pacific_stage_1,LOTUS,Kiwoom DRX,Gen.G,omen
+pacific_stage_1,LOTUS,Kiwoom DRX,Gen.G,fade
+pacific_stage_1,LOTUS,Kiwoom DRX,Gen.G,raze
+pacific_stage_1,LOTUS,Kiwoom DRX,Gen.G,chamber
+pacific_stage_1,LOTUS,VARREL,FULL SENSE,neon
+pacific_stage_1,LOTUS,VARREL,FULL SENSE,omen
+pacific_stage_1,LOTUS,VARREL,FULL SENSE,fade
+pacific_stage_1,LOTUS,VARREL,FULL SENSE,viper
+pacific_stage_1,LOTUS,VARREL,FULL SENSE,raze
+pacific_stage_1,LOTUS,VARREL,DetonatioN FocusMe,neon
+pacific_stage_1,LOTUS,VARREL,DetonatioN FocusMe,omen
+pacific_stage_1,LOTUS,VARREL,DetonatioN FocusMe,fade
+pacific_stage_1,LOTUS,VARREL,DetonatioN FocusMe,viper
+pacific_stage_1,LOTUS,VARREL,DetonatioN FocusMe,raze
+pacific_stage_1,LOTUS,FULL SENSE,VARREL,neon
+pacific_stage_1,LOTUS,FULL SENSE,VARREL,omen
+pacific_stage_1,LOTUS,FULL SENSE,VARREL,fade
+pacific_stage_1,LOTUS,FULL SENSE,VARREL,phoenix
+pacific_stage_1,LOTUS,FULL SENSE,VARREL,vyse
+pacific_stage_1,LOTUS,Global Esports,Team Secret,omen
+pacific_stage_1,LOTUS,Global Esports,Team Secret,fade
+pacific_stage_1,LOTUS,Global Esports,Team Secret,astra
+pacific_stage_1,LOTUS,Global Esports,Team Secret,raze
+pacific_stage_1,LOTUS,Global Esports,Team Secret,deadlock
+pacific_stage_1,LOTUS,Nongshim RedForce,Paper Rex,neon
+pacific_stage_1,LOTUS,Nongshim RedForce,Paper Rex,omen
+pacific_stage_1,LOTUS,Nongshim RedForce,Paper Rex,fade
+pacific_stage_1,LOTUS,Nongshim RedForce,Paper Rex,viper
+pacific_stage_1,LOTUS,Nongshim RedForce,Paper Rex,waylay
+pacific_stage_1,LOTUS,Nongshim RedForce,Kiwoom DRX,neon
+pacific_stage_1,LOTUS,Nongshim RedForce,Kiwoom DRX,omen
+pacific_stage_1,LOTUS,Nongshim RedForce,Kiwoom DRX,fade
+pacific_stage_1,LOTUS,Nongshim RedForce,Kiwoom DRX,breach
+pacific_stage_1,LOTUS,Nongshim RedForce,Kiwoom DRX,vyse
+pacific_stage_1,LOTUS,ZETA DIVISION,DetonatioN FocusMe,neon
+pacific_stage_1,LOTUS,ZETA DIVISION,DetonatioN FocusMe,omen
+pacific_stage_1,LOTUS,ZETA DIVISION,DetonatioN FocusMe,fade
+pacific_stage_1,LOTUS,ZETA DIVISION,DetonatioN FocusMe,viper
+pacific_stage_1,LOTUS,ZETA DIVISION,DetonatioN FocusMe,waylay
+pacific_stage_1,LOTUS,T1,DetonatioN FocusMe,neon
+pacific_stage_1,LOTUS,T1,DetonatioN FocusMe,omen
+pacific_stage_1,LOTUS,T1,DetonatioN FocusMe,fade
+pacific_stage_1,LOTUS,T1,DetonatioN FocusMe,viper
+pacific_stage_1,LOTUS,T1,DetonatioN FocusMe,killjoy
+pacific_stage_1,LOTUS,Team Secret,Global Esports,neon
+pacific_stage_1,LOTUS,Team Secret,Global Esports,omen
+pacific_stage_1,LOTUS,Team Secret,Global Esports,fade
+pacific_stage_1,LOTUS,Team Secret,Global Esports,viper
+pacific_stage_1,LOTUS,Team Secret,Global Esports,vyse
+pacific_stage_1,BREEZE,Gen.G,Nongshim RedForce,viper
+pacific_stage_1,BREEZE,Gen.G,Nongshim RedForce,sova
+pacific_stage_1,BREEZE,Gen.G,Nongshim RedForce,jett
+pacific_stage_1,BREEZE,Gen.G,Nongshim RedForce,kayo
+pacific_stage_1,BREEZE,Gen.G,Nongshim RedForce,harbor
+pacific_stage_1,BREEZE,Paper Rex,Team Secret,neon
+pacific_stage_1,BREEZE,Paper Rex,Team Secret,omen
+pacific_stage_1,BREEZE,Paper Rex,Team Secret,viper
+pacific_stage_1,BREEZE,Paper Rex,Team Secret,sova
+pacific_stage_1,BREEZE,Paper Rex,Team Secret,jett
+pacific_stage_1,BREEZE,Nongshim RedForce,Gen.G,neon
+pacific_stage_1,BREEZE,Nongshim RedForce,Gen.G,viper
+pacific_stage_1,BREEZE,Nongshim RedForce,Gen.G,sova
+pacific_stage_1,BREEZE,Nongshim RedForce,Gen.G,phoenix
+pacific_stage_1,BREEZE,Nongshim RedForce,Gen.G,harbor
+pacific_stage_1,BREEZE,Team Secret,Paper Rex,viper
+pacific_stage_1,BREEZE,Team Secret,Paper Rex,astra
+pacific_stage_1,BREEZE,Team Secret,Paper Rex,sova
+pacific_stage_1,BREEZE,Team Secret,Paper Rex,jett
+pacific_stage_1,BREEZE,Team Secret,Paper Rex,kayo
+emea_stage_1,BREEZE,GIANTX,FNATIC,neon
+emea_stage_1,BREEZE,GIANTX,FNATIC,viper
+emea_stage_1,BREEZE,GIANTX,FNATIC,omen
+emea_stage_1,BREEZE,GIANTX,FNATIC,skye
+emea_stage_1,BREEZE,GIANTX,FNATIC,sova
+emea_stage_1,BREEZE,FUT Esports,Team Liquid,neon
+emea_stage_1,BREEZE,FUT Esports,Team Liquid,viper
+emea_stage_1,BREEZE,FUT Esports,Team Liquid,omen
+emea_stage_1,BREEZE,FUT Esports,Team Liquid,sova
+emea_stage_1,BREEZE,FUT Esports,Team Liquid,jett
+emea_stage_1,BREEZE,FNATIC,Eternal Fire,neon
+emea_stage_1,BREEZE,FNATIC,Eternal Fire,viper
+emea_stage_1,BREEZE,FNATIC,Eternal Fire,sova
+emea_stage_1,BREEZE,FNATIC,Eternal Fire,harbor
+emea_stage_1,BREEZE,FNATIC,Eternal Fire,iso
+emea_stage_1,BREEZE,FNATIC,Team Vitality,neon
+emea_stage_1,BREEZE,FNATIC,Team Vitality,viper
+emea_stage_1,BREEZE,FNATIC,Team Vitality,sova
+emea_stage_1,BREEZE,FNATIC,Team Vitality,kayo
+emea_stage_1,BREEZE,FNATIC,Team Vitality,harbor
+emea_stage_1,BREEZE,FNATIC,GIANTX,neon
+emea_stage_1,BREEZE,FNATIC,GIANTX,viper
+emea_stage_1,BREEZE,FNATIC,GIANTX,sova
+emea_stage_1,BREEZE,FNATIC,GIANTX,kayo
+emea_stage_1,BREEZE,FNATIC,GIANTX,harbor
+emea_stage_1,BREEZE,Eternal Fire,FNATIC,astra
+emea_stage_1,BREEZE,Eternal Fire,FNATIC,sova
+emea_stage_1,BREEZE,Eternal Fire,FNATIC,cypher
+emea_stage_1,BREEZE,Eternal Fire,FNATIC,jett
+emea_stage_1,BREEZE,Eternal Fire,FNATIC,kayo
+emea_stage_1,BREEZE,BBL Esports,PCIFIC Esports,viper
+emea_stage_1,BREEZE,BBL Esports,PCIFIC Esports,astra
+emea_stage_1,BREEZE,BBL Esports,PCIFIC Esports,sova
+emea_stage_1,BREEZE,BBL Esports,PCIFIC Esports,jett
+emea_stage_1,BREEZE,BBL Esports,PCIFIC Esports,kayo
+emea_stage_1,BREEZE,BBL Esports,Team Vitality,neon
+emea_stage_1,BREEZE,BBL Esports,Team Vitality,viper
+emea_stage_1,BREEZE,BBL Esports,Team Vitality,omen
+emea_stage_1,BREEZE,BBL Esports,Team Vitality,sova
+emea_stage_1,BREEZE,BBL Esports,Team Vitality,jett
+emea_stage_1,BREEZE,PCIFIC Esports,BBL Esports,viper
+emea_stage_1,BREEZE,PCIFIC Esports,BBL Esports,omen
+emea_stage_1,BREEZE,PCIFIC Esports,BBL Esports,sova
+emea_stage_1,BREEZE,PCIFIC Esports,BBL Esports,jett
+emea_stage_1,BREEZE,PCIFIC Esports,BBL Esports,kayo
+emea_stage_1,BREEZE,Team Liquid,FUT Esports,neon
+emea_stage_1,BREEZE,Team Liquid,FUT Esports,viper
+emea_stage_1,BREEZE,Team Liquid,FUT Esports,omen
+emea_stage_1,BREEZE,Team Liquid,FUT Esports,sova
+emea_stage_1,BREEZE,Team Liquid,FUT Esports,kayo
+emea_stage_1,BREEZE,Team Vitality,FNATIC,viper
+emea_stage_1,BREEZE,Team Vitality,FNATIC,sova
+emea_stage_1,BREEZE,Team Vitality,FNATIC,jett
+emea_stage_1,BREEZE,Team Vitality,FNATIC,kayo
+emea_stage_1,BREEZE,Team Vitality,FNATIC,harbor
+emea_stage_1,BREEZE,Team Vitality,BBL Esports,viper
+emea_stage_1,BREEZE,Team Vitality,BBL Esports,sova
+emea_stage_1,BREEZE,Team Vitality,BBL Esports,jett
+emea_stage_1,BREEZE,Team Vitality,BBL Esports,kayo
+emea_stage_1,BREEZE,Team Vitality,BBL Esports,harbor
+emea_stage_1,BIND,Karmine Corp,FUT Esports,viper
+emea_stage_1,BIND,Karmine Corp,FUT Esports,skye
+emea_stage_1,BIND,Karmine Corp,FUT Esports,raze
+emea_stage_1,BIND,Karmine Corp,FUT Esports,brimstone
+emea_stage_1,BIND,Karmine Corp,FUT Esports,gekko
+emea_stage_1,BIND,GIANTX,FNATIC,neon
+emea_stage_1,BIND,GIANTX,FNATIC,viper
+emea_stage_1,BIND,GIANTX,FNATIC,skye
+emea_stage_1,BIND,GIANTX,FNATIC,brimstone
+emea_stage_1,BIND,GIANTX,FNATIC,tejo
+emea_stage_1,BIND,FUT Esports,Gentle Mates,neon
+emea_stage_1,BIND,FUT Esports,Gentle Mates,viper
+emea_stage_1,BIND,FUT Esports,Gentle Mates,skye
+emea_stage_1,BIND,FUT Esports,Gentle Mates,brimstone
+emea_stage_1,BIND,FUT Esports,Gentle Mates,waylay
+emea_stage_1,BIND,FUT Esports,Natus Vincere,neon
+emea_stage_1,BIND,FUT Esports,Natus Vincere,viper
+emea_stage_1,BIND,FUT Esports,Natus Vincere,skye
+emea_stage_1,BIND,FUT Esports,Natus Vincere,raze
+emea_stage_1,BIND,FUT Esports,Natus Vincere,brimstone
+emea_stage_1,BIND,FUT Esports,Karmine Corp,neon
+emea_stage_1,BIND,FUT Esports,Karmine Corp,viper
+emea_stage_1,BIND,FUT Esports,Karmine Corp,skye
+emea_stage_1,BIND,FUT Esports,Karmine Corp,raze
+emea_stage_1,BIND,FUT Esports,Karmine Corp,brimstone
+emea_stage_1,BIND,Natus Vincere,Team Heretics,neon
+emea_stage_1,BIND,Natus Vincere,Team Heretics,viper
+emea_stage_1,BIND,Natus Vincere,Team Heretics,skye
+emea_stage_1,BIND,Natus Vincere,Team Heretics,brimstone
+emea_stage_1,BIND,Natus Vincere,Team Heretics,chamber
+emea_stage_1,BIND,Natus Vincere,FUT Esports,neon
+emea_stage_1,BIND,Natus Vincere,FUT Esports,viper
+emea_stage_1,BIND,Natus Vincere,FUT Esports,skye
+emea_stage_1,BIND,Natus Vincere,FUT Esports,brimstone
+emea_stage_1,BIND,Natus Vincere,FUT Esports,chamber
+emea_stage_1,BIND,Natus Vincere,Team Liquid,neon
+emea_stage_1,BIND,Natus Vincere,Team Liquid,viper
+emea_stage_1,BIND,Natus Vincere,Team Liquid,skye
+emea_stage_1,BIND,Natus Vincere,Team Liquid,brimstone
+emea_stage_1,BIND,Natus Vincere,Team Liquid,vyse
+emea_stage_1,BIND,FNATIC,Eternal Fire,neon
+emea_stage_1,BIND,FNATIC,Eternal Fire,viper
+emea_stage_1,BIND,FNATIC,Eternal Fire,skye
+emea_stage_1,BIND,FNATIC,Eternal Fire,brimstone
+emea_stage_1,BIND,FNATIC,Eternal Fire,waylay
+emea_stage_1,BIND,FNATIC,GIANTX,neon
+emea_stage_1,BIND,FNATIC,GIANTX,viper
+emea_stage_1,BIND,FNATIC,GIANTX,skye
+emea_stage_1,BIND,FNATIC,GIANTX,brimstone
+emea_stage_1,BIND,FNATIC,GIANTX,waylay
+emea_stage_1,BIND,Eternal Fire,FNATIC,neon
+emea_stage_1,BIND,Eternal Fire,FNATIC,viper
+emea_stage_1,BIND,Eternal Fire,FNATIC,skye
+emea_stage_1,BIND,Eternal Fire,FNATIC,brimstone
+emea_stage_1,BIND,Eternal Fire,FNATIC,waylay
+emea_stage_1,BIND,Eternal Fire,Team Vitality,neon
+emea_stage_1,BIND,Eternal Fire,Team Vitality,viper
+emea_stage_1,BIND,Eternal Fire,Team Vitality,skye
+emea_stage_1,BIND,Eternal Fire,Team Vitality,brimstone
+emea_stage_1,BIND,Eternal Fire,Team Vitality,vyse
+emea_stage_1,BIND,Gentle Mates,FUT Esports,neon
+emea_stage_1,BIND,Gentle Mates,FUT Esports,viper
+emea_stage_1,BIND,Gentle Mates,FUT Esports,skye
+emea_stage_1,BIND,Gentle Mates,FUT Esports,brimstone
+emea_stage_1,BIND,Gentle Mates,FUT Esports,waylay
+emea_stage_1,BIND,Team Heretics,Natus Vincere,neon
+emea_stage_1,BIND,Team Heretics,Natus Vincere,viper
+emea_stage_1,BIND,Team Heretics,Natus Vincere,astra
+emea_stage_1,BIND,Team Heretics,Natus Vincere,skye
+emea_stage_1,BIND,Team Heretics,Natus Vincere,chamber
+emea_stage_1,BIND,Team Heretics,Team Liquid,neon
+emea_stage_1,BIND,Team Heretics,Team Liquid,viper
+emea_stage_1,BIND,Team Heretics,Team Liquid,astra
+emea_stage_1,BIND,Team Heretics,Team Liquid,skye
+emea_stage_1,BIND,Team Heretics,Team Liquid,chamber
+emea_stage_1,BIND,Team Liquid,Team Heretics,neon
+emea_stage_1,BIND,Team Liquid,Team Heretics,viper
+emea_stage_1,BIND,Team Liquid,Team Heretics,skye
+emea_stage_1,BIND,Team Liquid,Team Heretics,phoenix
+emea_stage_1,BIND,Team Liquid,Team Heretics,brimstone
+emea_stage_1,BIND,Team Liquid,Natus Vincere,neon
+emea_stage_1,BIND,Team Liquid,Natus Vincere,viper
+emea_stage_1,BIND,Team Liquid,Natus Vincere,skye
+emea_stage_1,BIND,Team Liquid,Natus Vincere,phoenix
+emea_stage_1,BIND,Team Liquid,Natus Vincere,brimstone
+emea_stage_1,BIND,Team Vitality,Eternal Fire,neon
+emea_stage_1,BIND,Team Vitality,Eternal Fire,viper
+emea_stage_1,BIND,Team Vitality,Eternal Fire,fade
+emea_stage_1,BIND,Team Vitality,Eternal Fire,phoenix
+emea_stage_1,BIND,Team Vitality,Eternal Fire,brimstone
+emea_stage_1,LOTUS,Karmine Corp,Team Heretics,neon
+emea_stage_1,LOTUS,Karmine Corp,Team Heretics,omen
+emea_stage_1,LOTUS,Karmine Corp,Team Heretics,fade
+emea_stage_1,LOTUS,Karmine Corp,Team Heretics,waylay
+emea_stage_1,LOTUS,Karmine Corp,Team Heretics,vyse
+emea_stage_1,LOTUS,Karmine Corp,FUT Esports,neon
+emea_stage_1,LOTUS,Karmine Corp,FUT Esports,omen
+emea_stage_1,LOTUS,Karmine Corp,FUT Esports,fade
+emea_stage_1,LOTUS,Karmine Corp,FUT Esports,cypher
+emea_stage_1,LOTUS,Karmine Corp,FUT Esports,phoenix
+emea_stage_1,LOTUS,GIANTX,BBL Esports,neon
+emea_stage_1,LOTUS,GIANTX,BBL Esports,viper
+emea_stage_1,LOTUS,GIANTX,BBL Esports,omen
+emea_stage_1,LOTUS,GIANTX,BBL Esports,fade
+emea_stage_1,LOTUS,GIANTX,BBL Esports,chamber
+emea_stage_1,LOTUS,FUT Esports,Karmine Corp,neon
+emea_stage_1,LOTUS,FUT Esports,Karmine Corp,viper
+emea_stage_1,LOTUS,FUT Esports,Karmine Corp,omen
+emea_stage_1,LOTUS,FUT Esports,Karmine Corp,fade
+emea_stage_1,LOTUS,FUT Esports,Karmine Corp,chamber
+emea_stage_1,LOTUS,Natus Vincere,Team Heretics,neon
+emea_stage_1,LOTUS,Natus Vincere,Team Heretics,viper
+emea_stage_1,LOTUS,Natus Vincere,Team Heretics,omen
+emea_stage_1,LOTUS,Natus Vincere,Team Heretics,fade
+emea_stage_1,LOTUS,Natus Vincere,Team Heretics,chamber
+emea_stage_1,LOTUS,Natus Vincere,Gentle Mates,neon
+emea_stage_1,LOTUS,Natus Vincere,Gentle Mates,viper
+emea_stage_1,LOTUS,Natus Vincere,Gentle Mates,omen
+emea_stage_1,LOTUS,Natus Vincere,Gentle Mates,fade
+emea_stage_1,LOTUS,Natus Vincere,Gentle Mates,chamber
+emea_stage_1,LOTUS,Natus Vincere,Team Liquid,neon
+emea_stage_1,LOTUS,Natus Vincere,Team Liquid,viper
+emea_stage_1,LOTUS,Natus Vincere,Team Liquid,omen
+emea_stage_1,LOTUS,Natus Vincere,Team Liquid,fade
+emea_stage_1,LOTUS,Natus Vincere,Team Liquid,vyse
+emea_stage_1,LOTUS,FNATIC,Eternal Fire,viper
+emea_stage_1,LOTUS,FNATIC,Eternal Fire,omen
+emea_stage_1,LOTUS,FNATIC,Eternal Fire,fade
+emea_stage_1,LOTUS,FNATIC,Eternal Fire,waylay
+emea_stage_1,LOTUS,FNATIC,Eternal Fire,killjoy
+emea_stage_1,LOTUS,FNATIC,PCIFIC Esports,neon
+emea_stage_1,LOTUS,FNATIC,PCIFIC Esports,viper
+emea_stage_1,LOTUS,FNATIC,PCIFIC Esports,omen
+emea_stage_1,LOTUS,FNATIC,PCIFIC Esports,fade
+emea_stage_1,LOTUS,FNATIC,PCIFIC Esports,killjoy
+emea_stage_1,LOTUS,Eternal Fire,FNATIC,neon
+emea_stage_1,LOTUS,Eternal Fire,FNATIC,omen
+emea_stage_1,LOTUS,Eternal Fire,FNATIC,skye
+emea_stage_1,LOTUS,Eternal Fire,FNATIC,raze
+emea_stage_1,LOTUS,Eternal Fire,FNATIC,veto
+emea_stage_1,LOTUS,Eternal Fire,Team Vitality,neon
+emea_stage_1,LOTUS,Eternal Fire,Team Vitality,viper
+emea_stage_1,LOTUS,Eternal Fire,Team Vitality,omen
+emea_stage_1,LOTUS,Eternal Fire,Team Vitality,fade
+emea_stage_1,LOTUS,Eternal Fire,Team Vitality,raze
+emea_stage_1,LOTUS,Eternal Fire,PCIFIC Esports,neon
+emea_stage_1,LOTUS,Eternal Fire,PCIFIC Esports,viper
+emea_stage_1,LOTUS,Eternal Fire,PCIFIC Esports,omen
+emea_stage_1,LOTUS,Eternal Fire,PCIFIC Esports,fade
+emea_stage_1,LOTUS,Eternal Fire,PCIFIC Esports,raze
+emea_stage_1,LOTUS,Gentle Mates,Natus Vincere,neon
+emea_stage_1,LOTUS,Gentle Mates,Natus Vincere,viper
+emea_stage_1,LOTUS,Gentle Mates,Natus Vincere,omen
+emea_stage_1,LOTUS,Gentle Mates,Natus Vincere,fade
+emea_stage_1,LOTUS,Gentle Mates,Natus Vincere,raze
+emea_stage_1,LOTUS,Gentle Mates,Team Heretics,neon
+emea_stage_1,LOTUS,Gentle Mates,Team Heretics,viper
+emea_stage_1,LOTUS,Gentle Mates,Team Heretics,omen
+emea_stage_1,LOTUS,Gentle Mates,Team Heretics,fade
+emea_stage_1,LOTUS,Gentle Mates,Team Heretics,raze
+emea_stage_1,LOTUS,Team Heretics,Natus Vincere,neon
+emea_stage_1,LOTUS,Team Heretics,Natus Vincere,omen
+emea_stage_1,LOTUS,Team Heretics,Natus Vincere,skye
+emea_stage_1,LOTUS,Team Heretics,Natus Vincere,chamber
+emea_stage_1,LOTUS,Team Heretics,Natus Vincere,harbor
+emea_stage_1,LOTUS,Team Heretics,Karmine Corp,neon
+emea_stage_1,LOTUS,Team Heretics,Karmine Corp,omen
+emea_stage_1,LOTUS,Team Heretics,Karmine Corp,fade
+emea_stage_1,LOTUS,Team Heretics,Karmine Corp,raze
+emea_stage_1,LOTUS,Team Heretics,Karmine Corp,vyse
+emea_stage_1,LOTUS,Team Heretics,Gentle Mates,neon
+emea_stage_1,LOTUS,Team Heretics,Gentle Mates,omen
+emea_stage_1,LOTUS,Team Heretics,Gentle Mates,fade
+emea_stage_1,LOTUS,Team Heretics,Gentle Mates,raze
+emea_stage_1,LOTUS,Team Heretics,Gentle Mates,vyse
+emea_stage_1,LOTUS,BBL Esports,GIANTX,neon
+emea_stage_1,LOTUS,BBL Esports,GIANTX,omen
+emea_stage_1,LOTUS,BBL Esports,GIANTX,fade
+emea_stage_1,LOTUS,BBL Esports,GIANTX,raze
+emea_stage_1,LOTUS,BBL Esports,GIANTX,vyse
+emea_stage_1,LOTUS,BBL Esports,Team Vitality,neon
+emea_stage_1,LOTUS,BBL Esports,Team Vitality,omen
+emea_stage_1,LOTUS,BBL Esports,Team Vitality,fade
+emea_stage_1,LOTUS,BBL Esports,Team Vitality,raze
+emea_stage_1,LOTUS,BBL Esports,Team Vitality,vyse
+emea_stage_1,LOTUS,PCIFIC Esports,FNATIC,neon
+emea_stage_1,LOTUS,PCIFIC Esports,FNATIC,omen
+emea_stage_1,LOTUS,PCIFIC Esports,FNATIC,fade
+emea_stage_1,LOTUS,PCIFIC Esports,FNATIC,veto
+emea_stage_1,LOTUS,PCIFIC Esports,FNATIC,sage
+emea_stage_1,LOTUS,PCIFIC Esports,Eternal Fire,neon
+emea_stage_1,LOTUS,PCIFIC Esports,Eternal Fire,omen
+emea_stage_1,LOTUS,PCIFIC Esports,Eternal Fire,fade
+emea_stage_1,LOTUS,PCIFIC Esports,Eternal Fire,vyse
+emea_stage_1,LOTUS,PCIFIC Esports,Eternal Fire,deadlock
+emea_stage_1,LOTUS,Team Liquid,Natus Vincere,neon
+emea_stage_1,LOTUS,Team Liquid,Natus Vincere,omen
+emea_stage_1,LOTUS,Team Liquid,Natus Vincere,fade
+emea_stage_1,LOTUS,Team Liquid,Natus Vincere,raze
+emea_stage_1,LOTUS,Team Liquid,Natus Vincere,cypher
+emea_stage_1,LOTUS,Team Vitality,Eternal Fire,neon
+emea_stage_1,LOTUS,Team Vitality,Eternal Fire,viper
+emea_stage_1,LOTUS,Team Vitality,Eternal Fire,omen
+emea_stage_1,LOTUS,Team Vitality,Eternal Fire,fade
+emea_stage_1,LOTUS,Team Vitality,Eternal Fire,killjoy
+emea_stage_1,LOTUS,Team Vitality,BBL Esports,neon
+emea_stage_1,LOTUS,Team Vitality,BBL Esports,viper
+emea_stage_1,LOTUS,Team Vitality,BBL Esports,omen
+emea_stage_1,LOTUS,Team Vitality,BBL Esports,fade
+emea_stage_1,LOTUS,Team Vitality,BBL Esports,vyse
+emea_stage_1,HAVEN,Karmine Corp,Team Liquid,omen
+emea_stage_1,HAVEN,Karmine Corp,Team Liquid,fade
+emea_stage_1,HAVEN,Karmine Corp,Team Liquid,vyse
+emea_stage_1,HAVEN,Karmine Corp,Team Liquid,jett
+emea_stage_1,HAVEN,Karmine Corp,Team Liquid,tejo
+emea_stage_1,HAVEN,Karmine Corp,Gentle Mates,neon
+emea_stage_1,HAVEN,Karmine Corp,Gentle Mates,omen
+emea_stage_1,HAVEN,Karmine Corp,Gentle Mates,fade
+emea_stage_1,HAVEN,Karmine Corp,Gentle Mates,cypher
+emea_stage_1,HAVEN,Karmine Corp,Gentle Mates,phoenix
+emea_stage_1,HAVEN,Karmine Corp,Team Heretics,neon
+emea_stage_1,HAVEN,Karmine Corp,Team Heretics,omen
+emea_stage_1,HAVEN,Karmine Corp,Team Heretics,fade
+emea_stage_1,HAVEN,Karmine Corp,Team Heretics,cypher
+emea_stage_1,HAVEN,Karmine Corp,Team Heretics,phoenix
+emea_stage_1,HAVEN,Karmine Corp,FUT Esports,neon
+emea_stage_1,HAVEN,Karmine Corp,FUT Esports,omen
+emea_stage_1,HAVEN,Karmine Corp,FUT Esports,fade
+emea_stage_1,HAVEN,Karmine Corp,FUT Esports,cypher
+emea_stage_1,HAVEN,Karmine Corp,FUT Esports,phoenix
+emea_stage_1,HAVEN,GIANTX,Team Vitality,neon
+emea_stage_1,HAVEN,GIANTX,Team Vitality,omen
+emea_stage_1,HAVEN,GIANTX,Team Vitality,sova
+emea_stage_1,HAVEN,GIANTX,Team Vitality,cypher
+emea_stage_1,HAVEN,GIANTX,Team Vitality,phoenix
+emea_stage_1,HAVEN,GIANTX,PCIFIC Esports,neon
+emea_stage_1,HAVEN,GIANTX,PCIFIC Esports,omen
+emea_stage_1,HAVEN,GIANTX,PCIFIC Esports,sova
+emea_stage_1,HAVEN,GIANTX,PCIFIC Esports,cypher
+emea_stage_1,HAVEN,GIANTX,PCIFIC Esports,phoenix
+emea_stage_1,HAVEN,GIANTX,BBL Esports,neon
+emea_stage_1,HAVEN,GIANTX,BBL Esports,omen
+emea_stage_1,HAVEN,GIANTX,BBL Esports,sova
+emea_stage_1,HAVEN,GIANTX,BBL Esports,cypher
+emea_stage_1,HAVEN,GIANTX,BBL Esports,phoenix
+emea_stage_1,HAVEN,GIANTX,FNATIC,neon
+emea_stage_1,HAVEN,GIANTX,FNATIC,omen
+emea_stage_1,HAVEN,GIANTX,FNATIC,sova
+emea_stage_1,HAVEN,GIANTX,FNATIC,cypher
+emea_stage_1,HAVEN,GIANTX,FNATIC,phoenix
+emea_stage_1,HAVEN,FUT Esports,Gentle Mates,neon
+emea_stage_1,HAVEN,FUT Esports,Gentle Mates,omen
+emea_stage_1,HAVEN,FUT Esports,Gentle Mates,sova
+emea_stage_1,HAVEN,FUT Esports,Gentle Mates,waylay
+emea_stage_1,HAVEN,FUT Esports,Gentle Mates,killjoy
+emea_stage_1,HAVEN,FUT Esports,Team Liquid,neon
+emea_stage_1,HAVEN,FUT Esports,Team Liquid,omen
+emea_stage_1,HAVEN,FUT Esports,Team Liquid,sova
+emea_stage_1,HAVEN,FUT Esports,Team Liquid,cypher
+emea_stage_1,HAVEN,FUT Esports,Team Liquid,jett
+emea_stage_1,HAVEN,FUT Esports,Karmine Corp,neon
+emea_stage_1,HAVEN,FUT Esports,Karmine Corp,omen
+emea_stage_1,HAVEN,FUT Esports,Karmine Corp,sova
+emea_stage_1,HAVEN,FUT Esports,Karmine Corp,cypher
+emea_stage_1,HAVEN,FUT Esports,Karmine Corp,phoenix
+emea_stage_1,HAVEN,FNATIC,GIANTX,neon
+emea_stage_1,HAVEN,FNATIC,GIANTX,omen
+emea_stage_1,HAVEN,FNATIC,GIANTX,sova
+emea_stage_1,HAVEN,FNATIC,GIANTX,cypher
+emea_stage_1,HAVEN,FNATIC,GIANTX,phoenix
+emea_stage_1,HAVEN,Gentle Mates,FUT Esports,neon
+emea_stage_1,HAVEN,Gentle Mates,FUT Esports,omen
+emea_stage_1,HAVEN,Gentle Mates,FUT Esports,sova
+emea_stage_1,HAVEN,Gentle Mates,FUT Esports,cypher
+emea_stage_1,HAVEN,Gentle Mates,FUT Esports,phoenix
+emea_stage_1,HAVEN,Gentle Mates,Karmine Corp,neon
+emea_stage_1,HAVEN,Gentle Mates,Karmine Corp,viper
+emea_stage_1,HAVEN,Gentle Mates,Karmine Corp,omen
+emea_stage_1,HAVEN,Gentle Mates,Karmine Corp,fade
+emea_stage_1,HAVEN,Gentle Mates,Karmine Corp,veto
+emea_stage_1,HAVEN,Team Heretics,Karmine Corp,neon
+emea_stage_1,HAVEN,Team Heretics,Karmine Corp,omen
+emea_stage_1,HAVEN,Team Heretics,Karmine Corp,sova
+emea_stage_1,HAVEN,Team Heretics,Karmine Corp,cypher
+emea_stage_1,HAVEN,Team Heretics,Karmine Corp,phoenix
+emea_stage_1,HAVEN,BBL Esports,GIANTX,omen
+emea_stage_1,HAVEN,BBL Esports,GIANTX,sova
+emea_stage_1,HAVEN,BBL Esports,GIANTX,cypher
+emea_stage_1,HAVEN,BBL Esports,GIANTX,jett
+emea_stage_1,HAVEN,BBL Esports,GIANTX,breach
+emea_stage_1,HAVEN,BBL Esports,Team Vitality,omen
+emea_stage_1,HAVEN,BBL Esports,Team Vitality,sova
+emea_stage_1,HAVEN,BBL Esports,Team Vitality,cypher
+emea_stage_1,HAVEN,BBL Esports,Team Vitality,jett
+emea_stage_1,HAVEN,BBL Esports,Team Vitality,breach
+emea_stage_1,HAVEN,PCIFIC Esports,GIANTX,neon
+emea_stage_1,HAVEN,PCIFIC Esports,GIANTX,viper
+emea_stage_1,HAVEN,PCIFIC Esports,GIANTX,omen
+emea_stage_1,HAVEN,PCIFIC Esports,GIANTX,sova
+emea_stage_1,HAVEN,PCIFIC Esports,GIANTX,chamber
+emea_stage_1,HAVEN,Team Liquid,Karmine Corp,neon
+emea_stage_1,HAVEN,Team Liquid,Karmine Corp,omen
+emea_stage_1,HAVEN,Team Liquid,Karmine Corp,skye
+emea_stage_1,HAVEN,Team Liquid,Karmine Corp,phoenix
+emea_stage_1,HAVEN,Team Liquid,Karmine Corp,killjoy
+emea_stage_1,HAVEN,Team Liquid,FUT Esports,neon
+emea_stage_1,HAVEN,Team Liquid,FUT Esports,omen
+emea_stage_1,HAVEN,Team Liquid,FUT Esports,skye
+emea_stage_1,HAVEN,Team Liquid,FUT Esports,phoenix
+emea_stage_1,HAVEN,Team Liquid,FUT Esports,killjoy
+emea_stage_1,HAVEN,Team Vitality,GIANTX,neon
+emea_stage_1,HAVEN,Team Vitality,GIANTX,viper
+emea_stage_1,HAVEN,Team Vitality,GIANTX,omen
+emea_stage_1,HAVEN,Team Vitality,GIANTX,sova
+emea_stage_1,HAVEN,Team Vitality,GIANTX,killjoy
+emea_stage_1,HAVEN,Team Vitality,BBL Esports,neon
+emea_stage_1,HAVEN,Team Vitality,BBL Esports,viper
+emea_stage_1,HAVEN,Team Vitality,BBL Esports,omen
+emea_stage_1,HAVEN,Team Vitality,BBL Esports,sova
+emea_stage_1,HAVEN,Team Vitality,BBL Esports,killjoy
+emea_stage_1,PEARL,Karmine Corp,Team Liquid,fade
+emea_stage_1,PEARL,Karmine Corp,Team Liquid,astra
+emea_stage_1,PEARL,Karmine Corp,Team Liquid,waylay
+emea_stage_1,PEARL,Karmine Corp,Team Liquid,vyse
+emea_stage_1,PEARL,Karmine Corp,Team Liquid,tejo
+emea_stage_1,PEARL,Karmine Corp,Gentle Mates,omen
+emea_stage_1,PEARL,Karmine Corp,Gentle Mates,fade
+emea_stage_1,PEARL,Karmine Corp,Gentle Mates,astra
+emea_stage_1,PEARL,Karmine Corp,Gentle Mates,jett
+emea_stage_1,PEARL,Karmine Corp,Gentle Mates,veto
+emea_stage_1,PEARL,GIANTX,Team Vitality,fade
+emea_stage_1,PEARL,GIANTX,Team Vitality,astra
+emea_stage_1,PEARL,GIANTX,Team Vitality,cypher
+emea_stage_1,PEARL,GIANTX,Team Vitality,waylay
+emea_stage_1,PEARL,GIANTX,Team Vitality,tejo
+emea_stage_1,PEARL,GIANTX,PCIFIC Esports,fade
+emea_stage_1,PEARL,GIANTX,PCIFIC Esports,astra
+emea_stage_1,PEARL,GIANTX,PCIFIC Esports,cypher
+emea_stage_1,PEARL,GIANTX,PCIFIC Esports,waylay
+emea_stage_1,PEARL,GIANTX,PCIFIC Esports,tejo
+emea_stage_1,PEARL,FUT Esports,Gentle Mates,neon
+emea_stage_1,PEARL,FUT Esports,Gentle Mates,fade
+emea_stage_1,PEARL,FUT Esports,Gentle Mates,astra
+emea_stage_1,PEARL,FUT Esports,Gentle Mates,waylay
+emea_stage_1,PEARL,FUT Esports,Gentle Mates,killjoy
+emea_stage_1,PEARL,Natus Vincere,Team Heretics,astra
+emea_stage_1,PEARL,Natus Vincere,Team Heretics,sova
+emea_stage_1,PEARL,Natus Vincere,Team Heretics,waylay
+emea_stage_1,PEARL,Natus Vincere,Team Heretics,chamber
+emea_stage_1,PEARL,Natus Vincere,Team Heretics,tejo
+emea_stage_1,PEARL,Natus Vincere,Gentle Mates,neon
+emea_stage_1,PEARL,Natus Vincere,Gentle Mates,astra
+emea_stage_1,PEARL,Natus Vincere,Gentle Mates,sova
+emea_stage_1,PEARL,Natus Vincere,Gentle Mates,chamber
+emea_stage_1,PEARL,Natus Vincere,Gentle Mates,tejo
+emea_stage_1,PEARL,Eternal Fire,BBL Esports,neon
+emea_stage_1,PEARL,Eternal Fire,BBL Esports,fade
+emea_stage_1,PEARL,Eternal Fire,BBL Esports,astra
+emea_stage_1,PEARL,Eternal Fire,BBL Esports,cypher
+emea_stage_1,PEARL,Eternal Fire,BBL Esports,phoenix
+emea_stage_1,PEARL,Gentle Mates,FUT Esports,neon
+emea_stage_1,PEARL,Gentle Mates,FUT Esports,fade
+emea_stage_1,PEARL,Gentle Mates,FUT Esports,astra
+emea_stage_1,PEARL,Gentle Mates,FUT Esports,cypher
+emea_stage_1,PEARL,Gentle Mates,FUT Esports,phoenix
+emea_stage_1,PEARL,Gentle Mates,Karmine Corp,neon
+emea_stage_1,PEARL,Gentle Mates,Karmine Corp,fade
+emea_stage_1,PEARL,Gentle Mates,Karmine Corp,astra
+emea_stage_1,PEARL,Gentle Mates,Karmine Corp,cypher
+emea_stage_1,PEARL,Gentle Mates,Karmine Corp,phoenix
+emea_stage_1,PEARL,Gentle Mates,Natus Vincere,neon
+emea_stage_1,PEARL,Gentle Mates,Natus Vincere,fade
+emea_stage_1,PEARL,Gentle Mates,Natus Vincere,astra
+emea_stage_1,PEARL,Gentle Mates,Natus Vincere,cypher
+emea_stage_1,PEARL,Gentle Mates,Natus Vincere,phoenix
+emea_stage_1,PEARL,Team Heretics,Natus Vincere,neon
+emea_stage_1,PEARL,Team Heretics,Natus Vincere,astra
+emea_stage_1,PEARL,Team Heretics,Natus Vincere,skye
+emea_stage_1,PEARL,Team Heretics,Natus Vincere,chamber
+emea_stage_1,PEARL,Team Heretics,Natus Vincere,harbor
+emea_stage_1,PEARL,Team Heretics,Team Liquid,neon
+emea_stage_1,PEARL,Team Heretics,Team Liquid,astra
+emea_stage_1,PEARL,Team Heretics,Team Liquid,skye
+emea_stage_1,PEARL,Team Heretics,Team Liquid,chamber
+emea_stage_1,PEARL,Team Heretics,Team Liquid,harbor
+emea_stage_1,PEARL,BBL Esports,Eternal Fire,neon
+emea_stage_1,PEARL,BBL Esports,Eternal Fire,astra
+emea_stage_1,PEARL,BBL Esports,Eternal Fire,sova
+emea_stage_1,PEARL,BBL Esports,Eternal Fire,cypher
+emea_stage_1,PEARL,BBL Esports,Eternal Fire,waylay
+emea_stage_1,PEARL,PCIFIC Esports,GIANTX,neon
+emea_stage_1,PEARL,PCIFIC Esports,GIANTX,fade
+emea_stage_1,PEARL,PCIFIC Esports,GIANTX,astra
+emea_stage_1,PEARL,PCIFIC Esports,GIANTX,raze
+emea_stage_1,PEARL,PCIFIC Esports,GIANTX,veto
+emea_stage_1,PEARL,Team Liquid,Karmine Corp,neon
+emea_stage_1,PEARL,Team Liquid,Karmine Corp,fade
+emea_stage_1,PEARL,Team Liquid,Karmine Corp,astra
+emea_stage_1,PEARL,Team Liquid,Karmine Corp,phoenix
+emea_stage_1,PEARL,Team Liquid,Karmine Corp,killjoy
+emea_stage_1,PEARL,Team Liquid,Team Heretics,neon
+emea_stage_1,PEARL,Team Liquid,Team Heretics,fade
+emea_stage_1,PEARL,Team Liquid,Team Heretics,astra
+emea_stage_1,PEARL,Team Liquid,Team Heretics,phoenix
+emea_stage_1,PEARL,Team Liquid,Team Heretics,killjoy
+emea_stage_1,PEARL,Team Vitality,GIANTX,neon
+emea_stage_1,PEARL,Team Vitality,GIANTX,astra
+emea_stage_1,PEARL,Team Vitality,GIANTX,sova
+emea_stage_1,PEARL,Team Vitality,GIANTX,chamber
+emea_stage_1,PEARL,Team Vitality,GIANTX,kayo
+emea_stage_1,SPLIT,GIANTX,PCIFIC Esports,neon
+emea_stage_1,SPLIT,GIANTX,PCIFIC Esports,viper
+emea_stage_1,SPLIT,GIANTX,PCIFIC Esports,astra
+emea_stage_1,SPLIT,GIANTX,PCIFIC Esports,skye
+emea_stage_1,SPLIT,GIANTX,PCIFIC Esports,waylay
+emea_stage_1,SPLIT,GIANTX,BBL Esports,neon
+emea_stage_1,SPLIT,GIANTX,BBL Esports,viper
+emea_stage_1,SPLIT,GIANTX,BBL Esports,astra
+emea_stage_1,SPLIT,GIANTX,BBL Esports,skye
+emea_stage_1,SPLIT,GIANTX,BBL Esports,waylay
+emea_stage_1,SPLIT,FUT Esports,Natus Vincere,neon
+emea_stage_1,SPLIT,FUT Esports,Natus Vincere,viper
+emea_stage_1,SPLIT,FUT Esports,Natus Vincere,omen
+emea_stage_1,SPLIT,FUT Esports,Natus Vincere,skye
+emea_stage_1,SPLIT,FUT Esports,Natus Vincere,raze
+emea_stage_1,SPLIT,Natus Vincere,FUT Esports,neon
+emea_stage_1,SPLIT,Natus Vincere,FUT Esports,viper
+emea_stage_1,SPLIT,Natus Vincere,FUT Esports,omen
+emea_stage_1,SPLIT,Natus Vincere,FUT Esports,fade
+emea_stage_1,SPLIT,Natus Vincere,FUT Esports,raze
+emea_stage_1,SPLIT,Natus Vincere,Team Liquid,neon
+emea_stage_1,SPLIT,Natus Vincere,Team Liquid,viper
+emea_stage_1,SPLIT,Natus Vincere,Team Liquid,omen
+emea_stage_1,SPLIT,Natus Vincere,Team Liquid,fade
+emea_stage_1,SPLIT,Natus Vincere,Team Liquid,vyse
+emea_stage_1,SPLIT,FNATIC,Team Vitality,neon
+emea_stage_1,SPLIT,FNATIC,Team Vitality,viper
+emea_stage_1,SPLIT,FNATIC,Team Vitality,astra
+emea_stage_1,SPLIT,FNATIC,Team Vitality,skye
+emea_stage_1,SPLIT,FNATIC,Team Vitality,raze
+emea_stage_1,SPLIT,FNATIC,PCIFIC Esports,neon
+emea_stage_1,SPLIT,FNATIC,PCIFIC Esports,viper
+emea_stage_1,SPLIT,FNATIC,PCIFIC Esports,astra
+emea_stage_1,SPLIT,FNATIC,PCIFIC Esports,skye
+emea_stage_1,SPLIT,FNATIC,PCIFIC Esports,raze
+emea_stage_1,SPLIT,Eternal Fire,BBL Esports,neon
+emea_stage_1,SPLIT,Eternal Fire,BBL Esports,viper
+emea_stage_1,SPLIT,Eternal Fire,BBL Esports,fade
+emea_stage_1,SPLIT,Eternal Fire,BBL Esports,astra
+emea_stage_1,SPLIT,Eternal Fire,BBL Esports,raze
+emea_stage_1,SPLIT,Eternal Fire,PCIFIC Esports,neon
+emea_stage_1,SPLIT,Eternal Fire,PCIFIC Esports,viper
+emea_stage_1,SPLIT,Eternal Fire,PCIFIC Esports,omen
+emea_stage_1,SPLIT,Eternal Fire,PCIFIC Esports,fade
+emea_stage_1,SPLIT,Eternal Fire,PCIFIC Esports,raze
+emea_stage_1,SPLIT,BBL Esports,PCIFIC Esports,neon
+emea_stage_1,SPLIT,BBL Esports,PCIFIC Esports,viper
+emea_stage_1,SPLIT,BBL Esports,PCIFIC Esports,omen
+emea_stage_1,SPLIT,BBL Esports,PCIFIC Esports,skye
+emea_stage_1,SPLIT,BBL Esports,PCIFIC Esports,waylay
+emea_stage_1,SPLIT,BBL Esports,Eternal Fire,viper
+emea_stage_1,SPLIT,BBL Esports,Eternal Fire,omen
+emea_stage_1,SPLIT,BBL Esports,Eternal Fire,skye
+emea_stage_1,SPLIT,BBL Esports,Eternal Fire,raze
+emea_stage_1,SPLIT,BBL Esports,Eternal Fire,jett
+emea_stage_1,SPLIT,BBL Esports,GIANTX,neon
+emea_stage_1,SPLIT,BBL Esports,GIANTX,fade
+emea_stage_1,SPLIT,BBL Esports,GIANTX,astra
+emea_stage_1,SPLIT,BBL Esports,GIANTX,raze
+emea_stage_1,SPLIT,BBL Esports,GIANTX,vyse
+emea_stage_1,SPLIT,PCIFIC Esports,BBL Esports,viper
+emea_stage_1,SPLIT,PCIFIC Esports,BBL Esports,fade
+emea_stage_1,SPLIT,PCIFIC Esports,BBL Esports,astra
+emea_stage_1,SPLIT,PCIFIC Esports,BBL Esports,raze
+emea_stage_1,SPLIT,PCIFIC Esports,BBL Esports,waylay
+emea_stage_1,SPLIT,PCIFIC Esports,GIANTX,neon
+emea_stage_1,SPLIT,PCIFIC Esports,GIANTX,viper
+emea_stage_1,SPLIT,PCIFIC Esports,GIANTX,fade
+emea_stage_1,SPLIT,PCIFIC Esports,GIANTX,astra
+emea_stage_1,SPLIT,PCIFIC Esports,GIANTX,raze
+emea_stage_1,SPLIT,PCIFIC Esports,FNATIC,neon
+emea_stage_1,SPLIT,PCIFIC Esports,FNATIC,viper
+emea_stage_1,SPLIT,PCIFIC Esports,FNATIC,fade
+emea_stage_1,SPLIT,PCIFIC Esports,FNATIC,astra
+emea_stage_1,SPLIT,PCIFIC Esports,FNATIC,raze
+emea_stage_1,SPLIT,PCIFIC Esports,Eternal Fire,neon
+emea_stage_1,SPLIT,PCIFIC Esports,Eternal Fire,viper
+emea_stage_1,SPLIT,PCIFIC Esports,Eternal Fire,fade
+emea_stage_1,SPLIT,PCIFIC Esports,Eternal Fire,astra
+emea_stage_1,SPLIT,PCIFIC Esports,Eternal Fire,raze
+emea_stage_1,SPLIT,Team Liquid,Natus Vincere,neon
+emea_stage_1,SPLIT,Team Liquid,Natus Vincere,viper
+emea_stage_1,SPLIT,Team Liquid,Natus Vincere,fade
+emea_stage_1,SPLIT,Team Liquid,Natus Vincere,astra
+emea_stage_1,SPLIT,Team Liquid,Natus Vincere,raze
+emea_stage_1,SPLIT,Team Vitality,FNATIC,neon
+emea_stage_1,SPLIT,Team Vitality,FNATIC,viper
+emea_stage_1,SPLIT,Team Vitality,FNATIC,omen
+emea_stage_1,SPLIT,Team Vitality,FNATIC,fade
+emea_stage_1,SPLIT,Team Vitality,FNATIC,raze
+emea_stage_1,FRACTURE,Karmine Corp,Gentle Mates,fade
+emea_stage_1,FRACTURE,Karmine Corp,Gentle Mates,astra
+emea_stage_1,FRACTURE,Karmine Corp,Gentle Mates,waylay
+emea_stage_1,FRACTURE,Karmine Corp,Gentle Mates,vyse
+emea_stage_1,FRACTURE,Karmine Corp,Gentle Mates,kayo
+emea_stage_1,FRACTURE,Karmine Corp,Team Heretics,fade
+emea_stage_1,FRACTURE,Karmine Corp,Team Heretics,astra
+emea_stage_1,FRACTURE,Karmine Corp,Team Heretics,waylay
+emea_stage_1,FRACTURE,Karmine Corp,Team Heretics,vyse
+emea_stage_1,FRACTURE,Karmine Corp,Team Heretics,kayo
+emea_stage_1,FRACTURE,FUT Esports,Natus Vincere,neon
+emea_stage_1,FRACTURE,FUT Esports,Natus Vincere,raze
+emea_stage_1,FRACTURE,FUT Esports,Natus Vincere,cypher
+emea_stage_1,FRACTURE,FUT Esports,Natus Vincere,brimstone
+emea_stage_1,FRACTURE,FUT Esports,Natus Vincere,breach
+emea_stage_1,FRACTURE,Natus Vincere,FUT Esports,neon
+emea_stage_1,FRACTURE,Natus Vincere,FUT Esports,viper
+emea_stage_1,FRACTURE,Natus Vincere,FUT Esports,omen
+emea_stage_1,FRACTURE,Natus Vincere,FUT Esports,fade
+emea_stage_1,FRACTURE,Natus Vincere,FUT Esports,chamber
+emea_stage_1,FRACTURE,Eternal Fire,PCIFIC Esports,neon
+emea_stage_1,FRACTURE,Eternal Fire,PCIFIC Esports,skye
+emea_stage_1,FRACTURE,Eternal Fire,PCIFIC Esports,cypher
+emea_stage_1,FRACTURE,Eternal Fire,PCIFIC Esports,brimstone
+emea_stage_1,FRACTURE,Eternal Fire,PCIFIC Esports,tejo
+emea_stage_1,FRACTURE,Gentle Mates,Karmine Corp,neon
+emea_stage_1,FRACTURE,Gentle Mates,Karmine Corp,fade
+emea_stage_1,FRACTURE,Gentle Mates,Karmine Corp,brimstone
+emea_stage_1,FRACTURE,Gentle Mates,Karmine Corp,veto
+emea_stage_1,FRACTURE,Gentle Mates,Karmine Corp,breach
+emea_stage_1,FRACTURE,Gentle Mates,Team Heretics,neon
+emea_stage_1,FRACTURE,Gentle Mates,Team Heretics,fade
+emea_stage_1,FRACTURE,Gentle Mates,Team Heretics,brimstone
+emea_stage_1,FRACTURE,Gentle Mates,Team Heretics,veto
+emea_stage_1,FRACTURE,Gentle Mates,Team Heretics,breach
+emea_stage_1,FRACTURE,Team Heretics,Karmine Corp,neon
+emea_stage_1,FRACTURE,Team Heretics,Karmine Corp,fade
+emea_stage_1,FRACTURE,Team Heretics,Karmine Corp,raze
+emea_stage_1,FRACTURE,Team Heretics,Karmine Corp,cypher
+emea_stage_1,FRACTURE,Team Heretics,Karmine Corp,brimstone
+emea_stage_1,FRACTURE,Team Heretics,Gentle Mates,neon
+emea_stage_1,FRACTURE,Team Heretics,Gentle Mates,fade
+emea_stage_1,FRACTURE,Team Heretics,Gentle Mates,raze
+emea_stage_1,FRACTURE,Team Heretics,Gentle Mates,cypher
+emea_stage_1,FRACTURE,Team Heretics,Gentle Mates,brimstone
+emea_stage_1,FRACTURE,PCIFIC Esports,Eternal Fire,neon
+emea_stage_1,FRACTURE,PCIFIC Esports,Eternal Fire,astra
+emea_stage_1,FRACTURE,PCIFIC Esports,Eternal Fire,skye
+emea_stage_1,FRACTURE,PCIFIC Esports,Eternal Fire,tejo
+emea_stage_1,FRACTURE,PCIFIC Esports,Eternal Fire,veto

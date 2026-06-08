@@ -1,0 +1,49 @@
+team,slug,asset_path,logo_url,has_local_asset,note
+100 Thieves,100-thieves,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+All Gamers,all-gamers,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+BBL Esports,bbl-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Bilibili Gaming,bilibili-gaming,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Cloud9,cloud9,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+DetonatioN FocusMe,detonation-focusme,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Dragon Ranger Gaming,dragon-ranger-gaming,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+EDward Gaming,edward-gaming,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+ENVY,envy,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Eternal Fire,eternal-fire,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Evil Geniuses,evil-geniuses,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+FNATIC,fnatic,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+FULL SENSE,full-sense,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+FURIA,furia,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+FUT Esports,fut-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+FunPlus Phoenix,funplus-phoenix,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+G2 Esports,g2-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+GIANTX,giantx,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Gen.G,gen-g,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Gentle Mates,gentle-mates,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Global Esports,global-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+JDG Esports,jdg-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+KRÜ Esports,kr-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Karmine Corp,karmine-corp,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Kiwoom DRX,kiwoom-drx,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+LEVIATÁN,leviat-n,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+LOUD,loud,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+MIBR,mibr,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+NRG,nrg,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Natus Vincere,natus-vincere,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Nongshim RedForce,nongshim-redforce,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Nova Esports,nova-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+PCIFIC Esports,pcific-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Paper Rex,paper-rex,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Rex Regum Qeon,rex-regum-qeon,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Sentinels,sentinels,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+T1,t1,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+TYLOO,tyloo,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Team Heretics,team-heretics,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Team Liquid,team-liquid,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Team Secret,team-secret,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Team Vitality,team-vitality,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Titan Esports Club,titan-esports-club,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Trace Esports,trace-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+VARREL,varrel,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Wolves Esports,wolves-esports,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+Xi Lai Gaming,xi-lai-gaming,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.
+ZETA DIVISION,zeta-division,,,False,Optional: add a PNG with this slug in data/assets/teams or fill logo_url manually.

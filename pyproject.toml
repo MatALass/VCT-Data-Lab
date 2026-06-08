@@ -1,0 +1,41 @@
+[project]
+name = "vlr-analytics-pro"
+version = "0.1.0"
+description = "Unified VLR Valorant analytics suite: scraping, cleaning, marts, modeling, API, React dashboard and VCT role ranker."
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "fastapi>=0.115",
+  "joblib>=1.4",
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "playwright>=1.48",
+  "pydantic>=2.8",
+  "requests>=2.32",
+  "streamlit>=1.35",
+  "plotly>=5.22",
+  "lxml>=5.2",
+  "scikit-learn>=1.5",
+  "typer>=0.12",
+  "uvicorn>=0.30",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.7", "httpx>=0.27"]
+
+[project.scripts]
+vlr = "vlr_analytics.cli:app"
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

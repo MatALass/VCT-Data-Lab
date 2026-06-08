@@ -1,0 +1,124 @@
+{
+  "data_quality": {
+    "total_compositions_observed": 319,
+    "teams_profiled": 48,
+    "agents_with_meta_presence_data": 203,
+    "signature_maps_found": 6,
+    "pair_patterns_above_threshold": 293,
+    "insights_generated": 7
+  },
+  "top_insights": [
+    {
+      "type": "meta_agent",
+      "title": "neon is the most present agent in the observed meta",
+      "entity": "neon",
+      "metric": "meta_presence_score",
+      "value": 0.6566,
+      "confidence": "high",
+      "evidence": {
+        "global_pick_rate": 0.8106,
+        "cross_map_stability": 0.7902,
+        "maps_played": 39
+      },
+      "warning": null
+    },
+    {
+      "type": "map_specialist",
+      "title": "astra shows strong map dependency on Pearl",
+      "entity": "astra",
+      "metric": "map_dependence_score",
+      "value": 1.0,
+      "confidence": "high",
+      "evidence": {
+        "map": "Pearl",
+        "local_pick_rate": 1.0,
+        "global_pick_rate": 0.2523,
+        "local_pick_delta": 0.7477
+      },
+      "warning": "Map-dependency is based on pick-rate delta only; it does not imply win-rate difference."
+    },
+    {
+      "type": "team_profile",
+      "title": "Xi Lai Gaming has the most structured tactical profile in the observed data",
+      "entity": "Xi Lai Gaming",
+      "metric": "tactical_profile_score",
+      "value": 0.6391,
+      "confidence": "high",
+      "evidence": {
+        "composition_stability_score": 0.6875,
+        "agent_core_score": 0.4167,
+        "maps_covered": 6,
+        "total_compositions": 16
+      },
+      "warning": "tactical_profile_score measures structural legibility, not competitive strength."
+    },
+    {
+      "type": "map_identity",
+      "title": "Wolves Esports has a signature map identity on LOTUS",
+      "entity": "Wolves Esports",
+      "metric": "map_identity_score",
+      "value": 1.0,
+      "confidence": "high",
+      "evidence": {
+        "map": "LOTUS",
+        "map_volume_share": 0.4167,
+        "compositions": 5,
+        "comp_diversity": 0.4
+      },
+      "warning": null
+    },
+    {
+      "type": "signature_composition",
+      "title": "All Gamers relies on a signature composition on LOTUS",
+      "entity": "All Gamers",
+      "metric": "composition_frequency",
+      "value": 1.0,
+      "confidence": "high",
+      "evidence": {
+        "agents": "cypher,fade,neon,omen,waylay",
+        "times_used": 4,
+        "teams_using_same_comp": 1,
+        "map": "LOTUS"
+      },
+      "warning": null
+    },
+    {
+      "type": "agent_pair",
+      "title": "astra + chamber shows high co-pick lift on BIND but low sample",
+      "entity": "astra+chamber",
+      "metric": "synergy_lift",
+      "value": 5.624,
+      "confidence": "low",
+      "evidence": {
+        "map": "BIND",
+        "pair_picks": 3,
+        "teams_count": 2
+      },
+      "warning": "High lift with low sample. Treat this as a weak signal requiring more data."
+    },
+    {
+      "type": "agent_pair",
+      "title": "fade + omen is a widespread core pair across the observed meta",
+      "entity": "fade+omen",
+      "metric": "pair_pick_rate",
+      "value": 0.4889,
+      "confidence": "high",
+      "evidence": {
+        "map": "LOTUS",
+        "teams_count": 41,
+        "synergy_lift": 0.557
+      },
+      "warning": null
+    }
+  ],
+  "methodology_notes": [
+    "All scores measure presence, stability, or structural legibility — not win probability or competitive rank.",
+    "meta_presence_score = 0.40 × pick_rate + 0.25 × composition_rate + 0.20 × cross_map_stability + 0.15 × reliability.",
+    "tactical_profile_score = 0.25 × stability + 0.20 × agent_core + 0.20 × map_pool + 0.20 × map_identity + 0.15 × reliability.",
+    "map_identity_score = compositions × map_volume_share, normalised per map.",
+    "synergy_lift = pair_pick_rate / (agent_a_rate × agent_b_rate). Values above 1 indicate co-picks above an independence baseline.",
+    "Low-sample thresholds: maps_played < 2 means low_sample_signal; total_compositions < 3 means low_sample_profile.",
+    "KMeans composition clusters are exploratory only and should not be interpreted as a tactical truth model.",
+    "Data source: observed VLR.gg compositions. No map winners, scorelines, round outcomes, or player-level performance are used."
+  ]
+}

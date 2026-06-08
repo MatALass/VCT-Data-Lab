@@ -1,0 +1,237 @@
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+
+ROOT = Path(__file__).resolve().parents[2]
+SRC = ROOT / "src"
+if str(SRC) not in sys.path:
+    sys.path.insert(0, str(SRC))
+
+from vct_ranker_elo.agents import ROLE_ORDER
+from vct_ranker_elo.matchmaking import DuelRules, eligible_players, pick_same_role_duel
+from vct_ranker_elo.ranking import DEFAULT_RATING, build_ranking, make_player_key, update_elo
+from vct_ranker_elo.scraper import scrape_vct_events
+from vct_ranker_elo.storage import load_players, load_ratings, save_players, save_ratings
+from vct_ranker_elo.vct import VCT_REGIONS, events_for_region
+
+st.set_page_config(page_title="VCT Role Ranker", page_icon="⚔️", layout="wide")
+
+CUSTOM_CSS = """
+<style>
+.block-container { padding-top: 2rem; }
+[data-testid="stMetricValue"] { color: #F2C66D; }
+.vct-card {
+    border: 1px solid rgba(217,164,65,.28);
+    border-radius: 22px;
+    padding: 22px;
+    background: radial-gradient(circle at top left, rgba(217,164,65,.14), rgba(20,23,34,.92) 42%);
+    min-height: 275px;
+}
+.vct-title { font-size: 1.5rem; font-weight: 800; color: #F7E6BE; margin-bottom: .2rem; }
+.vct-subtitle { color: rgba(245,233,211,.72); font-size: .95rem; margin-bottom: .9rem; }
+.vct-agents { color: #F2C66D; font-size: .9rem; margin-top: .8rem; }
+.small-muted { color: rgba(245,233,211,.62); font-size: .82rem; }
+.rule-box {
+    border: 1px solid rgba(255,255,255,.10);
+    border-radius: 16px;
+    padding: 14px 16px;
+    background: rgba(255,255,255,.035);
+    color: rgba(245,233,211,.78);
+    font-size: .9rem;
+}
+</style>
+"""
+st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
+
+
+def normalize_players(df: pd.DataFrame) -> pd.DataFrame:
+    if df.empty:
+        return df
+    df = df.copy()
+    df["team"] = df["team"].fillna("FA")
+    if "vct_region" not in df.columns:
+        df["vct_region"] = "Unknown"
+    if "event_name" not in df.columns:
+        df["event_name"] = "Unknown"
+    df["player_key"] = df.apply(lambda row: make_player_key(row["player"], row["team"]), axis=1)
+    for column in ["rating", "acs", "kd", "kast", "adr", "kpr", "apr", "fkpr", "fdpr", "hs_pct", "rounds", "role_confidence"]:
+        if column in df.columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
+    return df
+
+
+def player_card(player: pd.Series) -> None:
+    agents = str(player.get("agents", "")).replace(",", " · ") or "agents inconnus"
+    st.markdown(
+        f"""
+        <div class="vct-card">
+            <div class="vct-title">{player['player']}</div>
+            <div class="vct-subtitle">
+                {player.get('team', 'FA')} · {player.get('vct_region', 'Unknown')} · {player.get('inferred_role', 'Flex')} · confiance {player.get('role_confidence', 0):.0%}
+            </div>
+            <div><b>VLR Rating:</b> {player.get('rating', 'N/A')} · <b>ACS:</b> {player.get('acs', 'N/A')} · <b>Rounds:</b> {player.get('rounds', 'N/A')}</div>
+            <div><b>K:D:</b> {player.get('kd', 'N/A')} · <b>ADR:</b> {player.get('adr', 'N/A')} · <b>KAST:</b> {player.get('kast', 'N/A')}</div>
+            <div class="vct-agents">{agents}</div>
+            <div class="small-muted">Même rôle, même région sélectionnée, filtré sur volume + confiance rôle.</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+@st.cache_data(show_spinner=False)
+def cached_scrape_vct(region: str, timespan: str, min_rounds: int) -> pd.DataFrame:
+    return scrape_vct_events(events_for_region(region), min_rounds=min_rounds, timespan=timespan)
+
+
+if "ratings" not in st.session_state:
+    st.session_state.ratings = load_ratings()
+if "history" not in st.session_state:
+    st.session_state.history = []
+
+st.title("VCT Role Ranker")
+st.caption("Classement subjectif des joueurs VCT uniquement, par région et par rôle, via duels contrôlés.")
+
+with st.sidebar:
+    st.header("Périmètre VCT")
+    source_mode = st.radio("Données", ["Charger CSV local", "Scraper VCT maintenant"], index=0)
+    selected_region = st.selectbox("Région VCT", VCT_REGIONS, index=0)
+    role_filter = st.selectbox("Rôle à classer", ROLE_ORDER, index=0)
+
+    st.header("Règles de duel")
+    min_rounds = st.slider("Minimum rounds", 0, 1000, 300, step=50)
+    confidence_min = st.slider("Confiance rôle minimale", 0.0, 1.0, 0.70, step=0.05)
+    min_vlr_rating = st.slider("VLR rating minimum", 0.0, 1.5, 1.00, step=0.05)
+    max_elo_gap = st.slider("Écart Elo max conseillé", 25, 400, 125, step=25)
+    avoid_same_team = st.checkbox("Éviter les duels entre coéquipiers", value=True)
+    timespan = st.selectbox("Timespan VLR", ["all", "30d", "60d", "90d"], index=0)
+
+    if source_mode == "Scraper VCT maintenant":
+        event_names = ", ".join(event.name for event in events_for_region(selected_region))
+        st.caption(f"Events utilisés : {event_names}")
+        if st.button("Scraper VCT et sauvegarder", type="primary"):
+            with st.spinner("Scraping HTML VLR des events VCT configurés..."):
+                scraped = cached_scrape_vct(selected_region, timespan, min_rounds)
+                scraped = normalize_players(scraped)
+                save_players(scraped)
+                st.session_state.players = scraped
+            st.success(f"{len(scraped)} lignes joueurs VCT chargées.")
+
+    if st.button("Réinitialiser mes ratings"):
+        st.session_state.ratings = {}
+        save_ratings(st.session_state.ratings)
+        st.session_state.history = []
+        st.success("Ratings réinitialisés.")
+
+players = st.session_state.get("players", normalize_players(load_players()))
+
+if players.empty:
+    st.info("Aucune donnée joueur chargée. Lance le scraping VCT dans la barre latérale.")
+    st.stop()
+
+rules = DuelRules(
+    role_confidence_min=confidence_min,
+    min_rounds=min_rounds,
+    min_vlr_rating=min_vlr_rating,
+    max_elo_gap=float(max_elo_gap),
+    avoid_same_team=avoid_same_team,
+)
+
+visible_players = players.copy()
+if selected_region != "All" and "vct_region" in visible_players.columns:
+    visible_players = visible_players[visible_players["vct_region"] == selected_region]
+
+role_players = eligible_players(players, role_filter, selected_region, rules)
+
+col_a, col_b, col_c, col_d = st.columns(4)
+col_a.metric("Joueurs éligibles", len(role_players))
+col_b.metric("Équipes", role_players["team"].nunique() if not role_players.empty else 0)
+col_c.metric("Duels faits", len(st.session_state.history))
+col_d.metric("Rating initial", int(DEFAULT_RATING))
+
+st.markdown(
+    f"""
+    <div class="rule-box">
+    <b>Règles actives :</b> VCT uniquement · région = {selected_region} · rôle = {role_filter} · confiance rôle ≥ {confidence_min:.0%} · rounds ≥ {min_rounds} · VLR rating ≥ {min_vlr_rating:.2f} · adversaire Elo proche si possible.
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+st.divider()
+
+left, right = st.columns([1.15, 1])
+
+with left:
+    st.subheader(f"Duel contrôlé : meilleur {role_filter.lower()} ?")
+    duel = pick_same_role_duel(role_players, st.session_state.ratings, rules)
+    if duel is None:
+        st.warning("Pas assez de joueurs éligibles. Baisse le minimum de rounds, la confiance rôle ou le rating minimum.")
+    else:
+        p1, p2 = duel
+        c1, c2 = st.columns(2)
+        with c1:
+            player_card(p1)
+            if st.button(f"Choisir {p1['player']}", use_container_width=True, key="choose_p1"):
+                st.session_state.ratings = update_elo(st.session_state.ratings, p1["player_key"], p2["player_key"])
+                st.session_state.history.append((p1["player_key"], p2["player_key"], role_filter, selected_region))
+                save_ratings(st.session_state.ratings)
+                st.rerun()
+        with c2:
+            player_card(p2)
+            if st.button(f"Choisir {p2['player']}", use_container_width=True, key="choose_p2"):
+                st.session_state.ratings = update_elo(st.session_state.ratings, p2["player_key"], p1["player_key"])
+                st.session_state.history.append((p2["player_key"], p1["player_key"], role_filter, selected_region))
+                save_ratings(st.session_state.ratings)
+                st.rerun()
+
+with right:
+    st.subheader("Classement actuel")
+    ranking_base = visible_players if selected_region != "All" else players
+    ranking = build_ranking(ranking_base, st.session_state.ratings, role_filter)
+    if not ranking.empty:
+        display_cols = ["rank", "player", "team", "vct_region", "user_rating", "rating", "acs", "rounds", "agents", "role_confidence"]
+        existing_cols = [col for col in display_cols if col in ranking.columns]
+        st.dataframe(
+            ranking[existing_cols].rename(
+                columns={
+                    "rank": "#",
+                    "player": "Joueur",
+                    "team": "Team",
+                    "vct_region": "Région",
+                    "user_rating": "Ton score",
+                    "rating": "VLR Rating",
+                    "acs": "ACS",
+                    "rounds": "Rounds",
+                    "agents": "Agents",
+                    "role_confidence": "Confiance rôle",
+                }
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
+
+st.divider()
+st.subheader("Vue analytique")
+if not ranking.empty:
+    top_n = ranking.head(20).copy()
+    fig = px.bar(top_n, x="user_rating", y="player", orientation="h", hover_data=["team", "vct_region", "rating", "acs", "rounds", "agents"])
+    fig.update_layout(yaxis={"categoryorder": "total ascending"}, height=620, margin=dict(l=10, r=10, t=30, b=10))
+    st.plotly_chart(fig, use_container_width=True)
+
+with st.expander("Contrôle qualité des rôles et du périmètre VCT"):
+    cols = ["player", "team", "vct_region", "event_name", "agents", "inferred_role", "role_confidence", "rounds", "rating", "acs"]
+    existing = [col for col in cols if col in players.columns]
+    st.dataframe(
+        players[existing].sort_values(["vct_region", "inferred_role", "role_confidence"], ascending=[True, True, False]),
+        use_container_width=True,
+        hide_index=True,
+    )
+    st.markdown(
+        "Règle rôle : majorité des agents joués. Si aucun rôle officiel n'atteint 60 %, le joueur devient Flex. "
+        "Les duels ne comparent ensuite que des joueurs du même rôle inféré et de la région sélectionnée."
+    )

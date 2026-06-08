@@ -1,0 +1,162 @@
+map,agent,agent_picks,total_compositions,pick_rate
+All Maps,neon,433,528,0.82
+All Maps,omen,266,528,0.5
+All Maps,viper,265,528,0.5
+All Maps,fade,188,528,0.36
+All Maps,skye,175,528,0.33
+All Maps,waylay,172,528,0.33
+All Maps,sova,135,528,0.26
+All Maps,astra,132,528,0.25
+All Maps,cypher,123,528,0.23
+All Maps,brimstone,115,528,0.22
+All Maps,raze,101,528,0.19
+All Maps,phoenix,84,528,0.16
+All Maps,killjoy,70,528,0.13
+All Maps,vyse,67,528,0.13
+All Maps,chamber,63,528,0.12
+All Maps,jett,51,528,0.1
+All Maps,tejo,49,528,0.09
+All Maps,kayo,36,528,0.07
+All Maps,breach,30,528,0.06
+All Maps,harbor,32,528,0.06
+All Maps,veto,23,528,0.04
+All Maps,deadlock,12,528,0.02
+All Maps,sage,8,528,0.02
+All Maps,gekko,4,528,0.01
+All Maps,iso,5,528,0.01
+All Maps,miks,2,528,0.0
+All Maps,yoru,1,528,0.0
+BIND,brimstone,59,64,0.92
+BIND,skye,58,64,0.91
+BIND,viper,58,64,0.91
+BIND,neon,57,64,0.89
+BIND,waylay,38,64,0.59
+BIND,chamber,8,64,0.12
+BIND,raze,8,64,0.12
+BIND,phoenix,6,64,0.09
+BIND,astra,4,64,0.06
+BIND,fade,4,64,0.06
+BIND,gekko,4,64,0.06
+BIND,kayo,3,64,0.05
+BIND,vyse,3,64,0.05
+BIND,omen,2,64,0.03
+BIND,tejo,2,64,0.03
+BIND,cypher,1,64,0.02
+BIND,deadlock,1,64,0.02
+BIND,harbor,1,64,0.02
+BIND,jett,1,64,0.02
+BIND,miks,1,64,0.02
+BIND,yoru,1,64,0.02
+BREEZE,sova,56,64,0.88
+BREEZE,viper,56,64,0.88
+BREEZE,neon,42,64,0.66
+BREEZE,jett,30,64,0.47
+BREEZE,kayo,25,64,0.39
+BREEZE,astra,24,64,0.38
+BREEZE,harbor,23,64,0.36
+BREEZE,omen,22,64,0.34
+BREEZE,skye,11,64,0.17
+BREEZE,waylay,10,64,0.16
+BREEZE,phoenix,7,64,0.11
+BREEZE,chamber,5,64,0.08
+BREEZE,iso,4,64,0.06
+BREEZE,cypher,2,64,0.03
+BREEZE,sage,1,64,0.02
+BREEZE,tejo,1,64,0.02
+BREEZE,vyse,1,64,0.02
+FRACTURE,brimstone,56,62,0.9
+FRACTURE,neon,55,62,0.89
+FRACTURE,cypher,42,62,0.68
+FRACTURE,waylay,30,62,0.48
+FRACTURE,tejo,26,62,0.42
+FRACTURE,breach,25,62,0.4
+FRACTURE,skye,25,62,0.4
+FRACTURE,raze,13,62,0.21
+FRACTURE,veto,9,62,0.15
+FRACTURE,fade,8,62,0.13
+FRACTURE,astra,5,62,0.08
+FRACTURE,chamber,2,62,0.03
+FRACTURE,kayo,2,62,0.03
+FRACTURE,killjoy,2,62,0.03
+FRACTURE,phoenix,2,62,0.03
+FRACTURE,sage,2,62,0.03
+FRACTURE,vyse,2,62,0.03
+FRACTURE,deadlock,1,62,0.02
+FRACTURE,jett,1,62,0.02
+FRACTURE,omen,1,62,0.02
+FRACTURE,viper,1,62,0.02
+HAVEN,omen,81,86,0.94
+HAVEN,neon,77,86,0.9
+HAVEN,sova,59,86,0.69
+HAVEN,cypher,42,86,0.49
+HAVEN,phoenix,33,86,0.38
+HAVEN,viper,25,86,0.29
+HAVEN,killjoy,24,86,0.28
+HAVEN,waylay,17,86,0.2
+HAVEN,chamber,15,86,0.17
+HAVEN,skye,15,86,0.17
+HAVEN,fade,13,86,0.15
+HAVEN,jett,10,86,0.12
+HAVEN,astra,5,86,0.06
+HAVEN,breach,4,86,0.05
+HAVEN,deadlock,4,86,0.05
+HAVEN,vyse,4,86,0.05
+HAVEN,veto,2,86,0.02
+HAVEN,harbor,1,86,0.01
+HAVEN,tejo,1,86,0.01
+LOTUS,omen,102,102,1.0
+LOTUS,fade,90,102,0.88
+LOTUS,neon,80,102,0.78
+LOTUS,viper,56,102,0.55
+LOTUS,raze,42,102,0.41
+LOTUS,vyse,36,102,0.35
+LOTUS,waylay,27,102,0.26
+LOTUS,cypher,18,102,0.18
+LOTUS,killjoy,14,102,0.14
+LOTUS,skye,11,102,0.11
+LOTUS,chamber,7,102,0.07
+LOTUS,phoenix,7,102,0.07
+LOTUS,veto,7,102,0.07
+LOTUS,deadlock,3,102,0.03
+LOTUS,sage,3,102,0.03
+LOTUS,harbor,2,102,0.02
+LOTUS,astra,1,102,0.01
+LOTUS,breach,1,102,0.01
+LOTUS,iso,1,102,0.01
+LOTUS,miks,1,102,0.01
+LOTUS,sova,1,102,0.01
+PEARL,astra,70,70,1.0
+PEARL,neon,57,70,0.81
+PEARL,fade,36,70,0.51
+PEARL,killjoy,30,70,0.43
+PEARL,phoenix,28,70,0.4
+PEARL,chamber,26,70,0.37
+PEARL,waylay,21,70,0.3
+PEARL,sova,19,70,0.27
+PEARL,tejo,18,70,0.26
+PEARL,skye,12,70,0.17
+PEARL,cypher,11,70,0.16
+PEARL,kayo,6,70,0.09
+PEARL,vyse,5,70,0.07
+PEARL,harbor,3,70,0.04
+PEARL,jett,3,70,0.04
+PEARL,veto,3,70,0.04
+PEARL,omen,1,70,0.01
+PEARL,raze,1,70,0.01
+SPLIT,viper,69,80,0.86
+SPLIT,neon,65,80,0.81
+SPLIT,omen,57,80,0.71
+SPLIT,skye,43,80,0.54
+SPLIT,fade,37,80,0.46
+SPLIT,raze,37,80,0.46
+SPLIT,waylay,29,80,0.36
+SPLIT,astra,23,80,0.29
+SPLIT,vyse,16,80,0.2
+SPLIT,cypher,7,80,0.09
+SPLIT,jett,6,80,0.08
+SPLIT,deadlock,3,80,0.04
+SPLIT,harbor,2,80,0.02
+SPLIT,sage,2,80,0.02
+SPLIT,veto,2,80,0.02
+SPLIT,phoenix,1,80,0.01
+SPLIT,tejo,1,80,0.01

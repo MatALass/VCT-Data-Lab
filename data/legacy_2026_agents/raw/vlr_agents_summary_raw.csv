@@ -1,0 +1,929 @@
+event,raw_map,raw_maps_played,raw_atk_win_rate,raw_def_win_rate,agent,raw_pick_rate
+americas_stage_1,,41,50%,50%,neon,82%
+americas_stage_1,,41,50%,50%,viper,57%
+americas_stage_1,,41,50%,50%,omen,51%
+americas_stage_1,,41,50%,50%,sova,44%
+americas_stage_1,,41,50%,50%,fade,37%
+americas_stage_1,,41,50%,50%,vyse,34%
+americas_stage_1,,41,50%,50%,astra,30%
+americas_stage_1,,41,50%,50%,phoenix,20%
+americas_stage_1,,41,50%,50%,skye,18%
+americas_stage_1,,41,50%,50%,harbor,18%
+americas_stage_1,,41,50%,50%,raze,17%
+americas_stage_1,,41,50%,50%,killjoy,16%
+americas_stage_1,,41,50%,50%,chamber,15%
+americas_stage_1,,41,50%,50%,kayo,9%
+americas_stage_1,,41,50%,50%,brimstone,9%
+americas_stage_1,,41,50%,50%,jett,9%
+americas_stage_1,,41,50%,50%,tejo,7%
+americas_stage_1,,41,50%,50%,cypher,6%
+americas_stage_1,,41,50%,50%,waylay,6%
+americas_stage_1,,41,50%,50%,veto,5%
+americas_stage_1,,41,50%,50%,iso,4%
+americas_stage_1,,41,50%,50%,sage,4%
+americas_stage_1,,41,50%,50%,breach,2%
+americas_stage_1,,41,50%,50%,deadlock,1%
+americas_stage_1,,41,50%,50%,miks,0%
+americas_stage_1,,41,50%,50%,reyna,0%
+americas_stage_1,,41,50%,50%,gekko,0%
+americas_stage_1,,41,50%,50%,clove,0%
+americas_stage_1,,41,50%,50%,yoru,0%
+americas_stage_1,H Haven,9,46%,54%,neon,94%
+americas_stage_1,H Haven,9,46%,54%,viper,56%
+americas_stage_1,H Haven,9,46%,54%,omen,83%
+americas_stage_1,H Haven,9,46%,54%,sova,83%
+americas_stage_1,H Haven,9,46%,54%,fade,17%
+americas_stage_1,H Haven,9,46%,54%,vyse,17%
+americas_stage_1,H Haven,9,46%,54%,astra,17%
+americas_stage_1,H Haven,9,46%,54%,phoenix,44%
+americas_stage_1,H Haven,9,46%,54%,skye,0%
+americas_stage_1,H Haven,9,46%,54%,harbor,0%
+americas_stage_1,H Haven,9,46%,54%,raze,0%
+americas_stage_1,H Haven,9,46%,54%,killjoy,44%
+americas_stage_1,H Haven,9,46%,54%,chamber,17%
+americas_stage_1,H Haven,9,46%,54%,kayo,0%
+americas_stage_1,H Haven,9,46%,54%,brimstone,0%
+americas_stage_1,H Haven,9,46%,54%,jett,6%
+americas_stage_1,H Haven,9,46%,54%,tejo,0%
+americas_stage_1,H Haven,9,46%,54%,cypher,22%
+americas_stage_1,H Haven,9,46%,54%,waylay,0%
+americas_stage_1,H Haven,9,46%,54%,veto,0%
+americas_stage_1,H Haven,9,46%,54%,iso,0%
+americas_stage_1,H Haven,9,46%,54%,sage,0%
+americas_stage_1,H Haven,9,46%,54%,breach,0%
+americas_stage_1,H Haven,9,46%,54%,deadlock,0%
+americas_stage_1,H Haven,9,46%,54%,miks,0%
+americas_stage_1,H Haven,9,46%,54%,reyna,0%
+americas_stage_1,H Haven,9,46%,54%,gekko,0%
+americas_stage_1,H Haven,9,46%,54%,clove,0%
+americas_stage_1,H Haven,9,46%,54%,yoru,0%
+americas_stage_1,S Split,8,48%,52%,neon,75%
+americas_stage_1,S Split,8,48%,52%,viper,69%
+americas_stage_1,S Split,8,48%,52%,omen,69%
+americas_stage_1,S Split,8,48%,52%,sova,0%
+americas_stage_1,S Split,8,48%,52%,fade,63%
+americas_stage_1,S Split,8,48%,52%,vyse,56%
+americas_stage_1,S Split,8,48%,52%,astra,31%
+americas_stage_1,S Split,8,48%,52%,phoenix,6%
+americas_stage_1,S Split,8,48%,52%,skye,38%
+americas_stage_1,S Split,8,48%,52%,harbor,13%
+americas_stage_1,S Split,8,48%,52%,raze,50%
+americas_stage_1,S Split,8,48%,52%,killjoy,0%
+americas_stage_1,S Split,8,48%,52%,chamber,0%
+americas_stage_1,S Split,8,48%,52%,kayo,0%
+americas_stage_1,S Split,8,48%,52%,brimstone,0%
+americas_stage_1,S Split,8,48%,52%,jett,6%
+americas_stage_1,S Split,8,48%,52%,tejo,0%
+americas_stage_1,S Split,8,48%,52%,cypher,6%
+americas_stage_1,S Split,8,48%,52%,waylay,0%
+americas_stage_1,S Split,8,48%,52%,veto,0%
+americas_stage_1,S Split,8,48%,52%,iso,0%
+americas_stage_1,S Split,8,48%,52%,sage,13%
+americas_stage_1,S Split,8,48%,52%,breach,0%
+americas_stage_1,S Split,8,48%,52%,deadlock,6%
+americas_stage_1,S Split,8,48%,52%,miks,0%
+americas_stage_1,S Split,8,48%,52%,reyna,0%
+americas_stage_1,S Split,8,48%,52%,gekko,0%
+americas_stage_1,S Split,8,48%,52%,clove,0%
+americas_stage_1,S Split,8,48%,52%,yoru,0%
+americas_stage_1,L Lotus,7,46%,54%,neon,79%
+americas_stage_1,L Lotus,7,46%,54%,viper,79%
+americas_stage_1,L Lotus,7,46%,54%,omen,100%
+americas_stage_1,L Lotus,7,46%,54%,sova,7%
+americas_stage_1,L Lotus,7,46%,54%,fade,93%
+americas_stage_1,L Lotus,7,46%,54%,vyse,86%
+americas_stage_1,L Lotus,7,46%,54%,astra,0%
+americas_stage_1,L Lotus,7,46%,54%,phoenix,0%
+americas_stage_1,L Lotus,7,46%,54%,skye,0%
+americas_stage_1,L Lotus,7,46%,54%,harbor,7%
+americas_stage_1,L Lotus,7,46%,54%,raze,29%
+americas_stage_1,L Lotus,7,46%,54%,killjoy,0%
+americas_stage_1,L Lotus,7,46%,54%,chamber,0%
+americas_stage_1,L Lotus,7,46%,54%,kayo,0%
+americas_stage_1,L Lotus,7,46%,54%,brimstone,0%
+americas_stage_1,L Lotus,7,46%,54%,jett,0%
+americas_stage_1,L Lotus,7,46%,54%,tejo,0%
+americas_stage_1,L Lotus,7,46%,54%,cypher,0%
+americas_stage_1,L Lotus,7,46%,54%,waylay,0%
+americas_stage_1,L Lotus,7,46%,54%,veto,14%
+americas_stage_1,L Lotus,7,46%,54%,iso,0%
+americas_stage_1,L Lotus,7,46%,54%,sage,7%
+americas_stage_1,L Lotus,7,46%,54%,breach,0%
+americas_stage_1,L Lotus,7,46%,54%,deadlock,0%
+americas_stage_1,L Lotus,7,46%,54%,miks,0%
+americas_stage_1,L Lotus,7,46%,54%,reyna,0%
+americas_stage_1,L Lotus,7,46%,54%,gekko,0%
+americas_stage_1,L Lotus,7,46%,54%,clove,0%
+americas_stage_1,L Lotus,7,46%,54%,yoru,0%
+americas_stage_1,P Pearl,7,56%,44%,neon,86%
+americas_stage_1,P Pearl,7,56%,44%,viper,0%
+americas_stage_1,P Pearl,7,56%,44%,omen,0%
+americas_stage_1,P Pearl,7,56%,44%,sova,64%
+americas_stage_1,P Pearl,7,56%,44%,fade,21%
+americas_stage_1,P Pearl,7,56%,44%,vyse,14%
+americas_stage_1,P Pearl,7,56%,44%,astra,100%
+americas_stage_1,P Pearl,7,56%,44%,phoenix,36%
+americas_stage_1,P Pearl,7,56%,44%,skye,14%
+americas_stage_1,P Pearl,7,56%,44%,harbor,7%
+americas_stage_1,P Pearl,7,56%,44%,raze,0%
+americas_stage_1,P Pearl,7,56%,44%,killjoy,36%
+americas_stage_1,P Pearl,7,56%,44%,chamber,43%
+americas_stage_1,P Pearl,7,56%,44%,kayo,14%
+americas_stage_1,P Pearl,7,56%,44%,brimstone,0%
+americas_stage_1,P Pearl,7,56%,44%,jett,0%
+americas_stage_1,P Pearl,7,56%,44%,tejo,36%
+americas_stage_1,P Pearl,7,56%,44%,cypher,0%
+americas_stage_1,P Pearl,7,56%,44%,waylay,21%
+americas_stage_1,P Pearl,7,56%,44%,veto,7%
+americas_stage_1,P Pearl,7,56%,44%,iso,0%
+americas_stage_1,P Pearl,7,56%,44%,sage,0%
+americas_stage_1,P Pearl,7,56%,44%,breach,0%
+americas_stage_1,P Pearl,7,56%,44%,deadlock,0%
+americas_stage_1,P Pearl,7,56%,44%,miks,0%
+americas_stage_1,P Pearl,7,56%,44%,reyna,0%
+americas_stage_1,P Pearl,7,56%,44%,gekko,0%
+americas_stage_1,P Pearl,7,56%,44%,clove,0%
+americas_stage_1,P Pearl,7,56%,44%,yoru,0%
+americas_stage_1,B Breeze,6,58%,42%,neon,67%
+americas_stage_1,B Breeze,6,58%,42%,viper,75%
+americas_stage_1,B Breeze,6,58%,42%,omen,17%
+americas_stage_1,B Breeze,6,58%,42%,sova,92%
+americas_stage_1,B Breeze,6,58%,42%,fade,0%
+americas_stage_1,B Breeze,6,58%,42%,vyse,8%
+americas_stage_1,B Breeze,6,58%,42%,astra,25%
+americas_stage_1,B Breeze,6,58%,42%,phoenix,0%
+americas_stage_1,B Breeze,6,58%,42%,skye,8%
+americas_stage_1,B Breeze,6,58%,42%,harbor,83%
+americas_stage_1,B Breeze,6,58%,42%,raze,0%
+americas_stage_1,B Breeze,6,58%,42%,killjoy,0%
+americas_stage_1,B Breeze,6,58%,42%,chamber,17%
+americas_stage_1,B Breeze,6,58%,42%,kayo,42%
+americas_stage_1,B Breeze,6,58%,42%,brimstone,0%
+americas_stage_1,B Breeze,6,58%,42%,jett,42%
+americas_stage_1,B Breeze,6,58%,42%,tejo,0%
+americas_stage_1,B Breeze,6,58%,42%,cypher,0%
+americas_stage_1,B Breeze,6,58%,42%,waylay,0%
+americas_stage_1,B Breeze,6,58%,42%,veto,0%
+americas_stage_1,B Breeze,6,58%,42%,iso,25%
+americas_stage_1,B Breeze,6,58%,42%,sage,0%
+americas_stage_1,B Breeze,6,58%,42%,breach,0%
+americas_stage_1,B Breeze,6,58%,42%,deadlock,0%
+americas_stage_1,B Breeze,6,58%,42%,miks,0%
+americas_stage_1,B Breeze,6,58%,42%,reyna,0%
+americas_stage_1,B Breeze,6,58%,42%,gekko,0%
+americas_stage_1,B Breeze,6,58%,42%,clove,0%
+americas_stage_1,B Breeze,6,58%,42%,yoru,0%
+americas_stage_1,B Bind,3,54%,46%,neon,83%
+americas_stage_1,B Bind,3,54%,46%,viper,100%
+americas_stage_1,B Bind,3,54%,46%,omen,0%
+americas_stage_1,B Bind,3,54%,46%,sova,0%
+americas_stage_1,B Bind,3,54%,46%,fade,17%
+americas_stage_1,B Bind,3,54%,46%,vyse,17%
+americas_stage_1,B Bind,3,54%,46%,astra,0%
+americas_stage_1,B Bind,3,54%,46%,phoenix,33%
+americas_stage_1,B Bind,3,54%,46%,skye,83%
+americas_stage_1,B Bind,3,54%,46%,harbor,17%
+americas_stage_1,B Bind,3,54%,46%,raze,33%
+americas_stage_1,B Bind,3,54%,46%,killjoy,0%
+americas_stage_1,B Bind,3,54%,46%,chamber,17%
+americas_stage_1,B Bind,3,54%,46%,kayo,0%
+americas_stage_1,B Bind,3,54%,46%,brimstone,83%
+americas_stage_1,B Bind,3,54%,46%,jett,0%
+americas_stage_1,B Bind,3,54%,46%,tejo,0%
+americas_stage_1,B Bind,3,54%,46%,cypher,0%
+americas_stage_1,B Bind,3,54%,46%,waylay,17%
+americas_stage_1,B Bind,3,54%,46%,veto,0%
+americas_stage_1,B Bind,3,54%,46%,iso,0%
+americas_stage_1,B Bind,3,54%,46%,sage,0%
+americas_stage_1,B Bind,3,54%,46%,breach,0%
+americas_stage_1,B Bind,3,54%,46%,deadlock,0%
+americas_stage_1,B Bind,3,54%,46%,miks,0%
+americas_stage_1,B Bind,3,54%,46%,reyna,0%
+americas_stage_1,B Bind,3,54%,46%,gekko,0%
+americas_stage_1,B Bind,3,54%,46%,clove,0%
+americas_stage_1,B Bind,3,54%,46%,yoru,0%
+americas_stage_1,F Fracture,1,59%,41%,neon,100%
+americas_stage_1,F Fracture,1,59%,41%,viper,0%
+americas_stage_1,F Fracture,1,59%,41%,omen,0%
+americas_stage_1,F Fracture,1,59%,41%,sova,0%
+americas_stage_1,F Fracture,1,59%,41%,fade,0%
+americas_stage_1,F Fracture,1,59%,41%,vyse,0%
+americas_stage_1,F Fracture,1,59%,41%,astra,0%
+americas_stage_1,F Fracture,1,59%,41%,phoenix,0%
+americas_stage_1,F Fracture,1,59%,41%,skye,50%
+americas_stage_1,F Fracture,1,59%,41%,harbor,0%
+americas_stage_1,F Fracture,1,59%,41%,raze,0%
+americas_stage_1,F Fracture,1,59%,41%,killjoy,0%
+americas_stage_1,F Fracture,1,59%,41%,chamber,0%
+americas_stage_1,F Fracture,1,59%,41%,kayo,0%
+americas_stage_1,F Fracture,1,59%,41%,brimstone,100%
+americas_stage_1,F Fracture,1,59%,41%,jett,0%
+americas_stage_1,F Fracture,1,59%,41%,tejo,50%
+americas_stage_1,F Fracture,1,59%,41%,cypher,0%
+americas_stage_1,F Fracture,1,59%,41%,waylay,50%
+americas_stage_1,F Fracture,1,59%,41%,veto,50%
+americas_stage_1,F Fracture,1,59%,41%,iso,0%
+americas_stage_1,F Fracture,1,59%,41%,sage,0%
+americas_stage_1,F Fracture,1,59%,41%,breach,100%
+americas_stage_1,F Fracture,1,59%,41%,deadlock,0%
+americas_stage_1,F Fracture,1,59%,41%,miks,0%
+americas_stage_1,F Fracture,1,59%,41%,reyna,0%
+americas_stage_1,F Fracture,1,59%,41%,gekko,0%
+americas_stage_1,F Fracture,1,59%,41%,clove,0%
+americas_stage_1,F Fracture,1,59%,41%,yoru,0%
+china_stage_1,,89,52%,48%,neon,80%
+china_stage_1,,89,52%,48%,waylay,64%
+china_stage_1,,89,52%,48%,viper,54%
+china_stage_1,,89,52%,48%,omen,53%
+china_stage_1,,89,52%,48%,skye,43%
+china_stage_1,,89,52%,48%,cypher,30%
+china_stage_1,,89,52%,48%,brimstone,29%
+china_stage_1,,89,52%,48%,fade,27%
+china_stage_1,,89,52%,48%,sova,21%
+china_stage_1,,89,52%,48%,astra,19%
+china_stage_1,,89,52%,48%,killjoy,16%
+china_stage_1,,89,52%,48%,phoenix,11%
+china_stage_1,,89,52%,48%,raze,10%
+china_stage_1,,89,52%,48%,tejo,10%
+china_stage_1,,89,52%,48%,jett,7%
+china_stage_1,,89,52%,48%,kayo,5%
+china_stage_1,,89,52%,48%,chamber,5%
+china_stage_1,,89,52%,48%,vyse,3%
+china_stage_1,,89,52%,48%,breach,3%
+china_stage_1,,89,52%,48%,veto,2%
+china_stage_1,,89,52%,48%,harbor,2%
+china_stage_1,,89,52%,48%,sage,2%
+china_stage_1,,89,52%,48%,miks,1%
+china_stage_1,,89,52%,48%,gekko,1%
+china_stage_1,,89,52%,48%,deadlock,1%
+china_stage_1,,89,52%,48%,reyna,0%
+china_stage_1,,89,52%,48%,iso,0%
+china_stage_1,,89,52%,48%,clove,0%
+china_stage_1,,89,52%,48%,yoru,0%
+china_stage_1,L Lotus,19,56%,44%,neon,55%
+china_stage_1,L Lotus,19,56%,44%,waylay,58%
+china_stage_1,L Lotus,19,56%,44%,viper,58%
+china_stage_1,L Lotus,19,56%,44%,omen,100%
+china_stage_1,L Lotus,19,56%,44%,skye,24%
+china_stage_1,L Lotus,19,56%,44%,cypher,37%
+china_stage_1,L Lotus,19,56%,44%,brimstone,0%
+china_stage_1,L Lotus,19,56%,44%,fade,76%
+china_stage_1,L Lotus,19,56%,44%,sova,0%
+china_stage_1,L Lotus,19,56%,44%,astra,0%
+china_stage_1,L Lotus,19,56%,44%,killjoy,24%
+china_stage_1,L Lotus,19,56%,44%,phoenix,11%
+china_stage_1,L Lotus,19,56%,44%,raze,34%
+china_stage_1,L Lotus,19,56%,44%,tejo,0%
+china_stage_1,L Lotus,19,56%,44%,jett,0%
+china_stage_1,L Lotus,19,56%,44%,kayo,0%
+china_stage_1,L Lotus,19,56%,44%,chamber,0%
+china_stage_1,L Lotus,19,56%,44%,vyse,8%
+china_stage_1,L Lotus,19,56%,44%,breach,0%
+china_stage_1,L Lotus,19,56%,44%,veto,8%
+china_stage_1,L Lotus,19,56%,44%,harbor,0%
+china_stage_1,L Lotus,19,56%,44%,sage,3%
+china_stage_1,L Lotus,19,56%,44%,miks,3%
+china_stage_1,L Lotus,19,56%,44%,gekko,0%
+china_stage_1,L Lotus,19,56%,44%,deadlock,3%
+china_stage_1,L Lotus,19,56%,44%,reyna,0%
+china_stage_1,L Lotus,19,56%,44%,iso,0%
+china_stage_1,L Lotus,19,56%,44%,clove,0%
+china_stage_1,L Lotus,19,56%,44%,yoru,0%
+china_stage_1,B Bind,14,51%,49%,neon,86%
+china_stage_1,B Bind,14,51%,49%,waylay,89%
+china_stage_1,B Bind,14,51%,49%,viper,86%
+china_stage_1,B Bind,14,51%,49%,omen,7%
+china_stage_1,B Bind,14,51%,49%,skye,93%
+china_stage_1,B Bind,14,51%,49%,cypher,4%
+china_stage_1,B Bind,14,51%,49%,brimstone,96%
+china_stage_1,B Bind,14,51%,49%,fade,4%
+china_stage_1,B Bind,14,51%,49%,sova,0%
+china_stage_1,B Bind,14,51%,49%,astra,4%
+china_stage_1,B Bind,14,51%,49%,killjoy,0%
+china_stage_1,B Bind,14,51%,49%,phoenix,0%
+china_stage_1,B Bind,14,51%,49%,raze,7%
+china_stage_1,B Bind,14,51%,49%,tejo,4%
+china_stage_1,B Bind,14,51%,49%,jett,0%
+china_stage_1,B Bind,14,51%,49%,kayo,7%
+china_stage_1,B Bind,14,51%,49%,chamber,4%
+china_stage_1,B Bind,14,51%,49%,vyse,0%
+china_stage_1,B Bind,14,51%,49%,breach,0%
+china_stage_1,B Bind,14,51%,49%,veto,0%
+china_stage_1,B Bind,14,51%,49%,harbor,0%
+china_stage_1,B Bind,14,51%,49%,sage,0%
+china_stage_1,B Bind,14,51%,49%,miks,4%
+china_stage_1,B Bind,14,51%,49%,gekko,7%
+china_stage_1,B Bind,14,51%,49%,deadlock,0%
+china_stage_1,B Bind,14,51%,49%,reyna,0%
+china_stage_1,B Bind,14,51%,49%,iso,0%
+china_stage_1,B Bind,14,51%,49%,clove,0%
+china_stage_1,B Bind,14,51%,49%,yoru,0%
+china_stage_1,B Breeze,13,48%,52%,neon,62%
+china_stage_1,B Breeze,13,48%,52%,waylay,38%
+china_stage_1,B Breeze,13,48%,52%,viper,88%
+china_stage_1,B Breeze,13,48%,52%,omen,38%
+china_stage_1,B Breeze,13,48%,52%,skye,23%
+china_stage_1,B Breeze,13,48%,52%,cypher,0%
+china_stage_1,B Breeze,13,48%,52%,brimstone,0%
+china_stage_1,B Breeze,13,48%,52%,fade,0%
+china_stage_1,B Breeze,13,48%,52%,sova,77%
+china_stage_1,B Breeze,13,48%,52%,astra,54%
+china_stage_1,B Breeze,13,48%,52%,killjoy,0%
+china_stage_1,B Breeze,13,48%,52%,phoenix,15%
+china_stage_1,B Breeze,13,48%,52%,raze,0%
+china_stage_1,B Breeze,13,48%,52%,tejo,0%
+china_stage_1,B Breeze,13,48%,52%,jett,50%
+china_stage_1,B Breeze,13,48%,52%,kayo,27%
+china_stage_1,B Breeze,13,48%,52%,chamber,8%
+china_stage_1,B Breeze,13,48%,52%,vyse,0%
+china_stage_1,B Breeze,13,48%,52%,breach,0%
+china_stage_1,B Breeze,13,48%,52%,veto,0%
+china_stage_1,B Breeze,13,48%,52%,harbor,15%
+china_stage_1,B Breeze,13,48%,52%,sage,4%
+china_stage_1,B Breeze,13,48%,52%,miks,0%
+china_stage_1,B Breeze,13,48%,52%,gekko,0%
+china_stage_1,B Breeze,13,48%,52%,deadlock,0%
+china_stage_1,B Breeze,13,48%,52%,reyna,0%
+china_stage_1,B Breeze,13,48%,52%,iso,0%
+china_stage_1,B Breeze,13,48%,52%,clove,0%
+china_stage_1,B Breeze,13,48%,52%,yoru,0%
+china_stage_1,F Fracture,13,51%,49%,neon,92%
+china_stage_1,F Fracture,13,51%,49%,waylay,73%
+china_stage_1,F Fracture,13,51%,49%,viper,0%
+china_stage_1,F Fracture,13,51%,49%,omen,0%
+china_stage_1,F Fracture,13,51%,49%,skye,58%
+china_stage_1,F Fracture,13,51%,49%,cypher,85%
+china_stage_1,F Fracture,13,51%,49%,brimstone,92%
+china_stage_1,F Fracture,13,51%,49%,fade,0%
+china_stage_1,F Fracture,13,51%,49%,sova,0%
+china_stage_1,F Fracture,13,51%,49%,astra,8%
+china_stage_1,F Fracture,13,51%,49%,killjoy,0%
+china_stage_1,F Fracture,13,51%,49%,phoenix,4%
+china_stage_1,F Fracture,13,51%,49%,raze,4%
+china_stage_1,F Fracture,13,51%,49%,tejo,50%
+china_stage_1,F Fracture,13,51%,49%,jett,0%
+china_stage_1,F Fracture,13,51%,49%,kayo,0%
+china_stage_1,F Fracture,13,51%,49%,chamber,4%
+china_stage_1,F Fracture,13,51%,49%,vyse,0%
+china_stage_1,F Fracture,13,51%,49%,breach,19%
+china_stage_1,F Fracture,13,51%,49%,veto,4%
+china_stage_1,F Fracture,13,51%,49%,harbor,0%
+china_stage_1,F Fracture,13,51%,49%,sage,8%
+china_stage_1,F Fracture,13,51%,49%,miks,0%
+china_stage_1,F Fracture,13,51%,49%,gekko,0%
+china_stage_1,F Fracture,13,51%,49%,deadlock,0%
+china_stage_1,F Fracture,13,51%,49%,reyna,0%
+china_stage_1,F Fracture,13,51%,49%,iso,0%
+china_stage_1,F Fracture,13,51%,49%,clove,0%
+china_stage_1,F Fracture,13,51%,49%,yoru,0%
+china_stage_1,H Haven,12,54%,46%,neon,100%
+china_stage_1,H Haven,12,54%,46%,waylay,50%
+china_stage_1,H Haven,12,54%,46%,viper,33%
+china_stage_1,H Haven,12,54%,46%,omen,100%
+china_stage_1,H Haven,12,54%,46%,skye,17%
+china_stage_1,H Haven,12,54%,46%,cypher,63%
+china_stage_1,H Haven,12,54%,46%,brimstone,0%
+china_stage_1,H Haven,12,54%,46%,fade,13%
+china_stage_1,H Haven,12,54%,46%,sova,71%
+china_stage_1,H Haven,12,54%,46%,astra,0%
+china_stage_1,H Haven,12,54%,46%,killjoy,29%
+china_stage_1,H Haven,12,54%,46%,phoenix,13%
+china_stage_1,H Haven,12,54%,46%,raze,0%
+china_stage_1,H Haven,12,54%,46%,tejo,0%
+china_stage_1,H Haven,12,54%,46%,jett,0%
+china_stage_1,H Haven,12,54%,46%,kayo,0%
+china_stage_1,H Haven,12,54%,46%,chamber,13%
+china_stage_1,H Haven,12,54%,46%,vyse,0%
+china_stage_1,H Haven,12,54%,46%,breach,0%
+china_stage_1,H Haven,12,54%,46%,veto,0%
+china_stage_1,H Haven,12,54%,46%,harbor,0%
+china_stage_1,H Haven,12,54%,46%,sage,0%
+china_stage_1,H Haven,12,54%,46%,miks,0%
+china_stage_1,H Haven,12,54%,46%,gekko,0%
+china_stage_1,H Haven,12,54%,46%,deadlock,0%
+china_stage_1,H Haven,12,54%,46%,reyna,0%
+china_stage_1,H Haven,12,54%,46%,iso,0%
+china_stage_1,H Haven,12,54%,46%,clove,0%
+china_stage_1,H Haven,12,54%,46%,yoru,0%
+china_stage_1,S Split,10,50%,50%,neon,90%
+china_stage_1,S Split,10,50%,50%,waylay,90%
+china_stage_1,S Split,10,50%,50%,viper,95%
+china_stage_1,S Split,10,50%,50%,omen,100%
+china_stage_1,S Split,10,50%,50%,skye,75%
+china_stage_1,S Split,10,50%,50%,cypher,5%
+china_stage_1,S Split,10,50%,50%,brimstone,0%
+china_stage_1,S Split,10,50%,50%,fade,25%
+china_stage_1,S Split,10,50%,50%,sova,0%
+china_stage_1,S Split,10,50%,50%,astra,0%
+china_stage_1,S Split,10,50%,50%,killjoy,0%
+china_stage_1,S Split,10,50%,50%,phoenix,0%
+china_stage_1,S Split,10,50%,50%,raze,10%
+china_stage_1,S Split,10,50%,50%,tejo,0%
+china_stage_1,S Split,10,50%,50%,jett,0%
+china_stage_1,S Split,10,50%,50%,kayo,0%
+china_stage_1,S Split,10,50%,50%,chamber,0%
+china_stage_1,S Split,10,50%,50%,vyse,10%
+china_stage_1,S Split,10,50%,50%,breach,0%
+china_stage_1,S Split,10,50%,50%,veto,0%
+china_stage_1,S Split,10,50%,50%,harbor,0%
+china_stage_1,S Split,10,50%,50%,sage,0%
+china_stage_1,S Split,10,50%,50%,miks,0%
+china_stage_1,S Split,10,50%,50%,gekko,0%
+china_stage_1,S Split,10,50%,50%,deadlock,0%
+china_stage_1,S Split,10,50%,50%,reyna,0%
+china_stage_1,S Split,10,50%,50%,iso,0%
+china_stage_1,S Split,10,50%,50%,clove,0%
+china_stage_1,S Split,10,50%,50%,yoru,0%
+china_stage_1,P Pearl,8,50%,50%,neon,94%
+china_stage_1,P Pearl,8,50%,50%,waylay,50%
+china_stage_1,P Pearl,8,50%,50%,viper,0%
+china_stage_1,P Pearl,8,50%,50%,omen,0%
+china_stage_1,P Pearl,8,50%,50%,skye,13%
+china_stage_1,P Pearl,8,50%,50%,cypher,6%
+china_stage_1,P Pearl,8,50%,50%,brimstone,0%
+china_stage_1,P Pearl,8,50%,50%,fade,63%
+china_stage_1,P Pearl,8,50%,50%,sova,6%
+china_stage_1,P Pearl,8,50%,50%,astra,100%
+china_stage_1,P Pearl,8,50%,50%,killjoy,75%
+china_stage_1,P Pearl,8,50%,50%,phoenix,50%
+china_stage_1,P Pearl,8,50%,50%,raze,0%
+china_stage_1,P Pearl,8,50%,50%,tejo,25%
+china_stage_1,P Pearl,8,50%,50%,jett,0%
+china_stage_1,P Pearl,8,50%,50%,kayo,0%
+china_stage_1,P Pearl,8,50%,50%,chamber,13%
+china_stage_1,P Pearl,8,50%,50%,vyse,6%
+china_stage_1,P Pearl,8,50%,50%,breach,0%
+china_stage_1,P Pearl,8,50%,50%,veto,0%
+china_stage_1,P Pearl,8,50%,50%,harbor,0%
+china_stage_1,P Pearl,8,50%,50%,sage,0%
+china_stage_1,P Pearl,8,50%,50%,miks,0%
+china_stage_1,P Pearl,8,50%,50%,gekko,0%
+china_stage_1,P Pearl,8,50%,50%,deadlock,0%
+china_stage_1,P Pearl,8,50%,50%,reyna,0%
+china_stage_1,P Pearl,8,50%,50%,iso,0%
+china_stage_1,P Pearl,8,50%,50%,clove,0%
+china_stage_1,P Pearl,8,50%,50%,yoru,0%
+pacific_stage_1,,63,52%,48%,neon,82%
+pacific_stage_1,,63,52%,48%,omen,46%
+pacific_stage_1,,63,52%,48%,viper,36%
+pacific_stage_1,,63,52%,48%,skye,35%
+pacific_stage_1,,63,52%,48%,fade,33%
+pacific_stage_1,,63,52%,48%,brimstone,26%
+pacific_stage_1,,63,52%,48%,astra,25%
+pacific_stage_1,,63,52%,48%,waylay,25%
+pacific_stage_1,,63,52%,48%,cypher,25%
+pacific_stage_1,,63,52%,48%,raze,23%
+pacific_stage_1,,63,52%,48%,chamber,21%
+pacific_stage_1,,63,52%,48%,sova,19%
+pacific_stage_1,,63,52%,48%,phoenix,17%
+pacific_stage_1,,63,52%,48%,killjoy,13%
+pacific_stage_1,,63,52%,48%,breach,13%
+pacific_stage_1,,63,52%,48%,vyse,12%
+pacific_stage_1,,63,52%,48%,jett,12%
+pacific_stage_1,,63,52%,48%,tejo,11%
+pacific_stage_1,,63,52%,48%,deadlock,7%
+pacific_stage_1,,63,52%,48%,kayo,7%
+pacific_stage_1,,63,52%,48%,veto,5%
+pacific_stage_1,,63,52%,48%,harbor,4%
+pacific_stage_1,,63,52%,48%,yoru,1%
+pacific_stage_1,,63,52%,48%,iso,1%
+pacific_stage_1,,63,52%,48%,gekko,1%
+pacific_stage_1,,63,52%,48%,sage,0%
+pacific_stage_1,,63,52%,48%,reyna,0%
+pacific_stage_1,,63,52%,48%,clove,0%
+pacific_stage_1,,63,52%,48%,miks,0%
+pacific_stage_1,L Lotus,11,53%,47%,neon,95%
+pacific_stage_1,L Lotus,11,53%,47%,omen,100%
+pacific_stage_1,L Lotus,11,53%,47%,viper,41%
+pacific_stage_1,L Lotus,11,53%,47%,skye,0%
+pacific_stage_1,L Lotus,11,53%,47%,fade,100%
+pacific_stage_1,L Lotus,11,53%,47%,brimstone,0%
+pacific_stage_1,L Lotus,11,53%,47%,astra,5%
+pacific_stage_1,L Lotus,11,53%,47%,waylay,9%
+pacific_stage_1,L Lotus,11,53%,47%,cypher,0%
+pacific_stage_1,L Lotus,11,53%,47%,raze,59%
+pacific_stage_1,L Lotus,11,53%,47%,chamber,9%
+pacific_stage_1,L Lotus,11,53%,47%,sova,0%
+pacific_stage_1,L Lotus,11,53%,47%,phoenix,5%
+pacific_stage_1,L Lotus,11,53%,47%,killjoy,9%
+pacific_stage_1,L Lotus,11,53%,47%,breach,5%
+pacific_stage_1,L Lotus,11,53%,47%,vyse,55%
+pacific_stage_1,L Lotus,11,53%,47%,jett,0%
+pacific_stage_1,L Lotus,11,53%,47%,tejo,0%
+pacific_stage_1,L Lotus,11,53%,47%,deadlock,5%
+pacific_stage_1,L Lotus,11,53%,47%,kayo,0%
+pacific_stage_1,L Lotus,11,53%,47%,veto,0%
+pacific_stage_1,L Lotus,11,53%,47%,harbor,0%
+pacific_stage_1,L Lotus,11,53%,47%,yoru,0%
+pacific_stage_1,L Lotus,11,53%,47%,iso,5%
+pacific_stage_1,L Lotus,11,53%,47%,gekko,0%
+pacific_stage_1,L Lotus,11,53%,47%,sage,0%
+pacific_stage_1,L Lotus,11,53%,47%,reyna,0%
+pacific_stage_1,L Lotus,11,53%,47%,clove,0%
+pacific_stage_1,L Lotus,11,53%,47%,miks,0%
+pacific_stage_1,F Fracture,11,61%,39%,neon,86%
+pacific_stage_1,F Fracture,11,61%,39%,omen,0%
+pacific_stage_1,F Fracture,11,61%,39%,viper,0%
+pacific_stage_1,F Fracture,11,61%,39%,skye,32%
+pacific_stage_1,F Fracture,11,61%,39%,fade,0%
+pacific_stage_1,F Fracture,11,61%,39%,brimstone,100%
+pacific_stage_1,F Fracture,11,61%,39%,astra,0%
+pacific_stage_1,F Fracture,11,61%,39%,waylay,36%
+pacific_stage_1,F Fracture,11,61%,39%,cypher,64%
+pacific_stage_1,F Fracture,11,61%,39%,raze,41%
+pacific_stage_1,F Fracture,11,61%,39%,chamber,0%
+pacific_stage_1,F Fracture,11,61%,39%,sova,0%
+pacific_stage_1,F Fracture,11,61%,39%,phoenix,0%
+pacific_stage_1,F Fracture,11,61%,39%,killjoy,9%
+pacific_stage_1,F Fracture,11,61%,39%,breach,68%
+pacific_stage_1,F Fracture,11,61%,39%,vyse,0%
+pacific_stage_1,F Fracture,11,61%,39%,jett,0%
+pacific_stage_1,F Fracture,11,61%,39%,tejo,41%
+pacific_stage_1,F Fracture,11,61%,39%,deadlock,5%
+pacific_stage_1,F Fracture,11,61%,39%,kayo,0%
+pacific_stage_1,F Fracture,11,61%,39%,veto,18%
+pacific_stage_1,F Fracture,11,61%,39%,harbor,0%
+pacific_stage_1,F Fracture,11,61%,39%,yoru,0%
+pacific_stage_1,F Fracture,11,61%,39%,iso,0%
+pacific_stage_1,F Fracture,11,61%,39%,gekko,0%
+pacific_stage_1,F Fracture,11,61%,39%,sage,0%
+pacific_stage_1,F Fracture,11,61%,39%,reyna,0%
+pacific_stage_1,F Fracture,11,61%,39%,clove,0%
+pacific_stage_1,F Fracture,11,61%,39%,miks,0%
+pacific_stage_1,P Pearl,11,50%,50%,neon,77%
+pacific_stage_1,P Pearl,11,50%,50%,omen,0%
+pacific_stage_1,P Pearl,11,50%,50%,viper,0%
+pacific_stage_1,P Pearl,11,50%,50%,skye,27%
+pacific_stage_1,P Pearl,11,50%,50%,fade,50%
+pacific_stage_1,P Pearl,11,50%,50%,brimstone,0%
+pacific_stage_1,P Pearl,11,50%,50%,astra,100%
+pacific_stage_1,P Pearl,11,50%,50%,waylay,18%
+pacific_stage_1,P Pearl,11,50%,50%,cypher,14%
+pacific_stage_1,P Pearl,11,50%,50%,raze,0%
+pacific_stage_1,P Pearl,11,50%,50%,chamber,59%
+pacific_stage_1,P Pearl,11,50%,50%,sova,23%
+pacific_stage_1,P Pearl,11,50%,50%,phoenix,41%
+pacific_stage_1,P Pearl,11,50%,50%,killjoy,45%
+pacific_stage_1,P Pearl,11,50%,50%,breach,0%
+pacific_stage_1,P Pearl,11,50%,50%,vyse,5%
+pacific_stage_1,P Pearl,11,50%,50%,jett,9%
+pacific_stage_1,P Pearl,11,50%,50%,tejo,18%
+pacific_stage_1,P Pearl,11,50%,50%,deadlock,0%
+pacific_stage_1,P Pearl,11,50%,50%,kayo,14%
+pacific_stage_1,P Pearl,11,50%,50%,veto,0%
+pacific_stage_1,P Pearl,11,50%,50%,harbor,0%
+pacific_stage_1,P Pearl,11,50%,50%,yoru,0%
+pacific_stage_1,P Pearl,11,50%,50%,iso,0%
+pacific_stage_1,P Pearl,11,50%,50%,gekko,0%
+pacific_stage_1,P Pearl,11,50%,50%,sage,0%
+pacific_stage_1,P Pearl,11,50%,50%,reyna,0%
+pacific_stage_1,P Pearl,11,50%,50%,clove,0%
+pacific_stage_1,P Pearl,11,50%,50%,miks,0%
+pacific_stage_1,H Haven,10,51%,49%,neon,80%
+pacific_stage_1,H Haven,10,51%,49%,omen,90%
+pacific_stage_1,H Haven,10,51%,49%,viper,5%
+pacific_stage_1,H Haven,10,51%,49%,skye,45%
+pacific_stage_1,H Haven,10,51%,49%,fade,10%
+pacific_stage_1,H Haven,10,51%,49%,brimstone,0%
+pacific_stage_1,H Haven,10,51%,49%,astra,10%
+pacific_stage_1,H Haven,10,51%,49%,waylay,25%
+pacific_stage_1,H Haven,10,51%,49%,cypher,45%
+pacific_stage_1,H Haven,10,51%,49%,raze,0%
+pacific_stage_1,H Haven,10,51%,49%,chamber,40%
+pacific_stage_1,H Haven,10,51%,49%,sova,45%
+pacific_stage_1,H Haven,10,51%,49%,phoenix,40%
+pacific_stage_1,H Haven,10,51%,49%,killjoy,15%
+pacific_stage_1,H Haven,10,51%,49%,breach,5%
+pacific_stage_1,H Haven,10,51%,49%,vyse,0%
+pacific_stage_1,H Haven,10,51%,49%,jett,20%
+pacific_stage_1,H Haven,10,51%,49%,tejo,0%
+pacific_stage_1,H Haven,10,51%,49%,deadlock,20%
+pacific_stage_1,H Haven,10,51%,49%,kayo,0%
+pacific_stage_1,H Haven,10,51%,49%,veto,0%
+pacific_stage_1,H Haven,10,51%,49%,harbor,5%
+pacific_stage_1,H Haven,10,51%,49%,yoru,0%
+pacific_stage_1,H Haven,10,51%,49%,iso,0%
+pacific_stage_1,H Haven,10,51%,49%,gekko,0%
+pacific_stage_1,H Haven,10,51%,49%,sage,0%
+pacific_stage_1,H Haven,10,51%,49%,reyna,0%
+pacific_stage_1,H Haven,10,51%,49%,clove,0%
+pacific_stage_1,H Haven,10,51%,49%,miks,0%
+pacific_stage_1,S Split,9,44%,56%,neon,61%
+pacific_stage_1,S Split,9,44%,56%,omen,83%
+pacific_stage_1,S Split,9,44%,56%,viper,83%
+pacific_stage_1,S Split,9,44%,56%,skye,67%
+pacific_stage_1,S Split,9,44%,56%,fade,33%
+pacific_stage_1,S Split,9,44%,56%,brimstone,0%
+pacific_stage_1,S Split,9,44%,56%,astra,17%
+pacific_stage_1,S Split,9,44%,56%,waylay,33%
+pacific_stage_1,S Split,9,44%,56%,cypher,28%
+pacific_stage_1,S Split,9,44%,56%,raze,33%
+pacific_stage_1,S Split,9,44%,56%,chamber,0%
+pacific_stage_1,S Split,9,44%,56%,sova,0%
+pacific_stage_1,S Split,9,44%,56%,phoenix,0%
+pacific_stage_1,S Split,9,44%,56%,killjoy,0%
+pacific_stage_1,S Split,9,44%,56%,breach,0%
+pacific_stage_1,S Split,9,44%,56%,vyse,11%
+pacific_stage_1,S Split,9,44%,56%,jett,22%
+pacific_stage_1,S Split,9,44%,56%,tejo,6%
+pacific_stage_1,S Split,9,44%,56%,deadlock,11%
+pacific_stage_1,S Split,9,44%,56%,kayo,0%
+pacific_stage_1,S Split,9,44%,56%,veto,11%
+pacific_stage_1,S Split,9,44%,56%,harbor,0%
+pacific_stage_1,S Split,9,44%,56%,yoru,0%
+pacific_stage_1,S Split,9,44%,56%,iso,0%
+pacific_stage_1,S Split,9,44%,56%,gekko,0%
+pacific_stage_1,S Split,9,44%,56%,sage,0%
+pacific_stage_1,S Split,9,44%,56%,reyna,0%
+pacific_stage_1,S Split,9,44%,56%,clove,0%
+pacific_stage_1,S Split,9,44%,56%,miks,0%
+pacific_stage_1,B Bind,6,58%,42%,neon,92%
+pacific_stage_1,B Bind,6,58%,42%,omen,0%
+pacific_stage_1,B Bind,6,58%,42%,viper,83%
+pacific_stage_1,B Bind,6,58%,42%,skye,83%
+pacific_stage_1,B Bind,6,58%,42%,fade,8%
+pacific_stage_1,B Bind,6,58%,42%,brimstone,92%
+pacific_stage_1,B Bind,6,58%,42%,astra,8%
+pacific_stage_1,B Bind,6,58%,42%,waylay,58%
+pacific_stage_1,B Bind,6,58%,42%,cypher,0%
+pacific_stage_1,B Bind,6,58%,42%,raze,8%
+pacific_stage_1,B Bind,6,58%,42%,chamber,17%
+pacific_stage_1,B Bind,6,58%,42%,sova,0%
+pacific_stage_1,B Bind,6,58%,42%,phoenix,8%
+pacific_stage_1,B Bind,6,58%,42%,killjoy,0%
+pacific_stage_1,B Bind,6,58%,42%,breach,0%
+pacific_stage_1,B Bind,6,58%,42%,vyse,0%
+pacific_stage_1,B Bind,6,58%,42%,jett,8%
+pacific_stage_1,B Bind,6,58%,42%,tejo,0%
+pacific_stage_1,B Bind,6,58%,42%,deadlock,8%
+pacific_stage_1,B Bind,6,58%,42%,kayo,8%
+pacific_stage_1,B Bind,6,58%,42%,veto,0%
+pacific_stage_1,B Bind,6,58%,42%,harbor,0%
+pacific_stage_1,B Bind,6,58%,42%,yoru,8%
+pacific_stage_1,B Bind,6,58%,42%,iso,0%
+pacific_stage_1,B Bind,6,58%,42%,gekko,8%
+pacific_stage_1,B Bind,6,58%,42%,sage,0%
+pacific_stage_1,B Bind,6,58%,42%,reyna,0%
+pacific_stage_1,B Bind,6,58%,42%,clove,0%
+pacific_stage_1,B Bind,6,58%,42%,miks,0%
+pacific_stage_1,B Breeze,5,45%,55%,neon,80%
+pacific_stage_1,B Breeze,5,45%,55%,omen,30%
+pacific_stage_1,B Breeze,5,45%,55%,viper,100%
+pacific_stage_1,B Breeze,5,45%,55%,skye,0%
+pacific_stage_1,B Breeze,5,45%,55%,fade,0%
+pacific_stage_1,B Breeze,5,45%,55%,brimstone,0%
+pacific_stage_1,B Breeze,5,45%,55%,astra,30%
+pacific_stage_1,B Breeze,5,45%,55%,waylay,0%
+pacific_stage_1,B Breeze,5,45%,55%,cypher,0%
+pacific_stage_1,B Breeze,5,45%,55%,raze,0%
+pacific_stage_1,B Breeze,5,45%,55%,chamber,10%
+pacific_stage_1,B Breeze,5,45%,55%,sova,100%
+pacific_stage_1,B Breeze,5,45%,55%,phoenix,20%
+pacific_stage_1,B Breeze,5,45%,55%,killjoy,0%
+pacific_stage_1,B Breeze,5,45%,55%,breach,0%
+pacific_stage_1,B Breeze,5,45%,55%,vyse,0%
+pacific_stage_1,B Breeze,5,45%,55%,jett,40%
+pacific_stage_1,B Breeze,5,45%,55%,tejo,0%
+pacific_stage_1,B Breeze,5,45%,55%,deadlock,0%
+pacific_stage_1,B Breeze,5,45%,55%,kayo,50%
+pacific_stage_1,B Breeze,5,45%,55%,veto,0%
+pacific_stage_1,B Breeze,5,45%,55%,harbor,40%
+pacific_stage_1,B Breeze,5,45%,55%,yoru,0%
+pacific_stage_1,B Breeze,5,45%,55%,iso,0%
+pacific_stage_1,B Breeze,5,45%,55%,gekko,0%
+pacific_stage_1,B Breeze,5,45%,55%,sage,0%
+pacific_stage_1,B Breeze,5,45%,55%,reyna,0%
+pacific_stage_1,B Breeze,5,45%,55%,clove,0%
+pacific_stage_1,B Breeze,5,45%,55%,miks,0%
+emea_stage_1,,72,52%,48%,neon,85%
+emea_stage_1,,72,52%,48%,viper,53%
+emea_stage_1,,72,52%,48%,omen,51%
+emea_stage_1,,72,52%,48%,fade,47%
+emea_stage_1,,72,52%,48%,astra,29%
+emea_stage_1,,72,52%,48%,raze,28%
+emea_stage_1,,72,52%,48%,skye,27%
+emea_stage_1,,72,52%,48%,sova,26%
+emea_stage_1,,72,52%,48%,cypher,24%
+emea_stage_1,,72,52%,48%,phoenix,19%
+emea_stage_1,,72,52%,48%,brimstone,17%
+emea_stage_1,,72,52%,48%,waylay,15%
+emea_stage_1,,72,52%,48%,vyse,13%
+emea_stage_1,,72,52%,48%,jett,11%
+emea_stage_1,,72,52%,48%,chamber,11%
+emea_stage_1,,72,52%,48%,killjoy,8%
+emea_stage_1,,72,52%,48%,tejo,8%
+emea_stage_1,,72,52%,48%,kayo,8%
+emea_stage_1,,72,52%,48%,veto,6%
+emea_stage_1,,72,52%,48%,harbor,6%
+emea_stage_1,,72,52%,48%,breach,4%
+emea_stage_1,,72,52%,48%,iso,1%
+emea_stage_1,,72,52%,48%,sage,1%
+emea_stage_1,,72,52%,48%,gekko,1%
+emea_stage_1,,72,52%,48%,deadlock,1%
+emea_stage_1,,72,52%,48%,miks,0%
+emea_stage_1,,72,52%,48%,reyna,0%
+emea_stage_1,,72,52%,48%,clove,0%
+emea_stage_1,,72,52%,48%,yoru,0%
+emea_stage_1,L Lotus,14,55%,45%,neon,96%
+emea_stage_1,L Lotus,14,55%,45%,viper,50%
+emea_stage_1,L Lotus,14,55%,45%,omen,100%
+emea_stage_1,L Lotus,14,55%,45%,fade,93%
+emea_stage_1,L Lotus,14,55%,45%,astra,0%
+emea_stage_1,L Lotus,14,55%,45%,raze,43%
+emea_stage_1,L Lotus,14,55%,45%,skye,7%
+emea_stage_1,L Lotus,14,55%,45%,sova,0%
+emea_stage_1,L Lotus,14,55%,45%,cypher,14%
+emea_stage_1,L Lotus,14,55%,45%,phoenix,7%
+emea_stage_1,L Lotus,14,55%,45%,brimstone,0%
+emea_stage_1,L Lotus,14,55%,45%,waylay,11%
+emea_stage_1,L Lotus,14,55%,45%,vyse,32%
+emea_stage_1,L Lotus,14,55%,45%,jett,0%
+emea_stage_1,L Lotus,14,55%,45%,chamber,18%
+emea_stage_1,L Lotus,14,55%,45%,killjoy,11%
+emea_stage_1,L Lotus,14,55%,45%,tejo,0%
+emea_stage_1,L Lotus,14,55%,45%,kayo,0%
+emea_stage_1,L Lotus,14,55%,45%,veto,7%
+emea_stage_1,L Lotus,14,55%,45%,harbor,4%
+emea_stage_1,L Lotus,14,55%,45%,breach,0%
+emea_stage_1,L Lotus,14,55%,45%,iso,0%
+emea_stage_1,L Lotus,14,55%,45%,sage,4%
+emea_stage_1,L Lotus,14,55%,45%,gekko,0%
+emea_stage_1,L Lotus,14,55%,45%,deadlock,4%
+emea_stage_1,L Lotus,14,55%,45%,miks,0%
+emea_stage_1,L Lotus,14,55%,45%,reyna,0%
+emea_stage_1,L Lotus,14,55%,45%,clove,0%
+emea_stage_1,L Lotus,14,55%,45%,yoru,0%
+emea_stage_1,H Haven,13,57%,43%,neon,85%
+emea_stage_1,H Haven,13,57%,43%,viper,23%
+emea_stage_1,H Haven,13,57%,43%,omen,100%
+emea_stage_1,H Haven,13,57%,43%,fade,19%
+emea_stage_1,H Haven,13,57%,43%,astra,0%
+emea_stage_1,H Haven,13,57%,43%,raze,0%
+emea_stage_1,H Haven,13,57%,43%,skye,8%
+emea_stage_1,H Haven,13,57%,43%,sova,73%
+emea_stage_1,H Haven,13,57%,43%,cypher,62%
+emea_stage_1,H Haven,13,57%,43%,phoenix,54%
+emea_stage_1,H Haven,13,57%,43%,brimstone,0%
+emea_stage_1,H Haven,13,57%,43%,waylay,4%
+emea_stage_1,H Haven,13,57%,43%,vyse,4%
+emea_stage_1,H Haven,13,57%,43%,jett,19%
+emea_stage_1,H Haven,13,57%,43%,chamber,4%
+emea_stage_1,H Haven,13,57%,43%,killjoy,23%
+emea_stage_1,H Haven,13,57%,43%,tejo,4%
+emea_stage_1,H Haven,13,57%,43%,kayo,0%
+emea_stage_1,H Haven,13,57%,43%,veto,8%
+emea_stage_1,H Haven,13,57%,43%,harbor,0%
+emea_stage_1,H Haven,13,57%,43%,breach,12%
+emea_stage_1,H Haven,13,57%,43%,iso,0%
+emea_stage_1,H Haven,13,57%,43%,sage,0%
+emea_stage_1,H Haven,13,57%,43%,gekko,0%
+emea_stage_1,H Haven,13,57%,43%,deadlock,0%
+emea_stage_1,H Haven,13,57%,43%,miks,0%
+emea_stage_1,H Haven,13,57%,43%,reyna,0%
+emea_stage_1,H Haven,13,57%,43%,clove,0%
+emea_stage_1,H Haven,13,57%,43%,yoru,0%
+emea_stage_1,S Split,13,44%,56%,neon,92%
+emea_stage_1,S Split,13,44%,56%,viper,92%
+emea_stage_1,S Split,13,44%,56%,omen,42%
+emea_stage_1,S Split,13,44%,56%,fade,62%
+emea_stage_1,S Split,13,44%,56%,astra,58%
+emea_stage_1,S Split,13,44%,56%,raze,81%
+emea_stage_1,S Split,13,44%,56%,skye,38%
+emea_stage_1,S Split,13,44%,56%,sova,0%
+emea_stage_1,S Split,13,44%,56%,cypher,0%
+emea_stage_1,S Split,13,44%,56%,phoenix,0%
+emea_stage_1,S Split,13,44%,56%,brimstone,0%
+emea_stage_1,S Split,13,44%,56%,waylay,19%
+emea_stage_1,S Split,13,44%,56%,vyse,12%
+emea_stage_1,S Split,13,44%,56%,jett,4%
+emea_stage_1,S Split,13,44%,56%,chamber,0%
+emea_stage_1,S Split,13,44%,56%,killjoy,0%
+emea_stage_1,S Split,13,44%,56%,tejo,0%
+emea_stage_1,S Split,13,44%,56%,kayo,0%
+emea_stage_1,S Split,13,44%,56%,veto,0%
+emea_stage_1,S Split,13,44%,56%,harbor,0%
+emea_stage_1,S Split,13,44%,56%,breach,0%
+emea_stage_1,S Split,13,44%,56%,iso,0%
+emea_stage_1,S Split,13,44%,56%,sage,0%
+emea_stage_1,S Split,13,44%,56%,gekko,0%
+emea_stage_1,S Split,13,44%,56%,deadlock,0%
+emea_stage_1,S Split,13,44%,56%,miks,0%
+emea_stage_1,S Split,13,44%,56%,reyna,0%
+emea_stage_1,S Split,13,44%,56%,clove,0%
+emea_stage_1,S Split,13,44%,56%,yoru,0%
+emea_stage_1,B Bind,9,51%,49%,neon,94%
+emea_stage_1,B Bind,9,51%,49%,viper,100%
+emea_stage_1,B Bind,9,51%,49%,omen,0%
+emea_stage_1,B Bind,9,51%,49%,fade,6%
+emea_stage_1,B Bind,9,51%,49%,astra,11%
+emea_stage_1,B Bind,9,51%,49%,raze,17%
+emea_stage_1,B Bind,9,51%,49%,skye,94%
+emea_stage_1,B Bind,9,51%,49%,sova,0%
+emea_stage_1,B Bind,9,51%,49%,cypher,0%
+emea_stage_1,B Bind,9,51%,49%,phoenix,17%
+emea_stage_1,B Bind,9,51%,49%,brimstone,89%
+emea_stage_1,B Bind,9,51%,49%,waylay,28%
+emea_stage_1,B Bind,9,51%,49%,vyse,11%
+emea_stage_1,B Bind,9,51%,49%,jett,0%
+emea_stage_1,B Bind,9,51%,49%,chamber,22%
+emea_stage_1,B Bind,9,51%,49%,killjoy,0%
+emea_stage_1,B Bind,9,51%,49%,tejo,6%
+emea_stage_1,B Bind,9,51%,49%,kayo,0%
+emea_stage_1,B Bind,9,51%,49%,veto,0%
+emea_stage_1,B Bind,9,51%,49%,harbor,0%
+emea_stage_1,B Bind,9,51%,49%,breach,0%
+emea_stage_1,B Bind,9,51%,49%,iso,0%
+emea_stage_1,B Bind,9,51%,49%,sage,0%
+emea_stage_1,B Bind,9,51%,49%,gekko,6%
+emea_stage_1,B Bind,9,51%,49%,deadlock,0%
+emea_stage_1,B Bind,9,51%,49%,miks,0%
+emea_stage_1,B Bind,9,51%,49%,reyna,0%
+emea_stage_1,B Bind,9,51%,49%,clove,0%
+emea_stage_1,B Bind,9,51%,49%,yoru,0%
+emea_stage_1,P Pearl,9,43%,57%,neon,72%
+emea_stage_1,P Pearl,9,43%,57%,viper,0%
+emea_stage_1,P Pearl,9,43%,57%,omen,6%
+emea_stage_1,P Pearl,9,43%,57%,fade,67%
+emea_stage_1,P Pearl,9,43%,57%,astra,100%
+emea_stage_1,P Pearl,9,43%,57%,raze,6%
+emea_stage_1,P Pearl,9,43%,57%,skye,11%
+emea_stage_1,P Pearl,9,43%,57%,sova,22%
+emea_stage_1,P Pearl,9,43%,57%,cypher,39%
+emea_stage_1,P Pearl,9,43%,57%,phoenix,33%
+emea_stage_1,P Pearl,9,43%,57%,brimstone,0%
+emea_stage_1,P Pearl,9,43%,57%,waylay,33%
+emea_stage_1,P Pearl,9,43%,57%,vyse,6%
+emea_stage_1,P Pearl,9,43%,57%,jett,6%
+emea_stage_1,P Pearl,9,43%,57%,chamber,28%
+emea_stage_1,P Pearl,9,43%,57%,killjoy,17%
+emea_stage_1,P Pearl,9,43%,57%,tejo,28%
+emea_stage_1,P Pearl,9,43%,57%,kayo,6%
+emea_stage_1,P Pearl,9,43%,57%,veto,11%
+emea_stage_1,P Pearl,9,43%,57%,harbor,11%
+emea_stage_1,P Pearl,9,43%,57%,breach,0%
+emea_stage_1,P Pearl,9,43%,57%,iso,0%
+emea_stage_1,P Pearl,9,43%,57%,sage,0%
+emea_stage_1,P Pearl,9,43%,57%,gekko,0%
+emea_stage_1,P Pearl,9,43%,57%,deadlock,0%
+emea_stage_1,P Pearl,9,43%,57%,miks,0%
+emea_stage_1,P Pearl,9,43%,57%,reyna,0%
+emea_stage_1,P Pearl,9,43%,57%,clove,0%
+emea_stage_1,P Pearl,9,43%,57%,yoru,0%
+emea_stage_1,B Breeze,8,57%,43%,neon,63%
+emea_stage_1,B Breeze,8,57%,43%,viper,88%
+emea_stage_1,B Breeze,8,57%,43%,omen,44%
+emea_stage_1,B Breeze,8,57%,43%,fade,0%
+emea_stage_1,B Breeze,8,57%,43%,astra,25%
+emea_stage_1,B Breeze,8,57%,43%,raze,0%
+emea_stage_1,B Breeze,8,57%,43%,skye,25%
+emea_stage_1,B Breeze,8,57%,43%,sova,94%
+emea_stage_1,B Breeze,8,57%,43%,cypher,13%
+emea_stage_1,B Breeze,8,57%,43%,phoenix,6%
+emea_stage_1,B Breeze,8,57%,43%,brimstone,0%
+emea_stage_1,B Breeze,8,57%,43%,waylay,0%
+emea_stage_1,B Breeze,8,57%,43%,vyse,0%
+emea_stage_1,B Breeze,8,57%,43%,jett,50%
+emea_stage_1,B Breeze,8,57%,43%,chamber,0%
+emea_stage_1,B Breeze,8,57%,43%,killjoy,0%
+emea_stage_1,B Breeze,8,57%,43%,tejo,6%
+emea_stage_1,B Breeze,8,57%,43%,kayo,50%
+emea_stage_1,B Breeze,8,57%,43%,veto,0%
+emea_stage_1,B Breeze,8,57%,43%,harbor,31%
+emea_stage_1,B Breeze,8,57%,43%,breach,0%
+emea_stage_1,B Breeze,8,57%,43%,iso,6%
+emea_stage_1,B Breeze,8,57%,43%,sage,0%
+emea_stage_1,B Breeze,8,57%,43%,gekko,0%
+emea_stage_1,B Breeze,8,57%,43%,deadlock,0%
+emea_stage_1,B Breeze,8,57%,43%,miks,0%
+emea_stage_1,B Breeze,8,57%,43%,reyna,0%
+emea_stage_1,B Breeze,8,57%,43%,clove,0%
+emea_stage_1,B Breeze,8,57%,43%,yoru,0%
+emea_stage_1,F Fracture,6,57%,43%,neon,83%
+emea_stage_1,F Fracture,6,57%,43%,viper,8%
+emea_stage_1,F Fracture,6,57%,43%,omen,8%
+emea_stage_1,F Fracture,6,57%,43%,fade,67%
+emea_stage_1,F Fracture,6,57%,43%,astra,25%
+emea_stage_1,F Fracture,6,57%,43%,raze,25%
+emea_stage_1,F Fracture,6,57%,43%,skye,17%
+emea_stage_1,F Fracture,6,57%,43%,sova,0%
+emea_stage_1,F Fracture,6,57%,43%,cypher,50%
+emea_stage_1,F Fracture,6,57%,43%,phoenix,8%
+emea_stage_1,F Fracture,6,57%,43%,brimstone,67%
+emea_stage_1,F Fracture,6,57%,43%,waylay,17%
+emea_stage_1,F Fracture,6,57%,43%,vyse,17%
+emea_stage_1,F Fracture,6,57%,43%,jett,8%
+emea_stage_1,F Fracture,6,57%,43%,chamber,8%
+emea_stage_1,F Fracture,6,57%,43%,killjoy,0%
+emea_stage_1,F Fracture,6,57%,43%,tejo,25%
+emea_stage_1,F Fracture,6,57%,43%,kayo,17%
+emea_stage_1,F Fracture,6,57%,43%,veto,25%
+emea_stage_1,F Fracture,6,57%,43%,harbor,0%
+emea_stage_1,F Fracture,6,57%,43%,breach,25%
+emea_stage_1,F Fracture,6,57%,43%,iso,0%
+emea_stage_1,F Fracture,6,57%,43%,sage,0%
+emea_stage_1,F Fracture,6,57%,43%,gekko,0%
+emea_stage_1,F Fracture,6,57%,43%,deadlock,0%
+emea_stage_1,F Fracture,6,57%,43%,miks,0%
+emea_stage_1,F Fracture,6,57%,43%,reyna,0%
+emea_stage_1,F Fracture,6,57%,43%,clove,0%
+emea_stage_1,F Fracture,6,57%,43%,yoru,0%

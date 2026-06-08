@@ -1,0 +1,929 @@
+event,map,maps_played,atk_win_rate,def_win_rate,agent,pick_rate
+americas_stage_1,All Maps,41,0.5,0.5,neon,0.82
+americas_stage_1,All Maps,41,0.5,0.5,viper,0.57
+americas_stage_1,All Maps,41,0.5,0.5,omen,0.51
+americas_stage_1,All Maps,41,0.5,0.5,sova,0.44
+americas_stage_1,All Maps,41,0.5,0.5,fade,0.37
+americas_stage_1,All Maps,41,0.5,0.5,vyse,0.34
+americas_stage_1,All Maps,41,0.5,0.5,astra,0.3
+americas_stage_1,All Maps,41,0.5,0.5,phoenix,0.2
+americas_stage_1,All Maps,41,0.5,0.5,skye,0.18
+americas_stage_1,All Maps,41,0.5,0.5,harbor,0.18
+americas_stage_1,All Maps,41,0.5,0.5,raze,0.17
+americas_stage_1,All Maps,41,0.5,0.5,killjoy,0.16
+americas_stage_1,All Maps,41,0.5,0.5,chamber,0.15
+americas_stage_1,All Maps,41,0.5,0.5,kayo,0.09
+americas_stage_1,All Maps,41,0.5,0.5,brimstone,0.09
+americas_stage_1,All Maps,41,0.5,0.5,jett,0.09
+americas_stage_1,All Maps,41,0.5,0.5,tejo,0.07
+americas_stage_1,All Maps,41,0.5,0.5,cypher,0.06
+americas_stage_1,All Maps,41,0.5,0.5,waylay,0.06
+americas_stage_1,All Maps,41,0.5,0.5,veto,0.05
+americas_stage_1,All Maps,41,0.5,0.5,iso,0.04
+americas_stage_1,All Maps,41,0.5,0.5,sage,0.04
+americas_stage_1,All Maps,41,0.5,0.5,breach,0.02
+americas_stage_1,All Maps,41,0.5,0.5,deadlock,0.01
+americas_stage_1,All Maps,41,0.5,0.5,miks,0.0
+americas_stage_1,All Maps,41,0.5,0.5,reyna,0.0
+americas_stage_1,All Maps,41,0.5,0.5,gekko,0.0
+americas_stage_1,All Maps,41,0.5,0.5,clove,0.0
+americas_stage_1,All Maps,41,0.5,0.5,yoru,0.0
+americas_stage_1,Haven,9,0.46,0.54,neon,0.94
+americas_stage_1,Haven,9,0.46,0.54,viper,0.56
+americas_stage_1,Haven,9,0.46,0.54,omen,0.83
+americas_stage_1,Haven,9,0.46,0.54,sova,0.83
+americas_stage_1,Haven,9,0.46,0.54,fade,0.17
+americas_stage_1,Haven,9,0.46,0.54,vyse,0.17
+americas_stage_1,Haven,9,0.46,0.54,astra,0.17
+americas_stage_1,Haven,9,0.46,0.54,phoenix,0.44
+americas_stage_1,Haven,9,0.46,0.54,skye,0.0
+americas_stage_1,Haven,9,0.46,0.54,harbor,0.0
+americas_stage_1,Haven,9,0.46,0.54,raze,0.0
+americas_stage_1,Haven,9,0.46,0.54,killjoy,0.44
+americas_stage_1,Haven,9,0.46,0.54,chamber,0.17
+americas_stage_1,Haven,9,0.46,0.54,kayo,0.0
+americas_stage_1,Haven,9,0.46,0.54,brimstone,0.0
+americas_stage_1,Haven,9,0.46,0.54,jett,0.06
+americas_stage_1,Haven,9,0.46,0.54,tejo,0.0
+americas_stage_1,Haven,9,0.46,0.54,cypher,0.22
+americas_stage_1,Haven,9,0.46,0.54,waylay,0.0
+americas_stage_1,Haven,9,0.46,0.54,veto,0.0
+americas_stage_1,Haven,9,0.46,0.54,iso,0.0
+americas_stage_1,Haven,9,0.46,0.54,sage,0.0
+americas_stage_1,Haven,9,0.46,0.54,breach,0.0
+americas_stage_1,Haven,9,0.46,0.54,deadlock,0.0
+americas_stage_1,Haven,9,0.46,0.54,miks,0.0
+americas_stage_1,Haven,9,0.46,0.54,reyna,0.0
+americas_stage_1,Haven,9,0.46,0.54,gekko,0.0
+americas_stage_1,Haven,9,0.46,0.54,clove,0.0
+americas_stage_1,Haven,9,0.46,0.54,yoru,0.0
+americas_stage_1,Split,8,0.48,0.52,neon,0.75
+americas_stage_1,Split,8,0.48,0.52,viper,0.69
+americas_stage_1,Split,8,0.48,0.52,omen,0.69
+americas_stage_1,Split,8,0.48,0.52,sova,0.0
+americas_stage_1,Split,8,0.48,0.52,fade,0.63
+americas_stage_1,Split,8,0.48,0.52,vyse,0.56
+americas_stage_1,Split,8,0.48,0.52,astra,0.31
+americas_stage_1,Split,8,0.48,0.52,phoenix,0.06
+americas_stage_1,Split,8,0.48,0.52,skye,0.38
+americas_stage_1,Split,8,0.48,0.52,harbor,0.13
+americas_stage_1,Split,8,0.48,0.52,raze,0.5
+americas_stage_1,Split,8,0.48,0.52,killjoy,0.0
+americas_stage_1,Split,8,0.48,0.52,chamber,0.0
+americas_stage_1,Split,8,0.48,0.52,kayo,0.0
+americas_stage_1,Split,8,0.48,0.52,brimstone,0.0
+americas_stage_1,Split,8,0.48,0.52,jett,0.06
+americas_stage_1,Split,8,0.48,0.52,tejo,0.0
+americas_stage_1,Split,8,0.48,0.52,cypher,0.06
+americas_stage_1,Split,8,0.48,0.52,waylay,0.0
+americas_stage_1,Split,8,0.48,0.52,veto,0.0
+americas_stage_1,Split,8,0.48,0.52,iso,0.0
+americas_stage_1,Split,8,0.48,0.52,sage,0.13
+americas_stage_1,Split,8,0.48,0.52,breach,0.0
+americas_stage_1,Split,8,0.48,0.52,deadlock,0.06
+americas_stage_1,Split,8,0.48,0.52,miks,0.0
+americas_stage_1,Split,8,0.48,0.52,reyna,0.0
+americas_stage_1,Split,8,0.48,0.52,gekko,0.0
+americas_stage_1,Split,8,0.48,0.52,clove,0.0
+americas_stage_1,Split,8,0.48,0.52,yoru,0.0
+americas_stage_1,Lotus,7,0.46,0.54,neon,0.79
+americas_stage_1,Lotus,7,0.46,0.54,viper,0.79
+americas_stage_1,Lotus,7,0.46,0.54,omen,1.0
+americas_stage_1,Lotus,7,0.46,0.54,sova,0.07
+americas_stage_1,Lotus,7,0.46,0.54,fade,0.93
+americas_stage_1,Lotus,7,0.46,0.54,vyse,0.86
+americas_stage_1,Lotus,7,0.46,0.54,astra,0.0
+americas_stage_1,Lotus,7,0.46,0.54,phoenix,0.0
+americas_stage_1,Lotus,7,0.46,0.54,skye,0.0
+americas_stage_1,Lotus,7,0.46,0.54,harbor,0.07
+americas_stage_1,Lotus,7,0.46,0.54,raze,0.29
+americas_stage_1,Lotus,7,0.46,0.54,killjoy,0.0
+americas_stage_1,Lotus,7,0.46,0.54,chamber,0.0
+americas_stage_1,Lotus,7,0.46,0.54,kayo,0.0
+americas_stage_1,Lotus,7,0.46,0.54,brimstone,0.0
+americas_stage_1,Lotus,7,0.46,0.54,jett,0.0
+americas_stage_1,Lotus,7,0.46,0.54,tejo,0.0
+americas_stage_1,Lotus,7,0.46,0.54,cypher,0.0
+americas_stage_1,Lotus,7,0.46,0.54,waylay,0.0
+americas_stage_1,Lotus,7,0.46,0.54,veto,0.14
+americas_stage_1,Lotus,7,0.46,0.54,iso,0.0
+americas_stage_1,Lotus,7,0.46,0.54,sage,0.07
+americas_stage_1,Lotus,7,0.46,0.54,breach,0.0
+americas_stage_1,Lotus,7,0.46,0.54,deadlock,0.0
+americas_stage_1,Lotus,7,0.46,0.54,miks,0.0
+americas_stage_1,Lotus,7,0.46,0.54,reyna,0.0
+americas_stage_1,Lotus,7,0.46,0.54,gekko,0.0
+americas_stage_1,Lotus,7,0.46,0.54,clove,0.0
+americas_stage_1,Lotus,7,0.46,0.54,yoru,0.0
+americas_stage_1,Pearl,7,0.56,0.44,neon,0.86
+americas_stage_1,Pearl,7,0.56,0.44,viper,0.0
+americas_stage_1,Pearl,7,0.56,0.44,omen,0.0
+americas_stage_1,Pearl,7,0.56,0.44,sova,0.64
+americas_stage_1,Pearl,7,0.56,0.44,fade,0.21
+americas_stage_1,Pearl,7,0.56,0.44,vyse,0.14
+americas_stage_1,Pearl,7,0.56,0.44,astra,1.0
+americas_stage_1,Pearl,7,0.56,0.44,phoenix,0.36
+americas_stage_1,Pearl,7,0.56,0.44,skye,0.14
+americas_stage_1,Pearl,7,0.56,0.44,harbor,0.07
+americas_stage_1,Pearl,7,0.56,0.44,raze,0.0
+americas_stage_1,Pearl,7,0.56,0.44,killjoy,0.36
+americas_stage_1,Pearl,7,0.56,0.44,chamber,0.43
+americas_stage_1,Pearl,7,0.56,0.44,kayo,0.14
+americas_stage_1,Pearl,7,0.56,0.44,brimstone,0.0
+americas_stage_1,Pearl,7,0.56,0.44,jett,0.0
+americas_stage_1,Pearl,7,0.56,0.44,tejo,0.36
+americas_stage_1,Pearl,7,0.56,0.44,cypher,0.0
+americas_stage_1,Pearl,7,0.56,0.44,waylay,0.21
+americas_stage_1,Pearl,7,0.56,0.44,veto,0.07
+americas_stage_1,Pearl,7,0.56,0.44,iso,0.0
+americas_stage_1,Pearl,7,0.56,0.44,sage,0.0
+americas_stage_1,Pearl,7,0.56,0.44,breach,0.0
+americas_stage_1,Pearl,7,0.56,0.44,deadlock,0.0
+americas_stage_1,Pearl,7,0.56,0.44,miks,0.0
+americas_stage_1,Pearl,7,0.56,0.44,reyna,0.0
+americas_stage_1,Pearl,7,0.56,0.44,gekko,0.0
+americas_stage_1,Pearl,7,0.56,0.44,clove,0.0
+americas_stage_1,Pearl,7,0.56,0.44,yoru,0.0
+americas_stage_1,Breeze,6,0.58,0.42,neon,0.67
+americas_stage_1,Breeze,6,0.58,0.42,viper,0.75
+americas_stage_1,Breeze,6,0.58,0.42,omen,0.17
+americas_stage_1,Breeze,6,0.58,0.42,sova,0.92
+americas_stage_1,Breeze,6,0.58,0.42,fade,0.0
+americas_stage_1,Breeze,6,0.58,0.42,vyse,0.08
+americas_stage_1,Breeze,6,0.58,0.42,astra,0.25
+americas_stage_1,Breeze,6,0.58,0.42,phoenix,0.0
+americas_stage_1,Breeze,6,0.58,0.42,skye,0.08
+americas_stage_1,Breeze,6,0.58,0.42,harbor,0.83
+americas_stage_1,Breeze,6,0.58,0.42,raze,0.0
+americas_stage_1,Breeze,6,0.58,0.42,killjoy,0.0
+americas_stage_1,Breeze,6,0.58,0.42,chamber,0.17
+americas_stage_1,Breeze,6,0.58,0.42,kayo,0.42
+americas_stage_1,Breeze,6,0.58,0.42,brimstone,0.0
+americas_stage_1,Breeze,6,0.58,0.42,jett,0.42
+americas_stage_1,Breeze,6,0.58,0.42,tejo,0.0
+americas_stage_1,Breeze,6,0.58,0.42,cypher,0.0
+americas_stage_1,Breeze,6,0.58,0.42,waylay,0.0
+americas_stage_1,Breeze,6,0.58,0.42,veto,0.0
+americas_stage_1,Breeze,6,0.58,0.42,iso,0.25
+americas_stage_1,Breeze,6,0.58,0.42,sage,0.0
+americas_stage_1,Breeze,6,0.58,0.42,breach,0.0
+americas_stage_1,Breeze,6,0.58,0.42,deadlock,0.0
+americas_stage_1,Breeze,6,0.58,0.42,miks,0.0
+americas_stage_1,Breeze,6,0.58,0.42,reyna,0.0
+americas_stage_1,Breeze,6,0.58,0.42,gekko,0.0
+americas_stage_1,Breeze,6,0.58,0.42,clove,0.0
+americas_stage_1,Breeze,6,0.58,0.42,yoru,0.0
+americas_stage_1,Bind,3,0.54,0.46,neon,0.83
+americas_stage_1,Bind,3,0.54,0.46,viper,1.0
+americas_stage_1,Bind,3,0.54,0.46,omen,0.0
+americas_stage_1,Bind,3,0.54,0.46,sova,0.0
+americas_stage_1,Bind,3,0.54,0.46,fade,0.17
+americas_stage_1,Bind,3,0.54,0.46,vyse,0.17
+americas_stage_1,Bind,3,0.54,0.46,astra,0.0
+americas_stage_1,Bind,3,0.54,0.46,phoenix,0.33
+americas_stage_1,Bind,3,0.54,0.46,skye,0.83
+americas_stage_1,Bind,3,0.54,0.46,harbor,0.17
+americas_stage_1,Bind,3,0.54,0.46,raze,0.33
+americas_stage_1,Bind,3,0.54,0.46,killjoy,0.0
+americas_stage_1,Bind,3,0.54,0.46,chamber,0.17
+americas_stage_1,Bind,3,0.54,0.46,kayo,0.0
+americas_stage_1,Bind,3,0.54,0.46,brimstone,0.83
+americas_stage_1,Bind,3,0.54,0.46,jett,0.0
+americas_stage_1,Bind,3,0.54,0.46,tejo,0.0
+americas_stage_1,Bind,3,0.54,0.46,cypher,0.0
+americas_stage_1,Bind,3,0.54,0.46,waylay,0.17
+americas_stage_1,Bind,3,0.54,0.46,veto,0.0
+americas_stage_1,Bind,3,0.54,0.46,iso,0.0
+americas_stage_1,Bind,3,0.54,0.46,sage,0.0
+americas_stage_1,Bind,3,0.54,0.46,breach,0.0
+americas_stage_1,Bind,3,0.54,0.46,deadlock,0.0
+americas_stage_1,Bind,3,0.54,0.46,miks,0.0
+americas_stage_1,Bind,3,0.54,0.46,reyna,0.0
+americas_stage_1,Bind,3,0.54,0.46,gekko,0.0
+americas_stage_1,Bind,3,0.54,0.46,clove,0.0
+americas_stage_1,Bind,3,0.54,0.46,yoru,0.0
+americas_stage_1,Fracture,1,0.59,0.41,neon,1.0
+americas_stage_1,Fracture,1,0.59,0.41,viper,0.0
+americas_stage_1,Fracture,1,0.59,0.41,omen,0.0
+americas_stage_1,Fracture,1,0.59,0.41,sova,0.0
+americas_stage_1,Fracture,1,0.59,0.41,fade,0.0
+americas_stage_1,Fracture,1,0.59,0.41,vyse,0.0
+americas_stage_1,Fracture,1,0.59,0.41,astra,0.0
+americas_stage_1,Fracture,1,0.59,0.41,phoenix,0.0
+americas_stage_1,Fracture,1,0.59,0.41,skye,0.5
+americas_stage_1,Fracture,1,0.59,0.41,harbor,0.0
+americas_stage_1,Fracture,1,0.59,0.41,raze,0.0
+americas_stage_1,Fracture,1,0.59,0.41,killjoy,0.0
+americas_stage_1,Fracture,1,0.59,0.41,chamber,0.0
+americas_stage_1,Fracture,1,0.59,0.41,kayo,0.0
+americas_stage_1,Fracture,1,0.59,0.41,brimstone,1.0
+americas_stage_1,Fracture,1,0.59,0.41,jett,0.0
+americas_stage_1,Fracture,1,0.59,0.41,tejo,0.5
+americas_stage_1,Fracture,1,0.59,0.41,cypher,0.0
+americas_stage_1,Fracture,1,0.59,0.41,waylay,0.5
+americas_stage_1,Fracture,1,0.59,0.41,veto,0.5
+americas_stage_1,Fracture,1,0.59,0.41,iso,0.0
+americas_stage_1,Fracture,1,0.59,0.41,sage,0.0
+americas_stage_1,Fracture,1,0.59,0.41,breach,1.0
+americas_stage_1,Fracture,1,0.59,0.41,deadlock,0.0
+americas_stage_1,Fracture,1,0.59,0.41,miks,0.0
+americas_stage_1,Fracture,1,0.59,0.41,reyna,0.0
+americas_stage_1,Fracture,1,0.59,0.41,gekko,0.0
+americas_stage_1,Fracture,1,0.59,0.41,clove,0.0
+americas_stage_1,Fracture,1,0.59,0.41,yoru,0.0
+china_stage_1,All Maps,89,0.52,0.48,neon,0.8
+china_stage_1,All Maps,89,0.52,0.48,waylay,0.64
+china_stage_1,All Maps,89,0.52,0.48,viper,0.54
+china_stage_1,All Maps,89,0.52,0.48,omen,0.53
+china_stage_1,All Maps,89,0.52,0.48,skye,0.43
+china_stage_1,All Maps,89,0.52,0.48,cypher,0.3
+china_stage_1,All Maps,89,0.52,0.48,brimstone,0.29
+china_stage_1,All Maps,89,0.52,0.48,fade,0.27
+china_stage_1,All Maps,89,0.52,0.48,sova,0.21
+china_stage_1,All Maps,89,0.52,0.48,astra,0.19
+china_stage_1,All Maps,89,0.52,0.48,killjoy,0.16
+china_stage_1,All Maps,89,0.52,0.48,phoenix,0.11
+china_stage_1,All Maps,89,0.52,0.48,raze,0.1
+china_stage_1,All Maps,89,0.52,0.48,tejo,0.1
+china_stage_1,All Maps,89,0.52,0.48,jett,0.07
+china_stage_1,All Maps,89,0.52,0.48,kayo,0.05
+china_stage_1,All Maps,89,0.52,0.48,chamber,0.05
+china_stage_1,All Maps,89,0.52,0.48,vyse,0.03
+china_stage_1,All Maps,89,0.52,0.48,breach,0.03
+china_stage_1,All Maps,89,0.52,0.48,veto,0.02
+china_stage_1,All Maps,89,0.52,0.48,harbor,0.02
+china_stage_1,All Maps,89,0.52,0.48,sage,0.02
+china_stage_1,All Maps,89,0.52,0.48,miks,0.01
+china_stage_1,All Maps,89,0.52,0.48,gekko,0.01
+china_stage_1,All Maps,89,0.52,0.48,deadlock,0.01
+china_stage_1,All Maps,89,0.52,0.48,reyna,0.0
+china_stage_1,All Maps,89,0.52,0.48,iso,0.0
+china_stage_1,All Maps,89,0.52,0.48,clove,0.0
+china_stage_1,All Maps,89,0.52,0.48,yoru,0.0
+china_stage_1,Lotus,19,0.56,0.44,neon,0.55
+china_stage_1,Lotus,19,0.56,0.44,waylay,0.58
+china_stage_1,Lotus,19,0.56,0.44,viper,0.58
+china_stage_1,Lotus,19,0.56,0.44,omen,1.0
+china_stage_1,Lotus,19,0.56,0.44,skye,0.24
+china_stage_1,Lotus,19,0.56,0.44,cypher,0.37
+china_stage_1,Lotus,19,0.56,0.44,brimstone,0.0
+china_stage_1,Lotus,19,0.56,0.44,fade,0.76
+china_stage_1,Lotus,19,0.56,0.44,sova,0.0
+china_stage_1,Lotus,19,0.56,0.44,astra,0.0
+china_stage_1,Lotus,19,0.56,0.44,killjoy,0.24
+china_stage_1,Lotus,19,0.56,0.44,phoenix,0.11
+china_stage_1,Lotus,19,0.56,0.44,raze,0.34
+china_stage_1,Lotus,19,0.56,0.44,tejo,0.0
+china_stage_1,Lotus,19,0.56,0.44,jett,0.0
+china_stage_1,Lotus,19,0.56,0.44,kayo,0.0
+china_stage_1,Lotus,19,0.56,0.44,chamber,0.0
+china_stage_1,Lotus,19,0.56,0.44,vyse,0.08
+china_stage_1,Lotus,19,0.56,0.44,breach,0.0
+china_stage_1,Lotus,19,0.56,0.44,veto,0.08
+china_stage_1,Lotus,19,0.56,0.44,harbor,0.0
+china_stage_1,Lotus,19,0.56,0.44,sage,0.03
+china_stage_1,Lotus,19,0.56,0.44,miks,0.03
+china_stage_1,Lotus,19,0.56,0.44,gekko,0.0
+china_stage_1,Lotus,19,0.56,0.44,deadlock,0.03
+china_stage_1,Lotus,19,0.56,0.44,reyna,0.0
+china_stage_1,Lotus,19,0.56,0.44,iso,0.0
+china_stage_1,Lotus,19,0.56,0.44,clove,0.0
+china_stage_1,Lotus,19,0.56,0.44,yoru,0.0
+china_stage_1,Bind,14,0.51,0.49,neon,0.86
+china_stage_1,Bind,14,0.51,0.49,waylay,0.89
+china_stage_1,Bind,14,0.51,0.49,viper,0.86
+china_stage_1,Bind,14,0.51,0.49,omen,0.07
+china_stage_1,Bind,14,0.51,0.49,skye,0.93
+china_stage_1,Bind,14,0.51,0.49,cypher,0.04
+china_stage_1,Bind,14,0.51,0.49,brimstone,0.96
+china_stage_1,Bind,14,0.51,0.49,fade,0.04
+china_stage_1,Bind,14,0.51,0.49,sova,0.0
+china_stage_1,Bind,14,0.51,0.49,astra,0.04
+china_stage_1,Bind,14,0.51,0.49,killjoy,0.0
+china_stage_1,Bind,14,0.51,0.49,phoenix,0.0
+china_stage_1,Bind,14,0.51,0.49,raze,0.07
+china_stage_1,Bind,14,0.51,0.49,tejo,0.04
+china_stage_1,Bind,14,0.51,0.49,jett,0.0
+china_stage_1,Bind,14,0.51,0.49,kayo,0.07
+china_stage_1,Bind,14,0.51,0.49,chamber,0.04
+china_stage_1,Bind,14,0.51,0.49,vyse,0.0
+china_stage_1,Bind,14,0.51,0.49,breach,0.0
+china_stage_1,Bind,14,0.51,0.49,veto,0.0
+china_stage_1,Bind,14,0.51,0.49,harbor,0.0
+china_stage_1,Bind,14,0.51,0.49,sage,0.0
+china_stage_1,Bind,14,0.51,0.49,miks,0.04
+china_stage_1,Bind,14,0.51,0.49,gekko,0.07
+china_stage_1,Bind,14,0.51,0.49,deadlock,0.0
+china_stage_1,Bind,14,0.51,0.49,reyna,0.0
+china_stage_1,Bind,14,0.51,0.49,iso,0.0
+china_stage_1,Bind,14,0.51,0.49,clove,0.0
+china_stage_1,Bind,14,0.51,0.49,yoru,0.0
+china_stage_1,Breeze,13,0.48,0.52,neon,0.62
+china_stage_1,Breeze,13,0.48,0.52,waylay,0.38
+china_stage_1,Breeze,13,0.48,0.52,viper,0.88
+china_stage_1,Breeze,13,0.48,0.52,omen,0.38
+china_stage_1,Breeze,13,0.48,0.52,skye,0.23
+china_stage_1,Breeze,13,0.48,0.52,cypher,0.0
+china_stage_1,Breeze,13,0.48,0.52,brimstone,0.0
+china_stage_1,Breeze,13,0.48,0.52,fade,0.0
+china_stage_1,Breeze,13,0.48,0.52,sova,0.77
+china_stage_1,Breeze,13,0.48,0.52,astra,0.54
+china_stage_1,Breeze,13,0.48,0.52,killjoy,0.0
+china_stage_1,Breeze,13,0.48,0.52,phoenix,0.15
+china_stage_1,Breeze,13,0.48,0.52,raze,0.0
+china_stage_1,Breeze,13,0.48,0.52,tejo,0.0
+china_stage_1,Breeze,13,0.48,0.52,jett,0.5
+china_stage_1,Breeze,13,0.48,0.52,kayo,0.27
+china_stage_1,Breeze,13,0.48,0.52,chamber,0.08
+china_stage_1,Breeze,13,0.48,0.52,vyse,0.0
+china_stage_1,Breeze,13,0.48,0.52,breach,0.0
+china_stage_1,Breeze,13,0.48,0.52,veto,0.0
+china_stage_1,Breeze,13,0.48,0.52,harbor,0.15
+china_stage_1,Breeze,13,0.48,0.52,sage,0.04
+china_stage_1,Breeze,13,0.48,0.52,miks,0.0
+china_stage_1,Breeze,13,0.48,0.52,gekko,0.0
+china_stage_1,Breeze,13,0.48,0.52,deadlock,0.0
+china_stage_1,Breeze,13,0.48,0.52,reyna,0.0
+china_stage_1,Breeze,13,0.48,0.52,iso,0.0
+china_stage_1,Breeze,13,0.48,0.52,clove,0.0
+china_stage_1,Breeze,13,0.48,0.52,yoru,0.0
+china_stage_1,Fracture,13,0.51,0.49,neon,0.92
+china_stage_1,Fracture,13,0.51,0.49,waylay,0.73
+china_stage_1,Fracture,13,0.51,0.49,viper,0.0
+china_stage_1,Fracture,13,0.51,0.49,omen,0.0
+china_stage_1,Fracture,13,0.51,0.49,skye,0.58
+china_stage_1,Fracture,13,0.51,0.49,cypher,0.85
+china_stage_1,Fracture,13,0.51,0.49,brimstone,0.92
+china_stage_1,Fracture,13,0.51,0.49,fade,0.0
+china_stage_1,Fracture,13,0.51,0.49,sova,0.0
+china_stage_1,Fracture,13,0.51,0.49,astra,0.08
+china_stage_1,Fracture,13,0.51,0.49,killjoy,0.0
+china_stage_1,Fracture,13,0.51,0.49,phoenix,0.04
+china_stage_1,Fracture,13,0.51,0.49,raze,0.04
+china_stage_1,Fracture,13,0.51,0.49,tejo,0.5
+china_stage_1,Fracture,13,0.51,0.49,jett,0.0
+china_stage_1,Fracture,13,0.51,0.49,kayo,0.0
+china_stage_1,Fracture,13,0.51,0.49,chamber,0.04
+china_stage_1,Fracture,13,0.51,0.49,vyse,0.0
+china_stage_1,Fracture,13,0.51,0.49,breach,0.19
+china_stage_1,Fracture,13,0.51,0.49,veto,0.04
+china_stage_1,Fracture,13,0.51,0.49,harbor,0.0
+china_stage_1,Fracture,13,0.51,0.49,sage,0.08
+china_stage_1,Fracture,13,0.51,0.49,miks,0.0
+china_stage_1,Fracture,13,0.51,0.49,gekko,0.0
+china_stage_1,Fracture,13,0.51,0.49,deadlock,0.0
+china_stage_1,Fracture,13,0.51,0.49,reyna,0.0
+china_stage_1,Fracture,13,0.51,0.49,iso,0.0
+china_stage_1,Fracture,13,0.51,0.49,clove,0.0
+china_stage_1,Fracture,13,0.51,0.49,yoru,0.0
+china_stage_1,Haven,12,0.54,0.46,neon,1.0
+china_stage_1,Haven,12,0.54,0.46,waylay,0.5
+china_stage_1,Haven,12,0.54,0.46,viper,0.33
+china_stage_1,Haven,12,0.54,0.46,omen,1.0
+china_stage_1,Haven,12,0.54,0.46,skye,0.17
+china_stage_1,Haven,12,0.54,0.46,cypher,0.63
+china_stage_1,Haven,12,0.54,0.46,brimstone,0.0
+china_stage_1,Haven,12,0.54,0.46,fade,0.13
+china_stage_1,Haven,12,0.54,0.46,sova,0.71
+china_stage_1,Haven,12,0.54,0.46,astra,0.0
+china_stage_1,Haven,12,0.54,0.46,killjoy,0.29
+china_stage_1,Haven,12,0.54,0.46,phoenix,0.13
+china_stage_1,Haven,12,0.54,0.46,raze,0.0
+china_stage_1,Haven,12,0.54,0.46,tejo,0.0
+china_stage_1,Haven,12,0.54,0.46,jett,0.0
+china_stage_1,Haven,12,0.54,0.46,kayo,0.0
+china_stage_1,Haven,12,0.54,0.46,chamber,0.13
+china_stage_1,Haven,12,0.54,0.46,vyse,0.0
+china_stage_1,Haven,12,0.54,0.46,breach,0.0
+china_stage_1,Haven,12,0.54,0.46,veto,0.0
+china_stage_1,Haven,12,0.54,0.46,harbor,0.0
+china_stage_1,Haven,12,0.54,0.46,sage,0.0
+china_stage_1,Haven,12,0.54,0.46,miks,0.0
+china_stage_1,Haven,12,0.54,0.46,gekko,0.0
+china_stage_1,Haven,12,0.54,0.46,deadlock,0.0
+china_stage_1,Haven,12,0.54,0.46,reyna,0.0
+china_stage_1,Haven,12,0.54,0.46,iso,0.0
+china_stage_1,Haven,12,0.54,0.46,clove,0.0
+china_stage_1,Haven,12,0.54,0.46,yoru,0.0
+china_stage_1,Split,10,0.5,0.5,neon,0.9
+china_stage_1,Split,10,0.5,0.5,waylay,0.9
+china_stage_1,Split,10,0.5,0.5,viper,0.95
+china_stage_1,Split,10,0.5,0.5,omen,1.0
+china_stage_1,Split,10,0.5,0.5,skye,0.75
+china_stage_1,Split,10,0.5,0.5,cypher,0.05
+china_stage_1,Split,10,0.5,0.5,brimstone,0.0
+china_stage_1,Split,10,0.5,0.5,fade,0.25
+china_stage_1,Split,10,0.5,0.5,sova,0.0
+china_stage_1,Split,10,0.5,0.5,astra,0.0
+china_stage_1,Split,10,0.5,0.5,killjoy,0.0
+china_stage_1,Split,10,0.5,0.5,phoenix,0.0
+china_stage_1,Split,10,0.5,0.5,raze,0.1
+china_stage_1,Split,10,0.5,0.5,tejo,0.0
+china_stage_1,Split,10,0.5,0.5,jett,0.0
+china_stage_1,Split,10,0.5,0.5,kayo,0.0
+china_stage_1,Split,10,0.5,0.5,chamber,0.0
+china_stage_1,Split,10,0.5,0.5,vyse,0.1
+china_stage_1,Split,10,0.5,0.5,breach,0.0
+china_stage_1,Split,10,0.5,0.5,veto,0.0
+china_stage_1,Split,10,0.5,0.5,harbor,0.0
+china_stage_1,Split,10,0.5,0.5,sage,0.0
+china_stage_1,Split,10,0.5,0.5,miks,0.0
+china_stage_1,Split,10,0.5,0.5,gekko,0.0
+china_stage_1,Split,10,0.5,0.5,deadlock,0.0
+china_stage_1,Split,10,0.5,0.5,reyna,0.0
+china_stage_1,Split,10,0.5,0.5,iso,0.0
+china_stage_1,Split,10,0.5,0.5,clove,0.0
+china_stage_1,Split,10,0.5,0.5,yoru,0.0
+china_stage_1,Pearl,8,0.5,0.5,neon,0.94
+china_stage_1,Pearl,8,0.5,0.5,waylay,0.5
+china_stage_1,Pearl,8,0.5,0.5,viper,0.0
+china_stage_1,Pearl,8,0.5,0.5,omen,0.0
+china_stage_1,Pearl,8,0.5,0.5,skye,0.13
+china_stage_1,Pearl,8,0.5,0.5,cypher,0.06
+china_stage_1,Pearl,8,0.5,0.5,brimstone,0.0
+china_stage_1,Pearl,8,0.5,0.5,fade,0.63
+china_stage_1,Pearl,8,0.5,0.5,sova,0.06
+china_stage_1,Pearl,8,0.5,0.5,astra,1.0
+china_stage_1,Pearl,8,0.5,0.5,killjoy,0.75
+china_stage_1,Pearl,8,0.5,0.5,phoenix,0.5
+china_stage_1,Pearl,8,0.5,0.5,raze,0.0
+china_stage_1,Pearl,8,0.5,0.5,tejo,0.25
+china_stage_1,Pearl,8,0.5,0.5,jett,0.0
+china_stage_1,Pearl,8,0.5,0.5,kayo,0.0
+china_stage_1,Pearl,8,0.5,0.5,chamber,0.13
+china_stage_1,Pearl,8,0.5,0.5,vyse,0.06
+china_stage_1,Pearl,8,0.5,0.5,breach,0.0
+china_stage_1,Pearl,8,0.5,0.5,veto,0.0
+china_stage_1,Pearl,8,0.5,0.5,harbor,0.0
+china_stage_1,Pearl,8,0.5,0.5,sage,0.0
+china_stage_1,Pearl,8,0.5,0.5,miks,0.0
+china_stage_1,Pearl,8,0.5,0.5,gekko,0.0
+china_stage_1,Pearl,8,0.5,0.5,deadlock,0.0
+china_stage_1,Pearl,8,0.5,0.5,reyna,0.0
+china_stage_1,Pearl,8,0.5,0.5,iso,0.0
+china_stage_1,Pearl,8,0.5,0.5,clove,0.0
+china_stage_1,Pearl,8,0.5,0.5,yoru,0.0
+pacific_stage_1,All Maps,63,0.52,0.48,neon,0.82
+pacific_stage_1,All Maps,63,0.52,0.48,omen,0.46
+pacific_stage_1,All Maps,63,0.52,0.48,viper,0.36
+pacific_stage_1,All Maps,63,0.52,0.48,skye,0.35
+pacific_stage_1,All Maps,63,0.52,0.48,fade,0.33
+pacific_stage_1,All Maps,63,0.52,0.48,brimstone,0.26
+pacific_stage_1,All Maps,63,0.52,0.48,astra,0.25
+pacific_stage_1,All Maps,63,0.52,0.48,waylay,0.25
+pacific_stage_1,All Maps,63,0.52,0.48,cypher,0.25
+pacific_stage_1,All Maps,63,0.52,0.48,raze,0.23
+pacific_stage_1,All Maps,63,0.52,0.48,chamber,0.21
+pacific_stage_1,All Maps,63,0.52,0.48,sova,0.19
+pacific_stage_1,All Maps,63,0.52,0.48,phoenix,0.17
+pacific_stage_1,All Maps,63,0.52,0.48,killjoy,0.13
+pacific_stage_1,All Maps,63,0.52,0.48,breach,0.13
+pacific_stage_1,All Maps,63,0.52,0.48,vyse,0.12
+pacific_stage_1,All Maps,63,0.52,0.48,jett,0.12
+pacific_stage_1,All Maps,63,0.52,0.48,tejo,0.11
+pacific_stage_1,All Maps,63,0.52,0.48,deadlock,0.07
+pacific_stage_1,All Maps,63,0.52,0.48,kayo,0.07
+pacific_stage_1,All Maps,63,0.52,0.48,veto,0.05
+pacific_stage_1,All Maps,63,0.52,0.48,harbor,0.04
+pacific_stage_1,All Maps,63,0.52,0.48,yoru,0.01
+pacific_stage_1,All Maps,63,0.52,0.48,iso,0.01
+pacific_stage_1,All Maps,63,0.52,0.48,gekko,0.01
+pacific_stage_1,All Maps,63,0.52,0.48,sage,0.0
+pacific_stage_1,All Maps,63,0.52,0.48,reyna,0.0
+pacific_stage_1,All Maps,63,0.52,0.48,clove,0.0
+pacific_stage_1,All Maps,63,0.52,0.48,miks,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,neon,0.95
+pacific_stage_1,Lotus,11,0.53,0.47,omen,1.0
+pacific_stage_1,Lotus,11,0.53,0.47,viper,0.41
+pacific_stage_1,Lotus,11,0.53,0.47,skye,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,fade,1.0
+pacific_stage_1,Lotus,11,0.53,0.47,brimstone,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,astra,0.05
+pacific_stage_1,Lotus,11,0.53,0.47,waylay,0.09
+pacific_stage_1,Lotus,11,0.53,0.47,cypher,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,raze,0.59
+pacific_stage_1,Lotus,11,0.53,0.47,chamber,0.09
+pacific_stage_1,Lotus,11,0.53,0.47,sova,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,phoenix,0.05
+pacific_stage_1,Lotus,11,0.53,0.47,killjoy,0.09
+pacific_stage_1,Lotus,11,0.53,0.47,breach,0.05
+pacific_stage_1,Lotus,11,0.53,0.47,vyse,0.55
+pacific_stage_1,Lotus,11,0.53,0.47,jett,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,tejo,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,deadlock,0.05
+pacific_stage_1,Lotus,11,0.53,0.47,kayo,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,veto,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,harbor,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,yoru,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,iso,0.05
+pacific_stage_1,Lotus,11,0.53,0.47,gekko,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,sage,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,reyna,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,clove,0.0
+pacific_stage_1,Lotus,11,0.53,0.47,miks,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,neon,0.86
+pacific_stage_1,Fracture,11,0.61,0.39,omen,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,viper,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,skye,0.32
+pacific_stage_1,Fracture,11,0.61,0.39,fade,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,brimstone,1.0
+pacific_stage_1,Fracture,11,0.61,0.39,astra,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,waylay,0.36
+pacific_stage_1,Fracture,11,0.61,0.39,cypher,0.64
+pacific_stage_1,Fracture,11,0.61,0.39,raze,0.41
+pacific_stage_1,Fracture,11,0.61,0.39,chamber,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,sova,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,phoenix,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,killjoy,0.09
+pacific_stage_1,Fracture,11,0.61,0.39,breach,0.68
+pacific_stage_1,Fracture,11,0.61,0.39,vyse,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,jett,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,tejo,0.41
+pacific_stage_1,Fracture,11,0.61,0.39,deadlock,0.05
+pacific_stage_1,Fracture,11,0.61,0.39,kayo,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,veto,0.18
+pacific_stage_1,Fracture,11,0.61,0.39,harbor,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,yoru,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,iso,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,gekko,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,sage,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,reyna,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,clove,0.0
+pacific_stage_1,Fracture,11,0.61,0.39,miks,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,neon,0.77
+pacific_stage_1,Pearl,11,0.5,0.5,omen,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,viper,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,skye,0.27
+pacific_stage_1,Pearl,11,0.5,0.5,fade,0.5
+pacific_stage_1,Pearl,11,0.5,0.5,brimstone,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,astra,1.0
+pacific_stage_1,Pearl,11,0.5,0.5,waylay,0.18
+pacific_stage_1,Pearl,11,0.5,0.5,cypher,0.14
+pacific_stage_1,Pearl,11,0.5,0.5,raze,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,chamber,0.59
+pacific_stage_1,Pearl,11,0.5,0.5,sova,0.23
+pacific_stage_1,Pearl,11,0.5,0.5,phoenix,0.41
+pacific_stage_1,Pearl,11,0.5,0.5,killjoy,0.45
+pacific_stage_1,Pearl,11,0.5,0.5,breach,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,vyse,0.05
+pacific_stage_1,Pearl,11,0.5,0.5,jett,0.09
+pacific_stage_1,Pearl,11,0.5,0.5,tejo,0.18
+pacific_stage_1,Pearl,11,0.5,0.5,deadlock,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,kayo,0.14
+pacific_stage_1,Pearl,11,0.5,0.5,veto,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,harbor,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,yoru,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,iso,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,gekko,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,sage,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,reyna,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,clove,0.0
+pacific_stage_1,Pearl,11,0.5,0.5,miks,0.0
+pacific_stage_1,Haven,10,0.51,0.49,neon,0.8
+pacific_stage_1,Haven,10,0.51,0.49,omen,0.9
+pacific_stage_1,Haven,10,0.51,0.49,viper,0.05
+pacific_stage_1,Haven,10,0.51,0.49,skye,0.45
+pacific_stage_1,Haven,10,0.51,0.49,fade,0.1
+pacific_stage_1,Haven,10,0.51,0.49,brimstone,0.0
+pacific_stage_1,Haven,10,0.51,0.49,astra,0.1
+pacific_stage_1,Haven,10,0.51,0.49,waylay,0.25
+pacific_stage_1,Haven,10,0.51,0.49,cypher,0.45
+pacific_stage_1,Haven,10,0.51,0.49,raze,0.0
+pacific_stage_1,Haven,10,0.51,0.49,chamber,0.4
+pacific_stage_1,Haven,10,0.51,0.49,sova,0.45
+pacific_stage_1,Haven,10,0.51,0.49,phoenix,0.4
+pacific_stage_1,Haven,10,0.51,0.49,killjoy,0.15
+pacific_stage_1,Haven,10,0.51,0.49,breach,0.05
+pacific_stage_1,Haven,10,0.51,0.49,vyse,0.0
+pacific_stage_1,Haven,10,0.51,0.49,jett,0.2
+pacific_stage_1,Haven,10,0.51,0.49,tejo,0.0
+pacific_stage_1,Haven,10,0.51,0.49,deadlock,0.2
+pacific_stage_1,Haven,10,0.51,0.49,kayo,0.0
+pacific_stage_1,Haven,10,0.51,0.49,veto,0.0
+pacific_stage_1,Haven,10,0.51,0.49,harbor,0.05
+pacific_stage_1,Haven,10,0.51,0.49,yoru,0.0
+pacific_stage_1,Haven,10,0.51,0.49,iso,0.0
+pacific_stage_1,Haven,10,0.51,0.49,gekko,0.0
+pacific_stage_1,Haven,10,0.51,0.49,sage,0.0
+pacific_stage_1,Haven,10,0.51,0.49,reyna,0.0
+pacific_stage_1,Haven,10,0.51,0.49,clove,0.0
+pacific_stage_1,Haven,10,0.51,0.49,miks,0.0
+pacific_stage_1,Split,9,0.44,0.56,neon,0.61
+pacific_stage_1,Split,9,0.44,0.56,omen,0.83
+pacific_stage_1,Split,9,0.44,0.56,viper,0.83
+pacific_stage_1,Split,9,0.44,0.56,skye,0.67
+pacific_stage_1,Split,9,0.44,0.56,fade,0.33
+pacific_stage_1,Split,9,0.44,0.56,brimstone,0.0
+pacific_stage_1,Split,9,0.44,0.56,astra,0.17
+pacific_stage_1,Split,9,0.44,0.56,waylay,0.33
+pacific_stage_1,Split,9,0.44,0.56,cypher,0.28
+pacific_stage_1,Split,9,0.44,0.56,raze,0.33
+pacific_stage_1,Split,9,0.44,0.56,chamber,0.0
+pacific_stage_1,Split,9,0.44,0.56,sova,0.0
+pacific_stage_1,Split,9,0.44,0.56,phoenix,0.0
+pacific_stage_1,Split,9,0.44,0.56,killjoy,0.0
+pacific_stage_1,Split,9,0.44,0.56,breach,0.0
+pacific_stage_1,Split,9,0.44,0.56,vyse,0.11
+pacific_stage_1,Split,9,0.44,0.56,jett,0.22
+pacific_stage_1,Split,9,0.44,0.56,tejo,0.06
+pacific_stage_1,Split,9,0.44,0.56,deadlock,0.11
+pacific_stage_1,Split,9,0.44,0.56,kayo,0.0
+pacific_stage_1,Split,9,0.44,0.56,veto,0.11
+pacific_stage_1,Split,9,0.44,0.56,harbor,0.0
+pacific_stage_1,Split,9,0.44,0.56,yoru,0.0
+pacific_stage_1,Split,9,0.44,0.56,iso,0.0
+pacific_stage_1,Split,9,0.44,0.56,gekko,0.0
+pacific_stage_1,Split,9,0.44,0.56,sage,0.0
+pacific_stage_1,Split,9,0.44,0.56,reyna,0.0
+pacific_stage_1,Split,9,0.44,0.56,clove,0.0
+pacific_stage_1,Split,9,0.44,0.56,miks,0.0
+pacific_stage_1,Bind,6,0.58,0.42,neon,0.92
+pacific_stage_1,Bind,6,0.58,0.42,omen,0.0
+pacific_stage_1,Bind,6,0.58,0.42,viper,0.83
+pacific_stage_1,Bind,6,0.58,0.42,skye,0.83
+pacific_stage_1,Bind,6,0.58,0.42,fade,0.08
+pacific_stage_1,Bind,6,0.58,0.42,brimstone,0.92
+pacific_stage_1,Bind,6,0.58,0.42,astra,0.08
+pacific_stage_1,Bind,6,0.58,0.42,waylay,0.58
+pacific_stage_1,Bind,6,0.58,0.42,cypher,0.0
+pacific_stage_1,Bind,6,0.58,0.42,raze,0.08
+pacific_stage_1,Bind,6,0.58,0.42,chamber,0.17
+pacific_stage_1,Bind,6,0.58,0.42,sova,0.0
+pacific_stage_1,Bind,6,0.58,0.42,phoenix,0.08
+pacific_stage_1,Bind,6,0.58,0.42,killjoy,0.0
+pacific_stage_1,Bind,6,0.58,0.42,breach,0.0
+pacific_stage_1,Bind,6,0.58,0.42,vyse,0.0
+pacific_stage_1,Bind,6,0.58,0.42,jett,0.08
+pacific_stage_1,Bind,6,0.58,0.42,tejo,0.0
+pacific_stage_1,Bind,6,0.58,0.42,deadlock,0.08
+pacific_stage_1,Bind,6,0.58,0.42,kayo,0.08
+pacific_stage_1,Bind,6,0.58,0.42,veto,0.0
+pacific_stage_1,Bind,6,0.58,0.42,harbor,0.0
+pacific_stage_1,Bind,6,0.58,0.42,yoru,0.08
+pacific_stage_1,Bind,6,0.58,0.42,iso,0.0
+pacific_stage_1,Bind,6,0.58,0.42,gekko,0.08
+pacific_stage_1,Bind,6,0.58,0.42,sage,0.0
+pacific_stage_1,Bind,6,0.58,0.42,reyna,0.0
+pacific_stage_1,Bind,6,0.58,0.42,clove,0.0
+pacific_stage_1,Bind,6,0.58,0.42,miks,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,neon,0.8
+pacific_stage_1,Breeze,5,0.45,0.55,omen,0.3
+pacific_stage_1,Breeze,5,0.45,0.55,viper,1.0
+pacific_stage_1,Breeze,5,0.45,0.55,skye,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,fade,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,brimstone,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,astra,0.3
+pacific_stage_1,Breeze,5,0.45,0.55,waylay,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,cypher,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,raze,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,chamber,0.1
+pacific_stage_1,Breeze,5,0.45,0.55,sova,1.0
+pacific_stage_1,Breeze,5,0.45,0.55,phoenix,0.2
+pacific_stage_1,Breeze,5,0.45,0.55,killjoy,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,breach,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,vyse,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,jett,0.4
+pacific_stage_1,Breeze,5,0.45,0.55,tejo,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,deadlock,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,kayo,0.5
+pacific_stage_1,Breeze,5,0.45,0.55,veto,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,harbor,0.4
+pacific_stage_1,Breeze,5,0.45,0.55,yoru,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,iso,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,gekko,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,sage,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,reyna,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,clove,0.0
+pacific_stage_1,Breeze,5,0.45,0.55,miks,0.0
+emea_stage_1,All Maps,72,0.52,0.48,neon,0.85
+emea_stage_1,All Maps,72,0.52,0.48,viper,0.53
+emea_stage_1,All Maps,72,0.52,0.48,omen,0.51
+emea_stage_1,All Maps,72,0.52,0.48,fade,0.47
+emea_stage_1,All Maps,72,0.52,0.48,astra,0.29
+emea_stage_1,All Maps,72,0.52,0.48,raze,0.28
+emea_stage_1,All Maps,72,0.52,0.48,skye,0.27
+emea_stage_1,All Maps,72,0.52,0.48,sova,0.26
+emea_stage_1,All Maps,72,0.52,0.48,cypher,0.24
+emea_stage_1,All Maps,72,0.52,0.48,phoenix,0.19
+emea_stage_1,All Maps,72,0.52,0.48,brimstone,0.17
+emea_stage_1,All Maps,72,0.52,0.48,waylay,0.15
+emea_stage_1,All Maps,72,0.52,0.48,vyse,0.13
+emea_stage_1,All Maps,72,0.52,0.48,jett,0.11
+emea_stage_1,All Maps,72,0.52,0.48,chamber,0.11
+emea_stage_1,All Maps,72,0.52,0.48,killjoy,0.08
+emea_stage_1,All Maps,72,0.52,0.48,tejo,0.08
+emea_stage_1,All Maps,72,0.52,0.48,kayo,0.08
+emea_stage_1,All Maps,72,0.52,0.48,veto,0.06
+emea_stage_1,All Maps,72,0.52,0.48,harbor,0.06
+emea_stage_1,All Maps,72,0.52,0.48,breach,0.04
+emea_stage_1,All Maps,72,0.52,0.48,iso,0.01
+emea_stage_1,All Maps,72,0.52,0.48,sage,0.01
+emea_stage_1,All Maps,72,0.52,0.48,gekko,0.01
+emea_stage_1,All Maps,72,0.52,0.48,deadlock,0.01
+emea_stage_1,All Maps,72,0.52,0.48,miks,0.0
+emea_stage_1,All Maps,72,0.52,0.48,reyna,0.0
+emea_stage_1,All Maps,72,0.52,0.48,clove,0.0
+emea_stage_1,All Maps,72,0.52,0.48,yoru,0.0
+emea_stage_1,Lotus,14,0.55,0.45,neon,0.96
+emea_stage_1,Lotus,14,0.55,0.45,viper,0.5
+emea_stage_1,Lotus,14,0.55,0.45,omen,1.0
+emea_stage_1,Lotus,14,0.55,0.45,fade,0.93
+emea_stage_1,Lotus,14,0.55,0.45,astra,0.0
+emea_stage_1,Lotus,14,0.55,0.45,raze,0.43
+emea_stage_1,Lotus,14,0.55,0.45,skye,0.07
+emea_stage_1,Lotus,14,0.55,0.45,sova,0.0
+emea_stage_1,Lotus,14,0.55,0.45,cypher,0.14
+emea_stage_1,Lotus,14,0.55,0.45,phoenix,0.07
+emea_stage_1,Lotus,14,0.55,0.45,brimstone,0.0
+emea_stage_1,Lotus,14,0.55,0.45,waylay,0.11
+emea_stage_1,Lotus,14,0.55,0.45,vyse,0.32
+emea_stage_1,Lotus,14,0.55,0.45,jett,0.0
+emea_stage_1,Lotus,14,0.55,0.45,chamber,0.18
+emea_stage_1,Lotus,14,0.55,0.45,killjoy,0.11
+emea_stage_1,Lotus,14,0.55,0.45,tejo,0.0
+emea_stage_1,Lotus,14,0.55,0.45,kayo,0.0
+emea_stage_1,Lotus,14,0.55,0.45,veto,0.07
+emea_stage_1,Lotus,14,0.55,0.45,harbor,0.04
+emea_stage_1,Lotus,14,0.55,0.45,breach,0.0
+emea_stage_1,Lotus,14,0.55,0.45,iso,0.0
+emea_stage_1,Lotus,14,0.55,0.45,sage,0.04
+emea_stage_1,Lotus,14,0.55,0.45,gekko,0.0
+emea_stage_1,Lotus,14,0.55,0.45,deadlock,0.04
+emea_stage_1,Lotus,14,0.55,0.45,miks,0.0
+emea_stage_1,Lotus,14,0.55,0.45,reyna,0.0
+emea_stage_1,Lotus,14,0.55,0.45,clove,0.0
+emea_stage_1,Lotus,14,0.55,0.45,yoru,0.0
+emea_stage_1,Haven,13,0.57,0.43,neon,0.85
+emea_stage_1,Haven,13,0.57,0.43,viper,0.23
+emea_stage_1,Haven,13,0.57,0.43,omen,1.0
+emea_stage_1,Haven,13,0.57,0.43,fade,0.19
+emea_stage_1,Haven,13,0.57,0.43,astra,0.0
+emea_stage_1,Haven,13,0.57,0.43,raze,0.0
+emea_stage_1,Haven,13,0.57,0.43,skye,0.08
+emea_stage_1,Haven,13,0.57,0.43,sova,0.73
+emea_stage_1,Haven,13,0.57,0.43,cypher,0.62
+emea_stage_1,Haven,13,0.57,0.43,phoenix,0.54
+emea_stage_1,Haven,13,0.57,0.43,brimstone,0.0
+emea_stage_1,Haven,13,0.57,0.43,waylay,0.04
+emea_stage_1,Haven,13,0.57,0.43,vyse,0.04
+emea_stage_1,Haven,13,0.57,0.43,jett,0.19
+emea_stage_1,Haven,13,0.57,0.43,chamber,0.04
+emea_stage_1,Haven,13,0.57,0.43,killjoy,0.23
+emea_stage_1,Haven,13,0.57,0.43,tejo,0.04
+emea_stage_1,Haven,13,0.57,0.43,kayo,0.0
+emea_stage_1,Haven,13,0.57,0.43,veto,0.08
+emea_stage_1,Haven,13,0.57,0.43,harbor,0.0
+emea_stage_1,Haven,13,0.57,0.43,breach,0.12
+emea_stage_1,Haven,13,0.57,0.43,iso,0.0
+emea_stage_1,Haven,13,0.57,0.43,sage,0.0
+emea_stage_1,Haven,13,0.57,0.43,gekko,0.0
+emea_stage_1,Haven,13,0.57,0.43,deadlock,0.0
+emea_stage_1,Haven,13,0.57,0.43,miks,0.0
+emea_stage_1,Haven,13,0.57,0.43,reyna,0.0
+emea_stage_1,Haven,13,0.57,0.43,clove,0.0
+emea_stage_1,Haven,13,0.57,0.43,yoru,0.0
+emea_stage_1,Split,13,0.44,0.56,neon,0.92
+emea_stage_1,Split,13,0.44,0.56,viper,0.92
+emea_stage_1,Split,13,0.44,0.56,omen,0.42
+emea_stage_1,Split,13,0.44,0.56,fade,0.62
+emea_stage_1,Split,13,0.44,0.56,astra,0.58
+emea_stage_1,Split,13,0.44,0.56,raze,0.81
+emea_stage_1,Split,13,0.44,0.56,skye,0.38
+emea_stage_1,Split,13,0.44,0.56,sova,0.0
+emea_stage_1,Split,13,0.44,0.56,cypher,0.0
+emea_stage_1,Split,13,0.44,0.56,phoenix,0.0
+emea_stage_1,Split,13,0.44,0.56,brimstone,0.0
+emea_stage_1,Split,13,0.44,0.56,waylay,0.19
+emea_stage_1,Split,13,0.44,0.56,vyse,0.12
+emea_stage_1,Split,13,0.44,0.56,jett,0.04
+emea_stage_1,Split,13,0.44,0.56,chamber,0.0
+emea_stage_1,Split,13,0.44,0.56,killjoy,0.0
+emea_stage_1,Split,13,0.44,0.56,tejo,0.0
+emea_stage_1,Split,13,0.44,0.56,kayo,0.0
+emea_stage_1,Split,13,0.44,0.56,veto,0.0
+emea_stage_1,Split,13,0.44,0.56,harbor,0.0
+emea_stage_1,Split,13,0.44,0.56,breach,0.0
+emea_stage_1,Split,13,0.44,0.56,iso,0.0
+emea_stage_1,Split,13,0.44,0.56,sage,0.0
+emea_stage_1,Split,13,0.44,0.56,gekko,0.0
+emea_stage_1,Split,13,0.44,0.56,deadlock,0.0
+emea_stage_1,Split,13,0.44,0.56,miks,0.0
+emea_stage_1,Split,13,0.44,0.56,reyna,0.0
+emea_stage_1,Split,13,0.44,0.56,clove,0.0
+emea_stage_1,Split,13,0.44,0.56,yoru,0.0
+emea_stage_1,Bind,9,0.51,0.49,neon,0.94
+emea_stage_1,Bind,9,0.51,0.49,viper,1.0
+emea_stage_1,Bind,9,0.51,0.49,omen,0.0
+emea_stage_1,Bind,9,0.51,0.49,fade,0.06
+emea_stage_1,Bind,9,0.51,0.49,astra,0.11
+emea_stage_1,Bind,9,0.51,0.49,raze,0.17
+emea_stage_1,Bind,9,0.51,0.49,skye,0.94
+emea_stage_1,Bind,9,0.51,0.49,sova,0.0
+emea_stage_1,Bind,9,0.51,0.49,cypher,0.0
+emea_stage_1,Bind,9,0.51,0.49,phoenix,0.17
+emea_stage_1,Bind,9,0.51,0.49,brimstone,0.89
+emea_stage_1,Bind,9,0.51,0.49,waylay,0.28
+emea_stage_1,Bind,9,0.51,0.49,vyse,0.11
+emea_stage_1,Bind,9,0.51,0.49,jett,0.0
+emea_stage_1,Bind,9,0.51,0.49,chamber,0.22
+emea_stage_1,Bind,9,0.51,0.49,killjoy,0.0
+emea_stage_1,Bind,9,0.51,0.49,tejo,0.06
+emea_stage_1,Bind,9,0.51,0.49,kayo,0.0
+emea_stage_1,Bind,9,0.51,0.49,veto,0.0
+emea_stage_1,Bind,9,0.51,0.49,harbor,0.0
+emea_stage_1,Bind,9,0.51,0.49,breach,0.0
+emea_stage_1,Bind,9,0.51,0.49,iso,0.0
+emea_stage_1,Bind,9,0.51,0.49,sage,0.0
+emea_stage_1,Bind,9,0.51,0.49,gekko,0.06
+emea_stage_1,Bind,9,0.51,0.49,deadlock,0.0
+emea_stage_1,Bind,9,0.51,0.49,miks,0.0
+emea_stage_1,Bind,9,0.51,0.49,reyna,0.0
+emea_stage_1,Bind,9,0.51,0.49,clove,0.0
+emea_stage_1,Bind,9,0.51,0.49,yoru,0.0
+emea_stage_1,Pearl,9,0.43,0.57,neon,0.72
+emea_stage_1,Pearl,9,0.43,0.57,viper,0.0
+emea_stage_1,Pearl,9,0.43,0.57,omen,0.06
+emea_stage_1,Pearl,9,0.43,0.57,fade,0.67
+emea_stage_1,Pearl,9,0.43,0.57,astra,1.0
+emea_stage_1,Pearl,9,0.43,0.57,raze,0.06
+emea_stage_1,Pearl,9,0.43,0.57,skye,0.11
+emea_stage_1,Pearl,9,0.43,0.57,sova,0.22
+emea_stage_1,Pearl,9,0.43,0.57,cypher,0.39
+emea_stage_1,Pearl,9,0.43,0.57,phoenix,0.33
+emea_stage_1,Pearl,9,0.43,0.57,brimstone,0.0
+emea_stage_1,Pearl,9,0.43,0.57,waylay,0.33
+emea_stage_1,Pearl,9,0.43,0.57,vyse,0.06
+emea_stage_1,Pearl,9,0.43,0.57,jett,0.06
+emea_stage_1,Pearl,9,0.43,0.57,chamber,0.28
+emea_stage_1,Pearl,9,0.43,0.57,killjoy,0.17
+emea_stage_1,Pearl,9,0.43,0.57,tejo,0.28
+emea_stage_1,Pearl,9,0.43,0.57,kayo,0.06
+emea_stage_1,Pearl,9,0.43,0.57,veto,0.11
+emea_stage_1,Pearl,9,0.43,0.57,harbor,0.11
+emea_stage_1,Pearl,9,0.43,0.57,breach,0.0
+emea_stage_1,Pearl,9,0.43,0.57,iso,0.0
+emea_stage_1,Pearl,9,0.43,0.57,sage,0.0
+emea_stage_1,Pearl,9,0.43,0.57,gekko,0.0
+emea_stage_1,Pearl,9,0.43,0.57,deadlock,0.0
+emea_stage_1,Pearl,9,0.43,0.57,miks,0.0
+emea_stage_1,Pearl,9,0.43,0.57,reyna,0.0
+emea_stage_1,Pearl,9,0.43,0.57,clove,0.0
+emea_stage_1,Pearl,9,0.43,0.57,yoru,0.0
+emea_stage_1,Breeze,8,0.57,0.43,neon,0.63
+emea_stage_1,Breeze,8,0.57,0.43,viper,0.88
+emea_stage_1,Breeze,8,0.57,0.43,omen,0.44
+emea_stage_1,Breeze,8,0.57,0.43,fade,0.0
+emea_stage_1,Breeze,8,0.57,0.43,astra,0.25
+emea_stage_1,Breeze,8,0.57,0.43,raze,0.0
+emea_stage_1,Breeze,8,0.57,0.43,skye,0.25
+emea_stage_1,Breeze,8,0.57,0.43,sova,0.94
+emea_stage_1,Breeze,8,0.57,0.43,cypher,0.13
+emea_stage_1,Breeze,8,0.57,0.43,phoenix,0.06
+emea_stage_1,Breeze,8,0.57,0.43,brimstone,0.0
+emea_stage_1,Breeze,8,0.57,0.43,waylay,0.0
+emea_stage_1,Breeze,8,0.57,0.43,vyse,0.0
+emea_stage_1,Breeze,8,0.57,0.43,jett,0.5
+emea_stage_1,Breeze,8,0.57,0.43,chamber,0.0
+emea_stage_1,Breeze,8,0.57,0.43,killjoy,0.0
+emea_stage_1,Breeze,8,0.57,0.43,tejo,0.06
+emea_stage_1,Breeze,8,0.57,0.43,kayo,0.5
+emea_stage_1,Breeze,8,0.57,0.43,veto,0.0
+emea_stage_1,Breeze,8,0.57,0.43,harbor,0.31
+emea_stage_1,Breeze,8,0.57,0.43,breach,0.0
+emea_stage_1,Breeze,8,0.57,0.43,iso,0.06
+emea_stage_1,Breeze,8,0.57,0.43,sage,0.0
+emea_stage_1,Breeze,8,0.57,0.43,gekko,0.0
+emea_stage_1,Breeze,8,0.57,0.43,deadlock,0.0
+emea_stage_1,Breeze,8,0.57,0.43,miks,0.0
+emea_stage_1,Breeze,8,0.57,0.43,reyna,0.0
+emea_stage_1,Breeze,8,0.57,0.43,clove,0.0
+emea_stage_1,Breeze,8,0.57,0.43,yoru,0.0
+emea_stage_1,Fracture,6,0.57,0.43,neon,0.83
+emea_stage_1,Fracture,6,0.57,0.43,viper,0.08
+emea_stage_1,Fracture,6,0.57,0.43,omen,0.08
+emea_stage_1,Fracture,6,0.57,0.43,fade,0.67
+emea_stage_1,Fracture,6,0.57,0.43,astra,0.25
+emea_stage_1,Fracture,6,0.57,0.43,raze,0.25
+emea_stage_1,Fracture,6,0.57,0.43,skye,0.17
+emea_stage_1,Fracture,6,0.57,0.43,sova,0.0
+emea_stage_1,Fracture,6,0.57,0.43,cypher,0.5
+emea_stage_1,Fracture,6,0.57,0.43,phoenix,0.08
+emea_stage_1,Fracture,6,0.57,0.43,brimstone,0.67
+emea_stage_1,Fracture,6,0.57,0.43,waylay,0.17
+emea_stage_1,Fracture,6,0.57,0.43,vyse,0.17
+emea_stage_1,Fracture,6,0.57,0.43,jett,0.08
+emea_stage_1,Fracture,6,0.57,0.43,chamber,0.08
+emea_stage_1,Fracture,6,0.57,0.43,killjoy,0.0
+emea_stage_1,Fracture,6,0.57,0.43,tejo,0.25
+emea_stage_1,Fracture,6,0.57,0.43,kayo,0.17
+emea_stage_1,Fracture,6,0.57,0.43,veto,0.25
+emea_stage_1,Fracture,6,0.57,0.43,harbor,0.0
+emea_stage_1,Fracture,6,0.57,0.43,breach,0.25
+emea_stage_1,Fracture,6,0.57,0.43,iso,0.0
+emea_stage_1,Fracture,6,0.57,0.43,sage,0.0
+emea_stage_1,Fracture,6,0.57,0.43,gekko,0.0
+emea_stage_1,Fracture,6,0.57,0.43,deadlock,0.0
+emea_stage_1,Fracture,6,0.57,0.43,miks,0.0
+emea_stage_1,Fracture,6,0.57,0.43,reyna,0.0
+emea_stage_1,Fracture,6,0.57,0.43,clove,0.0
+emea_stage_1,Fracture,6,0.57,0.43,yoru,0.0

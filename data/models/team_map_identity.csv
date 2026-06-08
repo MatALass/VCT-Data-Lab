@@ -1,0 +1,257 @@
+team,map,compositions,map_volume_share,unique_comps,comp_diversity,map_identity_score,identity_label,sample_reliability_score
+100 Thieves,HAVEN,2,0.4,1,0.5,0.384,strong_map_identity,0.4
+100 Thieves,BREEZE,1,0.2,1,1.0,0.096,secondary_map,0.2
+100 Thieves,PEARL,1,0.2,1,1.0,0.096,secondary_map,0.25
+100 Thieves,SPLIT,1,0.2,1,1.0,0.096,secondary_map,0.25
+All Gamers,BIND,4,0.25,2,0.5,0.48,strong_map_identity,0.8
+All Gamers,LOTUS,4,0.25,1,0.25,0.48,strong_map_identity,0.8
+All Gamers,BREEZE,2,0.125,1,0.5,0.12,secondary_map,0.4
+All Gamers,HAVEN,2,0.125,1,0.5,0.12,secondary_map,0.4
+All Gamers,PEARL,2,0.125,2,1.0,0.12,secondary_map,0.5
+All Gamers,SPLIT,2,0.125,1,0.5,0.12,secondary_map,0.5
+BBL Esports,SPLIT,3,0.3,3,1.0,0.432,secondary_map,0.75
+BBL Esports,BREEZE,2,0.2,2,1.0,0.192,secondary_map,0.4
+BBL Esports,HAVEN,2,0.2,1,0.5,0.192,secondary_map,0.4
+BBL Esports,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+BBL Esports,PEARL,1,0.1,1,1.0,0.048,secondary_map,0.25
+Bilibili Gaming,FRACTURE,3,0.2308,1,0.3333,0.3323,secondary_map,0.6
+Bilibili Gaming,PEARL,3,0.2308,1,0.3333,0.3323,secondary_map,0.75
+Bilibili Gaming,BIND,2,0.1538,2,1.0,0.1476,secondary_map,0.4
+Bilibili Gaming,BREEZE,2,0.1538,2,1.0,0.1476,secondary_map,0.4
+Bilibili Gaming,LOTUS,2,0.1538,1,0.5,0.1476,secondary_map,0.4
+Bilibili Gaming,HAVEN,1,0.0769,1,1.0,0.0369,secondary_map,0.2
+Cloud9,HAVEN,2,0.4,1,0.5,0.384,strong_map_identity,0.4
+Cloud9,PEARL,2,0.4,2,1.0,0.384,strong_map_identity,0.5
+Cloud9,SPLIT,1,0.2,1,1.0,0.096,secondary_map,0.25
+DetonatioN FocusMe,LOTUS,3,0.3,2,0.6667,0.432,secondary_map,0.6
+DetonatioN FocusMe,PEARL,3,0.3,1,0.3333,0.432,secondary_map,0.75
+DetonatioN FocusMe,BIND,2,0.2,1,0.5,0.192,secondary_map,0.4
+DetonatioN FocusMe,FRACTURE,1,0.1,1,1.0,0.048,secondary_map,0.2
+DetonatioN FocusMe,HAVEN,1,0.1,1,1.0,0.048,secondary_map,0.2
+Dragon Ranger Gaming,BREEZE,5,0.3333,2,0.4,0.7999,signature_map,1.0
+Dragon Ranger Gaming,LOTUS,4,0.2667,2,0.5,0.512,strong_map_identity,0.8
+Dragon Ranger Gaming,BIND,2,0.1333,2,1.0,0.128,secondary_map,0.4
+Dragon Ranger Gaming,HAVEN,2,0.1333,1,0.5,0.128,secondary_map,0.4
+Dragon Ranger Gaming,PEARL,1,0.0667,1,1.0,0.032,secondary_map,0.25
+Dragon Ranger Gaming,SPLIT,1,0.0667,1,1.0,0.032,secondary_map,0.25
+EDward Gaming,LOTUS,4,0.2667,1,0.25,0.512,strong_map_identity,0.8
+EDward Gaming,FRACTURE,3,0.2,1,0.3333,0.288,secondary_map,0.6
+EDward Gaming,HAVEN,3,0.2,2,0.6667,0.288,secondary_map,0.6
+EDward Gaming,BREEZE,2,0.1333,1,0.5,0.128,secondary_map,0.4
+EDward Gaming,SPLIT,2,0.1333,1,0.5,0.128,secondary_map,0.5
+EDward Gaming,BIND,1,0.0667,1,1.0,0.032,secondary_map,0.2
+ENVY,PEARL,2,0.25,2,1.0,0.24,secondary_map,0.5
+ENVY,BIND,1,0.125,1,1.0,0.06,secondary_map,0.2
+ENVY,BREEZE,1,0.125,1,1.0,0.06,secondary_map,0.2
+ENVY,FRACTURE,1,0.125,1,1.0,0.06,secondary_map,0.2
+ENVY,HAVEN,1,0.125,1,1.0,0.06,secondary_map,0.2
+ENVY,LOTUS,1,0.125,1,1.0,0.06,secondary_map,0.2
+ENVY,SPLIT,1,0.125,1,1.0,0.06,secondary_map,0.25
+Eternal Fire,LOTUS,3,0.3,2,0.6667,0.432,secondary_map,0.6
+Eternal Fire,BIND,2,0.2,2,1.0,0.192,secondary_map,0.4
+Eternal Fire,SPLIT,2,0.2,2,1.0,0.192,secondary_map,0.5
+Eternal Fire,BREEZE,1,0.1,1,1.0,0.048,secondary_map,0.2
+Eternal Fire,FRACTURE,1,0.1,1,1.0,0.048,secondary_map,0.2
+Eternal Fire,PEARL,1,0.1,1,1.0,0.048,secondary_map,0.25
+Evil Geniuses,HAVEN,2,0.4,1,0.5,0.384,strong_map_identity,0.4
+Evil Geniuses,BREEZE,1,0.2,1,1.0,0.096,secondary_map,0.2
+Evil Geniuses,LOTUS,1,0.2,1,1.0,0.096,secondary_map,0.2
+Evil Geniuses,PEARL,1,0.2,1,1.0,0.096,secondary_map,0.25
+FNATIC,BREEZE,3,0.3,2,0.6667,0.432,secondary_map,0.6
+FNATIC,BIND,2,0.2,1,0.5,0.192,secondary_map,0.4
+FNATIC,LOTUS,2,0.2,2,1.0,0.192,secondary_map,0.4
+FNATIC,SPLIT,2,0.2,1,0.5,0.192,secondary_map,0.5
+FNATIC,HAVEN,1,0.1,1,1.0,0.048,secondary_map,0.2
+FULL SENSE,FRACTURE,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+FULL SENSE,HAVEN,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+FULL SENSE,PEARL,2,0.2222,1,0.5,0.2133,secondary_map,0.5
+FULL SENSE,BIND,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+FULL SENSE,LOTUS,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+FULL SENSE,SPLIT,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+FURIA,HAVEN,2,0.2857,2,1.0,0.2743,secondary_map,0.4
+FURIA,LOTUS,2,0.2857,1,0.5,0.2743,secondary_map,0.4
+FURIA,PEARL,2,0.2857,1,0.5,0.2743,secondary_map,0.5
+FURIA,SPLIT,1,0.1429,1,1.0,0.0686,secondary_map,0.25
+FUT Esports,BIND,3,0.2727,2,0.6667,0.3927,secondary_map,0.6
+FUT Esports,HAVEN,3,0.2727,3,1.0,0.3927,secondary_map,0.6
+FUT Esports,BREEZE,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+FUT Esports,FRACTURE,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+FUT Esports,LOTUS,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+FUT Esports,PEARL,1,0.0909,1,1.0,0.0436,secondary_map,0.25
+FUT Esports,SPLIT,1,0.0909,1,1.0,0.0436,secondary_map,0.25
+FunPlus Phoenix,PEARL,4,0.3077,1,0.25,0.5907,strong_map_identity,1.0
+FunPlus Phoenix,SPLIT,4,0.3077,2,0.5,0.5907,strong_map_identity,1.0
+FunPlus Phoenix,FRACTURE,2,0.1538,1,0.5,0.1476,secondary_map,0.4
+FunPlus Phoenix,LOTUS,2,0.1538,1,0.5,0.1476,secondary_map,0.4
+FunPlus Phoenix,BIND,1,0.0769,1,1.0,0.0369,secondary_map,0.2
+G2 Esports,SPLIT,2,0.2857,2,1.0,0.2743,secondary_map,0.5
+G2 Esports,BIND,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+G2 Esports,BREEZE,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+G2 Esports,HAVEN,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+G2 Esports,LOTUS,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+G2 Esports,PEARL,1,0.1429,1,1.0,0.0686,secondary_map,0.25
+GIANTX,HAVEN,4,0.3636,1,0.25,0.6981,strong_map_identity,0.8
+GIANTX,PEARL,2,0.1818,1,0.5,0.1745,secondary_map,0.5
+GIANTX,SPLIT,2,0.1818,1,0.5,0.1745,secondary_map,0.5
+GIANTX,BIND,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+GIANTX,BREEZE,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+GIANTX,LOTUS,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+Gen.G,HAVEN,2,0.2,1,0.5,0.192,secondary_map,0.4
+Gen.G,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+Gen.G,PEARL,2,0.2,2,1.0,0.192,secondary_map,0.5
+Gen.G,BIND,1,0.1,1,1.0,0.048,secondary_map,0.2
+Gen.G,BREEZE,1,0.1,1,1.0,0.048,secondary_map,0.2
+Gen.G,FRACTURE,1,0.1,1,1.0,0.048,secondary_map,0.2
+Gen.G,SPLIT,1,0.1,1,1.0,0.048,secondary_map,0.25
+Gentle Mates,PEARL,3,0.3,1,0.3333,0.432,secondary_map,0.75
+Gentle Mates,FRACTURE,2,0.2,1,0.5,0.192,secondary_map,0.4
+Gentle Mates,HAVEN,2,0.2,2,1.0,0.192,secondary_map,0.4
+Gentle Mates,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+Gentle Mates,BIND,1,0.1,1,1.0,0.048,secondary_map,0.2
+Global Esports,SPLIT,3,0.375,2,0.6667,0.54,strong_map_identity,0.75
+Global Esports,BIND,1,0.125,1,1.0,0.06,secondary_map,0.2
+Global Esports,FRACTURE,1,0.125,1,1.0,0.06,secondary_map,0.2
+Global Esports,HAVEN,1,0.125,1,1.0,0.06,secondary_map,0.2
+Global Esports,LOTUS,1,0.125,1,1.0,0.06,secondary_map,0.2
+Global Esports,PEARL,1,0.125,1,1.0,0.06,secondary_map,0.25
+JDG Esports,HAVEN,5,0.3571,3,0.6,0.857,signature_map,1.0
+JDG Esports,FRACTURE,3,0.2143,2,0.6667,0.3086,secondary_map,0.6
+JDG Esports,BIND,2,0.1429,1,0.5,0.1372,secondary_map,0.4
+JDG Esports,LOTUS,2,0.1429,1,0.5,0.1372,secondary_map,0.4
+JDG Esports,PEARL,1,0.0714,1,1.0,0.0343,secondary_map,0.25
+JDG Esports,SPLIT,1,0.0714,1,1.0,0.0343,secondary_map,0.25
+KRÜ Esports,LOTUS,3,0.5,1,0.3333,0.7199,strong_map_identity,0.6
+KRÜ Esports,BREEZE,1,0.1667,1,1.0,0.08,secondary_map,0.2
+KRÜ Esports,HAVEN,1,0.1667,1,1.0,0.08,secondary_map,0.2
+KRÜ Esports,SPLIT,1,0.1667,1,1.0,0.08,secondary_map,0.25
+Karmine Corp,HAVEN,4,0.3636,2,0.5,0.6981,strong_map_identity,0.8
+Karmine Corp,FRACTURE,2,0.1818,1,0.5,0.1745,secondary_map,0.4
+Karmine Corp,LOTUS,2,0.1818,2,1.0,0.1745,secondary_map,0.4
+Karmine Corp,PEARL,2,0.1818,2,1.0,0.1745,secondary_map,0.5
+Karmine Corp,BIND,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+Kiwoom DRX,FRACTURE,3,0.3,2,0.6667,0.432,secondary_map,0.6
+Kiwoom DRX,HAVEN,3,0.3,3,1.0,0.432,secondary_map,0.6
+Kiwoom DRX,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+Kiwoom DRX,PEARL,2,0.2,2,1.0,0.192,secondary_map,0.5
+LEVIATÁN,BIND,2,0.2857,1,0.5,0.2743,secondary_map,0.4
+LEVIATÁN,BREEZE,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+LEVIATÁN,FRACTURE,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+LEVIATÁN,HAVEN,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+LEVIATÁN,PEARL,1,0.1429,1,1.0,0.0686,secondary_map,0.25
+LEVIATÁN,SPLIT,1,0.1429,1,1.0,0.0686,secondary_map,0.25
+LOUD,HAVEN,2,0.2857,1,0.5,0.2743,secondary_map,0.4
+LOUD,PEARL,2,0.2857,1,0.5,0.2743,secondary_map,0.5
+LOUD,BREEZE,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+LOUD,LOTUS,1,0.1429,1,1.0,0.0686,secondary_map,0.2
+LOUD,SPLIT,1,0.1429,1,1.0,0.0686,secondary_map,0.25
+MIBR,SPLIT,2,0.5,1,0.5,0.48,strong_map_identity,0.5
+MIBR,HAVEN,1,0.25,1,1.0,0.12,secondary_map,0.2
+MIBR,LOTUS,1,0.25,1,1.0,0.12,secondary_map,0.2
+NRG,PEARL,2,0.4,2,1.0,0.384,strong_map_identity,0.5
+NRG,SPLIT,2,0.4,2,1.0,0.384,strong_map_identity,0.5
+NRG,LOTUS,1,0.2,1,1.0,0.096,secondary_map,0.2
+Natus Vincere,BIND,3,0.2727,2,0.6667,0.3927,secondary_map,0.6
+Natus Vincere,LOTUS,3,0.2727,2,0.6667,0.3927,secondary_map,0.6
+Natus Vincere,PEARL,2,0.1818,2,1.0,0.1745,secondary_map,0.5
+Natus Vincere,SPLIT,2,0.1818,2,1.0,0.1745,secondary_map,0.5
+Natus Vincere,FRACTURE,1,0.0909,1,1.0,0.0436,secondary_map,0.2
+Nongshim RedForce,FRACTURE,2,0.25,1,0.5,0.24,secondary_map,0.4
+Nongshim RedForce,LOTUS,2,0.25,2,1.0,0.24,secondary_map,0.4
+Nongshim RedForce,BREEZE,1,0.125,1,1.0,0.06,secondary_map,0.2
+Nongshim RedForce,HAVEN,1,0.125,1,1.0,0.06,secondary_map,0.2
+Nongshim RedForce,PEARL,1,0.125,1,1.0,0.06,secondary_map,0.25
+Nongshim RedForce,SPLIT,1,0.125,1,1.0,0.06,secondary_map,0.25
+Nova Esports,BREEZE,2,0.2,1,0.5,0.192,secondary_map,0.4
+Nova Esports,FRACTURE,2,0.2,2,1.0,0.192,secondary_map,0.4
+Nova Esports,HAVEN,2,0.2,1,0.5,0.192,secondary_map,0.4
+Nova Esports,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+Nova Esports,BIND,1,0.1,1,1.0,0.048,secondary_map,0.2
+Nova Esports,SPLIT,1,0.1,1,1.0,0.048,secondary_map,0.25
+PCIFIC Esports,SPLIT,4,0.4,2,0.5,0.7679,signature_map,1.0
+PCIFIC Esports,LOTUS,2,0.2,2,1.0,0.192,secondary_map,0.4
+PCIFIC Esports,BREEZE,1,0.1,1,1.0,0.048,secondary_map,0.2
+PCIFIC Esports,FRACTURE,1,0.1,1,1.0,0.048,secondary_map,0.2
+PCIFIC Esports,HAVEN,1,0.1,1,1.0,0.048,secondary_map,0.2
+PCIFIC Esports,PEARL,1,0.1,1,1.0,0.048,secondary_map,0.25
+Paper Rex,SPLIT,3,0.3,1,0.3333,0.432,secondary_map,0.75
+Paper Rex,FRACTURE,2,0.2,1,0.5,0.192,secondary_map,0.4
+Paper Rex,LOTUS,2,0.2,1,0.5,0.192,secondary_map,0.4
+Paper Rex,BREEZE,1,0.1,1,1.0,0.048,secondary_map,0.2
+Paper Rex,HAVEN,1,0.1,1,1.0,0.048,secondary_map,0.2
+Paper Rex,PEARL,1,0.1,1,1.0,0.048,secondary_map,0.25
+Rex Regum Qeon,BIND,2,0.2,1,0.5,0.192,secondary_map,0.4
+Rex Regum Qeon,FRACTURE,2,0.2,1,0.5,0.192,secondary_map,0.4
+Rex Regum Qeon,HAVEN,2,0.2,2,1.0,0.192,secondary_map,0.4
+Rex Regum Qeon,PEARL,2,0.2,1,0.5,0.192,secondary_map,0.5
+Rex Regum Qeon,SPLIT,2,0.2,1,0.5,0.192,secondary_map,0.5
+Sentinels,BREEZE,1,0.25,1,1.0,0.12,secondary_map,0.2
+Sentinels,HAVEN,1,0.25,1,1.0,0.12,secondary_map,0.2
+Sentinels,LOTUS,1,0.25,1,1.0,0.12,secondary_map,0.2
+Sentinels,SPLIT,1,0.25,1,1.0,0.12,secondary_map,0.25
+T1,PEARL,3,0.5,1,0.3333,0.7199,strong_map_identity,0.75
+T1,BIND,1,0.1667,1,1.0,0.08,secondary_map,0.2
+T1,HAVEN,1,0.1667,1,1.0,0.08,secondary_map,0.2
+T1,LOTUS,1,0.1667,1,1.0,0.08,secondary_map,0.2
+TYLOO,BIND,4,0.2667,1,0.25,0.512,strong_map_identity,0.8
+TYLOO,BREEZE,3,0.2,1,0.3333,0.288,secondary_map,0.6
+TYLOO,HAVEN,3,0.2,3,1.0,0.288,secondary_map,0.6
+TYLOO,PEARL,2,0.1333,2,1.0,0.128,secondary_map,0.5
+TYLOO,SPLIT,2,0.1333,1,0.5,0.128,secondary_map,0.5
+TYLOO,FRACTURE,1,0.0667,1,1.0,0.032,secondary_map,0.2
+Team Heretics,LOTUS,3,0.3,2,0.6667,0.432,secondary_map,0.6
+Team Heretics,BIND,2,0.2,1,0.5,0.192,secondary_map,0.4
+Team Heretics,FRACTURE,2,0.2,1,0.5,0.192,secondary_map,0.4
+Team Heretics,PEARL,2,0.2,1,0.5,0.192,secondary_map,0.5
+Team Heretics,HAVEN,1,0.1,1,1.0,0.048,secondary_map,0.2
+Team Liquid,BIND,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+Team Liquid,HAVEN,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+Team Liquid,PEARL,2,0.2222,1,0.5,0.2133,secondary_map,0.5
+Team Liquid,BREEZE,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+Team Liquid,LOTUS,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+Team Liquid,SPLIT,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+Team Secret,SPLIT,2,0.3333,2,1.0,0.3199,secondary_map,0.5
+Team Secret,BREEZE,1,0.1667,1,1.0,0.08,secondary_map,0.2
+Team Secret,FRACTURE,1,0.1667,1,1.0,0.08,secondary_map,0.2
+Team Secret,LOTUS,1,0.1667,1,1.0,0.08,secondary_map,0.2
+Team Secret,PEARL,1,0.1667,1,1.0,0.08,secondary_map,0.25
+Team Vitality,BREEZE,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+Team Vitality,HAVEN,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+Team Vitality,LOTUS,2,0.2222,2,1.0,0.2133,secondary_map,0.4
+Team Vitality,BIND,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+Team Vitality,PEARL,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+Team Vitality,SPLIT,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+Titan Esports Club,FRACTURE,5,0.3571,1,0.2,0.857,signature_map,1.0
+Titan Esports Club,BREEZE,3,0.2143,2,0.6667,0.3086,secondary_map,0.6
+Titan Esports Club,SPLIT,3,0.2143,1,0.3333,0.3086,secondary_map,0.75
+Titan Esports Club,BIND,1,0.0714,1,1.0,0.0343,secondary_map,0.2
+Titan Esports Club,HAVEN,1,0.0714,1,1.0,0.0343,secondary_map,0.2
+Titan Esports Club,LOTUS,1,0.0714,1,1.0,0.0343,secondary_map,0.2
+Trace Esports,LOTUS,5,0.3333,3,0.6,0.7999,signature_map,1.0
+Trace Esports,BIND,3,0.2,1,0.3333,0.288,secondary_map,0.6
+Trace Esports,BREEZE,3,0.2,1,0.3333,0.288,secondary_map,0.6
+Trace Esports,SPLIT,2,0.1333,1,0.5,0.128,secondary_map,0.5
+Trace Esports,FRACTURE,1,0.0667,1,1.0,0.032,secondary_map,0.2
+Trace Esports,HAVEN,1,0.0667,1,1.0,0.032,secondary_map,0.2
+VARREL,HAVEN,3,0.3333,3,1.0,0.4799,strong_map_identity,0.6
+VARREL,LOTUS,2,0.2222,1,0.5,0.2133,secondary_map,0.4
+VARREL,BIND,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+VARREL,FRACTURE,1,0.1111,1,1.0,0.0533,secondary_map,0.2
+VARREL,PEARL,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+VARREL,SPLIT,1,0.1111,1,1.0,0.0533,secondary_map,0.25
+Wolves Esports,LOTUS,5,0.4167,2,0.4,1.0,signature_map,1.0
+Wolves Esports,FRACTURE,3,0.25,2,0.6667,0.36,secondary_map,0.6
+Wolves Esports,BIND,2,0.1667,2,1.0,0.16,secondary_map,0.4
+Wolves Esports,BREEZE,1,0.0833,1,1.0,0.04,secondary_map,0.2
+Wolves Esports,PEARL,1,0.0833,1,1.0,0.04,secondary_map,0.25
+Xi Lai Gaming,BIND,5,0.3125,1,0.2,0.7499,strong_map_identity,1.0
+Xi Lai Gaming,LOTUS,5,0.3125,1,0.2,0.7499,strong_map_identity,1.0
+Xi Lai Gaming,HAVEN,2,0.125,1,0.5,0.12,secondary_map,0.4
+Xi Lai Gaming,SPLIT,2,0.125,1,0.5,0.12,secondary_map,0.5
+Xi Lai Gaming,BREEZE,1,0.0625,1,1.0,0.03,secondary_map,0.2
+Xi Lai Gaming,FRACTURE,1,0.0625,1,1.0,0.03,secondary_map,0.2
+ZETA DIVISION,FRACTURE,2,0.25,1,0.5,0.24,secondary_map,0.4
+ZETA DIVISION,SPLIT,2,0.25,1,0.5,0.24,secondary_map,0.5
+ZETA DIVISION,BIND,1,0.125,1,1.0,0.06,secondary_map,0.2
+ZETA DIVISION,HAVEN,1,0.125,1,1.0,0.06,secondary_map,0.2
+ZETA DIVISION,LOTUS,1,0.125,1,1.0,0.06,secondary_map,0.2
+ZETA DIVISION,PEARL,1,0.125,1,1.0,0.06,secondary_map,0.25

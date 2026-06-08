@@ -1,0 +1,320 @@
+team,map,agents,times_used,teams_using_same_comp,maps_seen,composition_frequency,composition_uniqueness_score,composition_stability_label,sample_reliability_score
+100 Thieves,BREEZE,"harbor,jett,kayo,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+100 Thieves,HAVEN,"cypher,neon,omen,phoenix,sova",2,8,1,1.0,0.4615,standard_meta_comp,0.6325
+100 Thieves,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,1.0,0.5385,standard_meta_comp,0.4472
+100 Thieves,SPLIT,"fade,omen,raze,sage,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+All Gamers,BIND,"brimstone,neon,skye,viper,waylay",3,14,1,0.75,0.0,standard_meta_comp,0.7746
+All Gamers,BIND,"brimstone,gekko,skye,viper,waylay",1,1,1,0.25,1.0,rare_comp,0.4472
+All Gamers,BREEZE,"astra,neon,sova,viper,waylay",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+All Gamers,HAVEN,"cypher,neon,omen,skye,waylay",2,2,3,1.0,0.9231,team_signature_comp,0.6325
+All Gamers,LOTUS,"cypher,fade,neon,omen,waylay",4,1,1,1.0,1.0,team_signature_comp,0.8944
+All Gamers,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+All Gamers,PEARL,"astra,fade,killjoy,neon,waylay",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+All Gamers,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+BBL Esports,BREEZE,"astra,jett,kayo,sova,viper",1,4,1,0.5,0.7692,standard_meta_comp,0.4472
+BBL Esports,BREEZE,"jett,neon,omen,sova,viper",1,4,1,0.5,0.7692,standard_meta_comp,0.4472
+BBL Esports,HAVEN,"breach,cypher,jett,omen,sova",2,1,1,1.0,1.0,team_signature_comp,0.6325
+BBL Esports,LOTUS,"fade,neon,omen,raze,vyse",2,7,1,1.0,0.5385,standard_meta_comp,0.6325
+BBL Esports,PEARL,"astra,cypher,neon,sova,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+BBL Esports,SPLIT,"astra,fade,neon,raze,vyse",1,2,1,0.3333,0.9231,map_specific_comp,0.4472
+BBL Esports,SPLIT,"jett,omen,raze,skye,viper",1,3,1,0.3333,0.8462,map_specific_comp,0.4472
+BBL Esports,SPLIT,"neon,omen,skye,viper,waylay",1,10,2,0.3333,0.3077,standard_meta_comp,0.4472
+Bilibili Gaming,BIND,"astra,neon,skye,viper,waylay",1,3,3,0.5,0.8462,standard_meta_comp,0.4472
+Bilibili Gaming,BIND,"brimstone,fade,kayo,raze,viper",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Bilibili Gaming,BREEZE,"astra,jett,neon,sova,viper",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Bilibili Gaming,BREEZE,"chamber,neon,omen,skye,viper",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Bilibili Gaming,FRACTURE,"brimstone,cypher,neon,tejo,waylay",3,1,1,1.0,1.0,team_signature_comp,0.7746
+Bilibili Gaming,HAVEN,"cypher,neon,omen,sova,waylay",1,6,1,1.0,0.6154,standard_meta_comp,0.4472
+Bilibili Gaming,LOTUS,"fade,killjoy,omen,raze,viper",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+Bilibili Gaming,PEARL,"astra,killjoy,neon,phoenix,tejo",3,1,1,1.0,1.0,team_signature_comp,0.7746
+Cloud9,HAVEN,"killjoy,neon,omen,sova,viper",2,11,1,1.0,0.2308,standard_meta_comp,0.6325
+Cloud9,PEARL,"astra,chamber,neon,skye,tejo",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Cloud9,PEARL,"astra,neon,skye,tejo,vyse",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Cloud9,SPLIT,"neon,omen,skye,viper,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+DetonatioN FocusMe,BIND,"brimstone,neon,skye,viper,waylay",2,14,1,1.0,0.0,standard_meta_comp,0.6325
+DetonatioN FocusMe,FRACTURE,"breach,brimstone,cypher,neon,tejo",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+DetonatioN FocusMe,HAVEN,"cypher,jett,neon,omen,skye",1,1,1,1.0,1.0,team_signature_comp,0.4472
+DetonatioN FocusMe,LOTUS,"fade,neon,omen,raze,vyse",2,7,1,0.6667,0.5385,standard_meta_comp,0.6325
+DetonatioN FocusMe,LOTUS,"fade,iso,neon,omen,viper",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+DetonatioN FocusMe,PEARL,"astra,killjoy,sova,tejo,waylay",3,3,1,1.0,0.8462,map_specific_comp,0.7746
+Dragon Ranger Gaming,BIND,"brimstone,cypher,neon,skye,waylay",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+Dragon Ranger Gaming,BIND,"brimstone,miks,neon,skye,waylay",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Dragon Ranger Gaming,BREEZE,"astra,neon,omen,skye,waylay",3,1,1,0.6,1.0,team_signature_comp,0.7746
+Dragon Ranger Gaming,BREEZE,"astra,neon,skye,viper,waylay",2,3,3,0.4,0.8462,standard_meta_comp,0.6325
+Dragon Ranger Gaming,HAVEN,"cypher,neon,omen,skye,waylay",2,2,3,1.0,0.9231,team_signature_comp,0.6325
+Dragon Ranger Gaming,LOTUS,"cypher,neon,omen,skye,waylay",3,2,3,0.75,0.9231,team_signature_comp,0.7746
+Dragon Ranger Gaming,LOTUS,"miks,neon,omen,skye,waylay",1,1,1,0.25,1.0,rare_comp,0.4472
+Dragon Ranger Gaming,PEARL,"astra,neon,skye,vyse,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Dragon Ranger Gaming,SPLIT,"cypher,neon,omen,skye,waylay",1,2,3,1.0,0.9231,team_signature_comp,0.4472
+EDward Gaming,BIND,"brimstone,gekko,kayo,viper,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+EDward Gaming,BREEZE,"harbor,jett,kayo,sova,viper",2,4,1,1.0,0.7692,standard_meta_comp,0.6325
+EDward Gaming,FRACTURE,"brimstone,cypher,neon,skye,waylay",3,7,2,1.0,0.5385,standard_meta_comp,0.7746
+EDward Gaming,HAVEN,"chamber,fade,neon,omen,phoenix",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+EDward Gaming,HAVEN,"cypher,neon,omen,sova,waylay",1,6,1,0.3333,0.6154,standard_meta_comp,0.4472
+EDward Gaming,LOTUS,"cypher,fade,omen,phoenix,raze",4,1,1,1.0,1.0,team_signature_comp,0.8944
+EDward Gaming,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+ENVY,BIND,"brimstone,chamber,neon,skye,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+ENVY,BREEZE,"harbor,iso,neon,sova,viper",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+ENVY,FRACTURE,"breach,brimstone,neon,skye,veto",1,1,1,1.0,1.0,team_signature_comp,0.4472
+ENVY,HAVEN,"astra,chamber,neon,phoenix,sova",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+ENVY,LOTUS,"fade,neon,omen,veto,viper",1,2,2,1.0,0.9231,team_signature_comp,0.4472
+ENVY,PEARL,"astra,chamber,neon,phoenix,sova",1,3,2,0.5,0.8462,standard_meta_comp,0.4472
+ENVY,PEARL,"astra,sova,tejo,veto,waylay",1,1,1,0.5,1.0,team_signature_comp,0.4472
+ENVY,SPLIT,"jett,omen,raze,skye,viper",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+Eternal Fire,BIND,"brimstone,neon,skye,viper,vyse",1,2,1,0.5,0.9231,team_signature_comp,0.4472
+Eternal Fire,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,0.5,0.0,standard_meta_comp,0.4472
+Eternal Fire,BREEZE,"astra,cypher,jett,kayo,sova",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Eternal Fire,FRACTURE,"brimstone,cypher,neon,skye,tejo",1,2,1,1.0,0.9231,team_signature_comp,0.4472
+Eternal Fire,LOTUS,"fade,neon,omen,raze,viper",2,5,2,0.6667,0.6923,standard_meta_comp,0.6325
+Eternal Fire,LOTUS,"neon,omen,raze,skye,veto",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+Eternal Fire,PEARL,"astra,cypher,fade,neon,phoenix",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Eternal Fire,SPLIT,"astra,fade,neon,raze,viper",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+Eternal Fire,SPLIT,"fade,neon,omen,raze,viper",1,5,2,0.5,0.6923,standard_meta_comp,0.4472
+Evil Geniuses,BREEZE,"harbor,kayo,neon,sova,viper",1,2,1,1.0,0.9231,team_signature_comp,0.4472
+Evil Geniuses,HAVEN,"killjoy,neon,omen,sova,viper",2,11,1,1.0,0.2308,standard_meta_comp,0.6325
+Evil Geniuses,LOTUS,"fade,neon,omen,viper,vyse",1,8,2,1.0,0.4615,standard_meta_comp,0.4472
+Evil Geniuses,PEARL,"astra,killjoy,neon,sova,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+FNATIC,BIND,"brimstone,neon,skye,viper,waylay",2,14,1,1.0,0.0,standard_meta_comp,0.6325
+FNATIC,BREEZE,"harbor,kayo,neon,sova,viper",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+FNATIC,BREEZE,"harbor,iso,neon,sova,viper",1,3,1,0.3333,0.8462,map_specific_comp,0.4472
+FNATIC,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,1.0,0.4615,standard_meta_comp,0.4472
+FNATIC,LOTUS,"fade,killjoy,neon,omen,viper",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+FNATIC,LOTUS,"fade,killjoy,omen,viper,waylay",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+FNATIC,SPLIT,"astra,neon,raze,skye,viper",2,1,1,1.0,1.0,team_signature_comp,0.6325
+FULL SENSE,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,1.0,0.0,standard_meta_comp,0.4472
+FULL SENSE,FRACTURE,"brimstone,cypher,neon,skye,waylay",2,7,2,1.0,0.5385,standard_meta_comp,0.6325
+FULL SENSE,HAVEN,"cypher,deadlock,omen,skye,waylay",2,3,2,1.0,0.8462,standard_meta_comp,0.6325
+FULL SENSE,LOTUS,"fade,neon,omen,phoenix,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+FULL SENSE,PEARL,"astra,cypher,fade,neon,phoenix",2,4,1,1.0,0.7692,standard_meta_comp,0.6325
+FULL SENSE,SPLIT,"cypher,deadlock,omen,skye,waylay",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+FURIA,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,0.5,0.4615,standard_meta_comp,0.4472
+FURIA,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,0.5,0.2308,standard_meta_comp,0.4472
+FURIA,LOTUS,"fade,neon,omen,viper,vyse",2,8,2,1.0,0.4615,standard_meta_comp,0.6325
+FURIA,PEARL,"astra,fade,killjoy,neon,phoenix",2,5,1,1.0,0.6923,standard_meta_comp,0.6325
+FURIA,SPLIT,"fade,neon,omen,viper,vyse",1,8,2,1.0,0.4615,standard_meta_comp,0.4472
+FUT Esports,BIND,"brimstone,neon,raze,skye,viper",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+FUT Esports,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,0.3333,0.0,standard_meta_comp,0.4472
+FUT Esports,BREEZE,"jett,neon,omen,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+FUT Esports,FRACTURE,"breach,brimstone,cypher,neon,raze",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+FUT Esports,HAVEN,"cypher,jett,neon,omen,sova",1,3,1,0.3333,0.8462,map_specific_comp,0.4472
+FUT Esports,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,0.3333,0.4615,standard_meta_comp,0.4472
+FUT Esports,HAVEN,"killjoy,neon,omen,sova,waylay",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+FUT Esports,LOTUS,"chamber,fade,neon,omen,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+FUT Esports,PEARL,"astra,fade,killjoy,neon,waylay",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+FUT Esports,SPLIT,"neon,omen,raze,skye,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+FunPlus Phoenix,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,1.0,0.0,standard_meta_comp,0.4472
+FunPlus Phoenix,FRACTURE,"astra,neon,sage,tejo,waylay",2,1,1,1.0,1.0,team_signature_comp,0.6325
+FunPlus Phoenix,LOTUS,"fade,neon,omen,viper,waylay",2,4,2,1.0,0.7692,standard_meta_comp,0.6325
+FunPlus Phoenix,PEARL,"astra,fade,killjoy,neon,waylay",4,3,1,1.0,0.8462,map_specific_comp,0.8944
+FunPlus Phoenix,SPLIT,"fade,neon,omen,viper,waylay",3,4,2,0.75,0.7692,standard_meta_comp,0.7746
+FunPlus Phoenix,SPLIT,"neon,omen,skye,viper,waylay",1,10,2,0.25,0.3077,standard_meta_comp,0.4472
+G2 Esports,BIND,"brimstone,fade,raze,viper,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+G2 Esports,BREEZE,"astra,harbor,neon,sova,vyse",1,1,2,1.0,1.0,team_signature_comp,0.4472
+G2 Esports,HAVEN,"astra,chamber,fade,neon,phoenix",1,7,2,1.0,0.5385,standard_meta_comp,0.4472
+G2 Esports,LOTUS,"fade,harbor,neon,omen,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+G2 Esports,PEARL,"astra,harbor,neon,sova,vyse",1,1,2,1.0,1.0,team_signature_comp,0.4472
+G2 Esports,SPLIT,"astra,fade,harbor,neon,vyse",1,1,1,0.5,1.0,team_signature_comp,0.4472
+G2 Esports,SPLIT,"astra,fade,harbor,raze,vyse",1,1,1,0.5,1.0,team_signature_comp,0.4472
+GIANTX,BIND,"brimstone,neon,skye,tejo,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+GIANTX,BREEZE,"neon,omen,skye,sova,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+GIANTX,HAVEN,"cypher,neon,omen,phoenix,sova",4,8,1,1.0,0.4615,standard_meta_comp,0.8944
+GIANTX,LOTUS,"chamber,fade,neon,omen,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+GIANTX,PEARL,"astra,cypher,fade,tejo,waylay",2,1,1,1.0,1.0,team_signature_comp,0.6325
+GIANTX,SPLIT,"astra,neon,skye,viper,waylay",2,3,3,1.0,0.8462,standard_meta_comp,0.6325
+Gen.G,BIND,"brimstone,fade,neon,viper,yoru",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Gen.G,BREEZE,"harbor,jett,kayo,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Gen.G,FRACTURE,"breach,brimstone,cypher,neon,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Gen.G,HAVEN,"chamber,fade,neon,omen,phoenix",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+Gen.G,LOTUS,"fade,neon,omen,raze,vyse",2,7,1,1.0,0.5385,standard_meta_comp,0.6325
+Gen.G,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+Gen.G,PEARL,"astra,fade,killjoy,neon,phoenix",1,5,1,0.5,0.6923,standard_meta_comp,0.4472
+Gen.G,SPLIT,"cypher,fade,neon,omen,viper",1,2,2,1.0,0.9231,team_signature_comp,0.4472
+Gentle Mates,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,1.0,0.0,standard_meta_comp,0.4472
+Gentle Mates,FRACTURE,"breach,brimstone,fade,neon,veto",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Gentle Mates,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,0.5,0.4615,standard_meta_comp,0.4472
+Gentle Mates,HAVEN,"fade,neon,omen,veto,viper",1,2,2,0.5,0.9231,team_signature_comp,0.4472
+Gentle Mates,LOTUS,"fade,neon,omen,raze,viper",2,5,2,1.0,0.6923,standard_meta_comp,0.6325
+Gentle Mates,PEARL,"astra,cypher,fade,neon,phoenix",3,4,1,1.0,0.7692,standard_meta_comp,0.7746
+Global Esports,BIND,"brimstone,deadlock,gekko,kayo,neon",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Global Esports,FRACTURE,"breach,brimstone,deadlock,raze,tejo",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Global Esports,HAVEN,"cypher,deadlock,omen,skye,waylay",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+Global Esports,LOTUS,"astra,deadlock,fade,omen,raze",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Global Esports,PEARL,"astra,chamber,fade,neon,tejo",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Global Esports,SPLIT,"fade,omen,raze,veto,viper",2,3,2,0.6667,0.8462,standard_meta_comp,0.6325
+Global Esports,SPLIT,"fade,neon,omen,viper,vyse",1,8,2,0.3333,0.4615,standard_meta_comp,0.4472
+JDG Esports,BIND,"brimstone,neon,omen,skye,waylay",2,1,1,1.0,1.0,team_signature_comp,0.6325
+JDG Esports,FRACTURE,"brimstone,cypher,neon,skye,waylay",2,7,2,0.6667,0.5385,standard_meta_comp,0.6325
+JDG Esports,FRACTURE,"breach,brimstone,cypher,neon,tejo",1,4,1,0.3333,0.7692,standard_meta_comp,0.4472
+JDG Esports,HAVEN,"cypher,neon,omen,sova,waylay",3,6,1,0.6,0.6154,standard_meta_comp,0.7746
+JDG Esports,HAVEN,"chamber,cypher,neon,omen,sova",1,1,1,0.2,1.0,rare_comp,0.4472
+JDG Esports,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,0.2,0.2308,standard_meta_comp,0.4472
+JDG Esports,LOTUS,"fade,killjoy,omen,raze,viper",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+JDG Esports,PEARL,"astra,fade,killjoy,neon,phoenix",1,5,1,1.0,0.6923,standard_meta_comp,0.4472
+JDG Esports,SPLIT,"fade,omen,raze,viper,vyse",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+KRÜ Esports,BREEZE,"chamber,neon,omen,sova,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+KRÜ Esports,HAVEN,"cypher,fade,neon,omen,phoenix",1,2,2,1.0,0.9231,team_signature_comp,0.4472
+KRÜ Esports,LOTUS,"fade,neon,omen,viper,vyse",3,8,2,1.0,0.4615,standard_meta_comp,0.7746
+KRÜ Esports,SPLIT,"fade,neon,omen,viper,vyse",1,8,2,1.0,0.4615,standard_meta_comp,0.4472
+Karmine Corp,BIND,"brimstone,gekko,raze,skye,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Karmine Corp,FRACTURE,"astra,fade,kayo,vyse,waylay",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Karmine Corp,HAVEN,"cypher,fade,neon,omen,phoenix",3,2,2,0.75,0.9231,team_signature_comp,0.7746
+Karmine Corp,HAVEN,"fade,jett,omen,tejo,vyse",1,1,1,0.25,1.0,rare_comp,0.4472
+Karmine Corp,LOTUS,"cypher,fade,neon,omen,phoenix",1,2,2,0.5,0.9231,team_signature_comp,0.4472
+Karmine Corp,LOTUS,"fade,neon,omen,vyse,waylay",1,2,1,0.5,0.9231,team_signature_comp,0.4472
+Karmine Corp,PEARL,"astra,fade,jett,omen,veto",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Karmine Corp,PEARL,"astra,fade,tejo,vyse,waylay",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Kiwoom DRX,FRACTURE,"breach,brimstone,cypher,tejo,waylay",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+Kiwoom DRX,FRACTURE,"breach,brimstone,cypher,neon,raze",1,3,1,0.3333,0.8462,map_specific_comp,0.4472
+Kiwoom DRX,HAVEN,"chamber,jett,neon,omen,skye",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+Kiwoom DRX,HAVEN,"chamber,neon,omen,phoenix,skye",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+Kiwoom DRX,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,0.3333,0.4615,standard_meta_comp,0.4472
+Kiwoom DRX,LOTUS,"chamber,fade,neon,omen,raze",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Kiwoom DRX,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+Kiwoom DRX,PEARL,"astra,chamber,jett,neon,skye",1,1,1,0.5,1.0,team_signature_comp,0.4472
+LEVIATÁN,BIND,"brimstone,neon,phoenix,skye,viper",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+LEVIATÁN,BREEZE,"chamber,neon,omen,sova,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+LEVIATÁN,FRACTURE,"breach,brimstone,neon,tejo,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+LEVIATÁN,HAVEN,"astra,chamber,neon,phoenix,sova",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+LEVIATÁN,PEARL,"astra,chamber,neon,phoenix,sova",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+LEVIATÁN,SPLIT,"fade,neon,omen,phoenix,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+LOUD,BREEZE,"astra,harbor,jett,kayo,sova",1,1,1,1.0,1.0,team_signature_comp,0.4472
+LOUD,HAVEN,"neon,omen,sova,viper,vyse",2,1,1,1.0,1.0,team_signature_comp,0.6325
+LOUD,LOTUS,"fade,omen,raze,viper,vyse",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+LOUD,PEARL,"astra,chamber,kayo,neon,sova",2,3,1,1.0,0.8462,map_specific_comp,0.6325
+LOUD,SPLIT,"cypher,neon,omen,skye,viper",1,2,1,1.0,0.9231,team_signature_comp,0.4472
+MIBR,HAVEN,"fade,jett,omen,phoenix,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+MIBR,LOTUS,"fade,neon,omen,raze,vyse",1,7,1,1.0,0.5385,standard_meta_comp,0.4472
+MIBR,SPLIT,"astra,fade,neon,raze,vyse",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+NRG,LOTUS,"fade,neon,omen,viper,vyse",1,8,2,1.0,0.4615,standard_meta_comp,0.4472
+NRG,PEARL,"astra,killjoy,neon,sova,tejo",1,1,1,0.5,1.0,team_signature_comp,0.4472
+NRG,PEARL,"astra,killjoy,sova,tejo,waylay",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+NRG,SPLIT,"deadlock,omen,raze,skye,viper",1,1,1,0.5,1.0,team_signature_comp,0.4472
+NRG,SPLIT,"fade,neon,omen,viper,vyse",1,8,2,0.5,0.4615,standard_meta_comp,0.4472
+Natus Vincere,BIND,"brimstone,chamber,neon,skye,viper",2,4,1,0.6667,0.7692,standard_meta_comp,0.6325
+Natus Vincere,BIND,"brimstone,neon,skye,viper,vyse",1,2,1,0.3333,0.9231,map_specific_comp,0.4472
+Natus Vincere,FRACTURE,"chamber,fade,neon,omen,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+Natus Vincere,LOTUS,"chamber,fade,neon,omen,viper",2,3,2,0.6667,0.8462,standard_meta_comp,0.6325
+Natus Vincere,LOTUS,"fade,neon,omen,viper,vyse",1,8,2,0.3333,0.4615,standard_meta_comp,0.4472
+Natus Vincere,PEARL,"astra,chamber,neon,sova,tejo",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Natus Vincere,PEARL,"astra,chamber,sova,tejo,waylay",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Natus Vincere,SPLIT,"fade,neon,omen,raze,viper",1,5,2,0.5,0.6923,standard_meta_comp,0.4472
+Natus Vincere,SPLIT,"fade,neon,omen,viper,vyse",1,8,2,0.5,0.4615,standard_meta_comp,0.4472
+Nongshim RedForce,BREEZE,"harbor,neon,phoenix,sova,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Nongshim RedForce,FRACTURE,"breach,brimstone,cypher,neon,tejo",2,4,1,1.0,0.7692,standard_meta_comp,0.6325
+Nongshim RedForce,HAVEN,"breach,killjoy,neon,omen,sova",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Nongshim RedForce,LOTUS,"breach,fade,neon,omen,vyse",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Nongshim RedForce,LOTUS,"fade,neon,omen,viper,waylay",1,4,2,0.5,0.7692,standard_meta_comp,0.4472
+Nongshim RedForce,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,1.0,0.5385,standard_meta_comp,0.4472
+Nongshim RedForce,SPLIT,"fade,neon,omen,viper,waylay",1,4,2,1.0,0.7692,standard_meta_comp,0.4472
+Nova Esports,BIND,"brimstone,chamber,neon,skye,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Nova Esports,BREEZE,"jett,neon,omen,sova,viper",2,4,1,1.0,0.7692,standard_meta_comp,0.6325
+Nova Esports,FRACTURE,"breach,brimstone,chamber,neon,tejo",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Nova Esports,FRACTURE,"brimstone,cypher,neon,skye,waylay",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+Nova Esports,HAVEN,"killjoy,neon,omen,sova,viper",2,11,1,1.0,0.2308,standard_meta_comp,0.6325
+Nova Esports,LOTUS,"cypher,fade,neon,omen,viper",2,2,2,1.0,0.9231,team_signature_comp,0.6325
+Nova Esports,SPLIT,"fade,omen,raze,viper,vyse",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+PCIFIC Esports,BREEZE,"jett,kayo,omen,sova,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+PCIFIC Esports,FRACTURE,"astra,neon,skye,tejo,veto",1,1,1,1.0,1.0,team_signature_comp,0.4472
+PCIFIC Esports,HAVEN,"chamber,neon,omen,sova,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+PCIFIC Esports,LOTUS,"deadlock,fade,neon,omen,vyse",1,1,1,0.5,1.0,team_signature_comp,0.4472
+PCIFIC Esports,LOTUS,"fade,neon,omen,sage,veto",1,1,1,0.5,1.0,team_signature_comp,0.4472
+PCIFIC Esports,PEARL,"astra,fade,neon,raze,veto",1,1,1,1.0,1.0,team_signature_comp,0.4472
+PCIFIC Esports,SPLIT,"astra,fade,neon,raze,viper",3,3,1,0.75,0.8462,map_specific_comp,0.7746
+PCIFIC Esports,SPLIT,"astra,fade,raze,viper,waylay",1,1,1,0.25,1.0,rare_comp,0.4472
+Paper Rex,BREEZE,"jett,neon,omen,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Paper Rex,FRACTURE,"breach,brimstone,killjoy,neon,raze",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Paper Rex,HAVEN,"chamber,neon,omen,phoenix,sova",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Paper Rex,LOTUS,"fade,neon,omen,raze,vyse",2,7,1,1.0,0.5385,standard_meta_comp,0.6325
+Paper Rex,PEARL,"astra,fade,jett,phoenix,vyse",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Paper Rex,SPLIT,"jett,omen,raze,skye,viper",3,3,1,1.0,0.8462,map_specific_comp,0.7746
+Rex Regum Qeon,BIND,"brimstone,neon,skye,viper,waylay",2,14,1,1.0,0.0,standard_meta_comp,0.6325
+Rex Regum Qeon,FRACTURE,"brimstone,neon,raze,skye,veto",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Rex Regum Qeon,HAVEN,"cypher,jett,neon,omen,sova",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+Rex Regum Qeon,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,0.5,0.2308,standard_meta_comp,0.4472
+Rex Regum Qeon,PEARL,"astra,chamber,kayo,neon,sova",2,3,1,1.0,0.8462,map_specific_comp,0.6325
+Rex Regum Qeon,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+Sentinels,BREEZE,"harbor,iso,neon,sova,viper",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+Sentinels,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,1.0,0.2308,standard_meta_comp,0.4472
+Sentinels,LOTUS,"fade,omen,raze,veto,viper",1,3,2,1.0,0.8462,standard_meta_comp,0.4472
+Sentinels,SPLIT,"neon,omen,sage,skye,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+T1,BIND,"brimstone,chamber,neon,skye,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+T1,HAVEN,"astra,chamber,neon,phoenix,skye",1,1,1,1.0,1.0,team_signature_comp,0.4472
+T1,LOTUS,"fade,killjoy,neon,omen,viper",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+T1,PEARL,"astra,chamber,killjoy,neon,skye",3,2,1,1.0,0.9231,team_signature_comp,0.7746
+TYLOO,BIND,"brimstone,neon,skye,viper,waylay",4,14,1,1.0,0.0,standard_meta_comp,0.8944
+TYLOO,BREEZE,"astra,jett,kayo,sova,viper",3,4,1,1.0,0.7692,standard_meta_comp,0.7746
+TYLOO,FRACTURE,"brimstone,cypher,neon,phoenix,tejo",1,1,1,1.0,1.0,team_signature_comp,0.4472
+TYLOO,HAVEN,"cypher,neon,omen,sova,viper",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+TYLOO,HAVEN,"cypher,neon,omen,sova,waylay",1,6,1,0.3333,0.6154,standard_meta_comp,0.4472
+TYLOO,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,0.3333,0.2308,standard_meta_comp,0.4472
+TYLOO,PEARL,"astra,chamber,fade,neon,phoenix",1,7,2,0.5,0.5385,standard_meta_comp,0.4472
+TYLOO,PEARL,"astra,fade,killjoy,neon,phoenix",1,5,1,0.5,0.6923,standard_meta_comp,0.4472
+TYLOO,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+Team Heretics,BIND,"astra,chamber,neon,skye,viper",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Team Heretics,FRACTURE,"brimstone,cypher,fade,neon,raze",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Team Heretics,HAVEN,"cypher,neon,omen,phoenix,sova",1,8,1,1.0,0.4615,standard_meta_comp,0.4472
+Team Heretics,LOTUS,"fade,neon,omen,raze,vyse",2,7,1,0.6667,0.5385,standard_meta_comp,0.6325
+Team Heretics,LOTUS,"chamber,harbor,neon,omen,skye",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+Team Heretics,PEARL,"astra,chamber,harbor,neon,skye",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Team Liquid,BIND,"brimstone,neon,phoenix,skye,viper",2,2,1,1.0,0.9231,team_signature_comp,0.6325
+Team Liquid,BREEZE,"kayo,neon,omen,sova,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Team Liquid,HAVEN,"killjoy,neon,omen,phoenix,skye",2,1,1,1.0,1.0,team_signature_comp,0.6325
+Team Liquid,LOTUS,"cypher,fade,neon,omen,raze",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Team Liquid,PEARL,"astra,fade,killjoy,neon,phoenix",2,5,1,1.0,0.6923,standard_meta_comp,0.6325
+Team Liquid,SPLIT,"astra,fade,neon,raze,viper",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+Team Secret,BREEZE,"astra,jett,kayo,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Team Secret,FRACTURE,"brimstone,cypher,neon,skye,tejo",1,2,1,1.0,0.9231,team_signature_comp,0.4472
+Team Secret,LOTUS,"fade,neon,omen,viper,vyse",1,8,2,1.0,0.4615,standard_meta_comp,0.4472
+Team Secret,PEARL,"astra,chamber,killjoy,neon,skye",1,2,1,1.0,0.9231,team_signature_comp,0.4472
+Team Secret,SPLIT,"astra,cypher,neon,skye,viper",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Team Secret,SPLIT,"cypher,neon,omen,skye,viper",1,2,1,0.5,0.9231,team_signature_comp,0.4472
+Team Vitality,BIND,"brimstone,fade,neon,phoenix,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Team Vitality,BREEZE,"harbor,jett,kayo,sova,viper",2,4,1,1.0,0.7692,standard_meta_comp,0.6325
+Team Vitality,HAVEN,"killjoy,neon,omen,sova,viper",2,11,1,1.0,0.2308,standard_meta_comp,0.6325
+Team Vitality,LOTUS,"fade,killjoy,neon,omen,viper",1,3,1,0.5,0.8462,map_specific_comp,0.4472
+Team Vitality,LOTUS,"fade,neon,omen,viper,vyse",1,8,2,0.5,0.4615,standard_meta_comp,0.4472
+Team Vitality,PEARL,"astra,chamber,kayo,neon,sova",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+Team Vitality,SPLIT,"fade,neon,omen,raze,viper",1,5,2,1.0,0.6923,standard_meta_comp,0.4472
+Titan Esports Club,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,1.0,0.0,standard_meta_comp,0.4472
+Titan Esports Club,BREEZE,"astra,neon,sova,viper,waylay",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+Titan Esports Club,BREEZE,"harbor,neon,sova,viper,waylay",1,1,1,0.3333,1.0,map_specific_comp,0.4472
+Titan Esports Club,FRACTURE,"brimstone,cypher,neon,skye,waylay",5,7,2,1.0,0.5385,standard_meta_comp,1.0
+Titan Esports Club,HAVEN,"cypher,neon,omen,sova,waylay",1,6,1,1.0,0.6154,standard_meta_comp,0.4472
+Titan Esports Club,LOTUS,"fade,neon,omen,viper,waylay",1,4,2,1.0,0.7692,standard_meta_comp,0.4472
+Titan Esports Club,SPLIT,"neon,omen,skye,viper,waylay",3,10,2,1.0,0.3077,standard_meta_comp,0.7746
+Trace Esports,BIND,"brimstone,neon,skye,viper,waylay",3,14,1,1.0,0.0,standard_meta_comp,0.7746
+Trace Esports,BREEZE,"jett,omen,phoenix,sova,viper",3,1,1,1.0,1.0,team_signature_comp,0.7746
+Trace Esports,FRACTURE,"breach,brimstone,cypher,neon,tejo",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Trace Esports,HAVEN,"killjoy,neon,omen,sova,viper",1,11,1,1.0,0.2308,standard_meta_comp,0.4472
+Trace Esports,LOTUS,"fade,omen,raze,veto,viper",3,3,2,0.6,0.8462,standard_meta_comp,0.7746
+Trace Esports,LOTUS,"fade,killjoy,omen,viper,waylay",1,3,1,0.2,0.8462,standard_meta_comp,0.4472
+Trace Esports,LOTUS,"fade,neon,omen,vyse,waylay",1,2,1,0.2,0.9231,rare_comp,0.4472
+Trace Esports,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+VARREL,BIND,"astra,chamber,jett,skye,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+VARREL,FRACTURE,"breach,brimstone,cypher,neon,raze",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+VARREL,HAVEN,"astra,chamber,neon,phoenix,sova",1,3,2,0.3333,0.8462,standard_meta_comp,0.4472
+VARREL,HAVEN,"cypher,deadlock,omen,skye,waylay",1,3,2,0.3333,0.8462,standard_meta_comp,0.4472
+VARREL,HAVEN,"cypher,jett,neon,omen,sova",1,3,1,0.3333,0.8462,map_specific_comp,0.4472
+VARREL,LOTUS,"fade,neon,omen,raze,viper",2,5,2,1.0,0.6923,standard_meta_comp,0.6325
+VARREL,PEARL,"astra,fade,kayo,killjoy,waylay",1,1,1,1.0,1.0,team_signature_comp,0.4472
+VARREL,SPLIT,"astra,deadlock,jett,skye,tejo",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Wolves Esports,BIND,"brimstone,neon,raze,skye,viper",1,2,1,0.5,0.9231,team_signature_comp,0.4472
+Wolves Esports,BIND,"brimstone,skye,tejo,viper,waylay",1,1,1,0.5,1.0,team_signature_comp,0.4472
+Wolves Esports,BREEZE,"astra,jett,kayo,sova,viper",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+Wolves Esports,FRACTURE,"breach,brimstone,cypher,tejo,waylay",2,2,1,0.6667,0.9231,team_signature_comp,0.6325
+Wolves Esports,FRACTURE,"brimstone,cypher,neon,skye,waylay",1,7,2,0.3333,0.5385,standard_meta_comp,0.4472
+Wolves Esports,LOTUS,"fade,killjoy,omen,viper,waylay",4,3,1,0.8,0.8462,map_specific_comp,0.8944
+Wolves Esports,LOTUS,"fade,neon,omen,raze,vyse",1,7,1,0.2,0.5385,standard_meta_comp,0.4472
+Wolves Esports,PEARL,"astra,killjoy,sova,tejo,waylay",1,3,1,1.0,0.8462,map_specific_comp,0.4472
+Xi Lai Gaming,BIND,"brimstone,neon,skye,viper,waylay",5,14,1,1.0,0.0,standard_meta_comp,1.0
+Xi Lai Gaming,BREEZE,"chamber,neon,sage,sova,viper",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Xi Lai Gaming,FRACTURE,"brimstone,neon,skye,tejo,veto",1,1,1,1.0,1.0,team_signature_comp,0.4472
+Xi Lai Gaming,HAVEN,"killjoy,neon,omen,sova,viper",2,11,1,1.0,0.2308,standard_meta_comp,0.6325
+Xi Lai Gaming,LOTUS,"neon,omen,skye,viper,waylay",5,10,2,1.0,0.3077,standard_meta_comp,1.0
+Xi Lai Gaming,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
+ZETA DIVISION,BIND,"brimstone,neon,skye,viper,waylay",1,14,1,1.0,0.0,standard_meta_comp,0.4472
+ZETA DIVISION,FRACTURE,"breach,brimstone,neon,veto,waylay",2,1,1,1.0,1.0,team_signature_comp,0.6325
+ZETA DIVISION,HAVEN,"cypher,neon,omen,sova,waylay",1,6,1,1.0,0.6154,standard_meta_comp,0.4472
+ZETA DIVISION,LOTUS,"fade,neon,omen,viper,waylay",1,4,2,1.0,0.7692,standard_meta_comp,0.4472
+ZETA DIVISION,PEARL,"astra,cypher,fade,neon,phoenix",1,4,1,1.0,0.7692,standard_meta_comp,0.4472
+ZETA DIVISION,SPLIT,"neon,omen,skye,viper,waylay",2,10,2,1.0,0.3077,standard_meta_comp,0.6325
