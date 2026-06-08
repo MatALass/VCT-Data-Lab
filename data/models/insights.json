@@ -2,7 +2,7 @@
   "data_quality": {
     "total_compositions_observed": 319,
     "teams_profiled": 48,
-    "agents_with_meta_presence_data": 203,
+    "agents_with_meta_presence_data": 232,
     "signature_maps_found": 6,
     "pair_patterns_above_threshold": 293,
     "insights_generated": 7

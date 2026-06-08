@@ -89,6 +89,63 @@ def cached_scrape_vct(region: str, timespan: str, min_rounds: int) -> pd.DataFra
     return scrape_vct_events(events_for_region(region), min_rounds=min_rounds, timespan=timespan)
 
 
+
+def _duel_context(role: str, region: str, rules: DuelRules, players: pd.DataFrame) -> tuple:
+    player_keys = tuple(sorted(str(key) for key in players.get("player_key", pd.Series(dtype=str)).tolist()))
+    return (
+        role,
+        region,
+        float(rules.role_confidence_min),
+        int(rules.min_rounds),
+        float(rules.min_vlr_rating),
+        bool(rules.avoid_same_team),
+        int(rules.max_losses),
+        bool(rules.prefer_close_records),
+        player_keys,
+    )
+
+
+def _get_player_by_key(players: pd.DataFrame, player_key: str) -> pd.Series | None:
+    matches = players[players["player_key"].astype(str) == str(player_key)]
+    if matches.empty:
+        return None
+    return matches.iloc[0]
+
+
+def get_or_create_duel(
+    players: pd.DataFrame,
+    ranking_state: dict,
+    rules: DuelRules,
+    role: str,
+    region: str,
+) -> tuple[pd.Series, pd.Series] | None:
+    """Keep the displayed duel stable across Streamlit reruns.
+
+    Without this, clicking a button can trigger a rerun, randomly pick a new duel,
+    and then apply the click to the new players instead of the players the user saw.
+    """
+    context = _duel_context(role, region, rules, players)
+    if st.session_state.get("current_tournament_context") != context:
+        st.session_state.current_tournament_duel = None
+        st.session_state.current_tournament_context = context
+
+    stored = st.session_state.get("current_tournament_duel")
+    if stored:
+        p1 = _get_player_by_key(players, stored[0])
+        p2 = _get_player_by_key(players, stored[1])
+        if p1 is not None and p2 is not None:
+            return p1, p2
+
+    duel = pick_same_role_duel(players, ranking_state, rules)
+    if duel is None:
+        st.session_state.current_tournament_duel = None
+        return None
+
+    p1, p2 = duel
+    st.session_state.current_tournament_duel = (str(p1["player_key"]), str(p2["player_key"]))
+    return p1, p2
+
+
 if "ranking_state" not in st.session_state:
     st.session_state.ranking_state = normalize_ranking_state(load_rankings())
 if "history" not in st.session_state:
@@ -127,6 +184,7 @@ with st.sidebar:
         st.session_state.ranking_state = {}
         save_rankings(st.session_state.ranking_state)
         st.session_state.history = []
+        st.session_state.current_tournament_duel = None
         st.success("Tournoi réinitialisé.")
 
 players = st.session_state.get("players", normalize_players(load_players()))
@@ -171,7 +229,7 @@ left, right = st.columns([1.15, 1])
 
 with left:
     st.subheader(f"Tournoi subjectif : meilleur {role_filter.lower()} ?")
-    duel = pick_same_role_duel(role_players, st.session_state.ranking_state, rules)
+    duel = get_or_create_duel(role_players, st.session_state.ranking_state, rules, role_filter, selected_region)
     if duel is None:
         st.warning("Pas assez de joueurs éligibles. Baisse le minimum de rounds, la confiance rôle ou le rating minimum.")
     else:
@@ -180,16 +238,22 @@ with left:
         with c1:
             player_card(p1)
             if st.button(f"Choisir {p1['player']}", width="stretch", key="choose_p1"):
-                st.session_state.ranking_state = record_duel_result(st.session_state.ranking_state, p1["player_key"], p2["player_key"])
-                st.session_state.history.append((p1["player_key"], p2["player_key"], role_filter, selected_region))
+                winner_key = str(p1["player_key"])
+                loser_key = str(p2["player_key"])
+                st.session_state.ranking_state = record_duel_result(st.session_state.ranking_state, winner_key, loser_key)
+                st.session_state.history.append((winner_key, loser_key, role_filter, selected_region))
                 save_rankings(st.session_state.ranking_state)
+                st.session_state.current_tournament_duel = None
                 st.rerun()
         with c2:
             player_card(p2)
             if st.button(f"Choisir {p2['player']}", width="stretch", key="choose_p2"):
-                st.session_state.ranking_state = record_duel_result(st.session_state.ranking_state, p2["player_key"], p1["player_key"])
-                st.session_state.history.append((p2["player_key"], p1["player_key"], role_filter, selected_region))
+                winner_key = str(p2["player_key"])
+                loser_key = str(p1["player_key"])
+                st.session_state.ranking_state = record_duel_result(st.session_state.ranking_state, winner_key, loser_key)
+                st.session_state.history.append((winner_key, loser_key, role_filter, selected_region))
                 save_rankings(st.session_state.ranking_state)
+                st.session_state.current_tournament_duel = None
                 st.rerun()
 
 with right:
