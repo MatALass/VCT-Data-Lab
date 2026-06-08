@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import rawDataset from "../../data/vct-emea-2026.json";
+import rawDataset from "../../../../data/playoff_odds/vct-emea-2026.json";
 import { BubbleWatch } from "../components/BubbleWatch";
 import { GroupPanel } from "../components/GroupPanel";
 import { InsightsPanel } from "../components/InsightsPanel";
