@@ -1,0 +1,13 @@
+# Keep exploratory notebooks in the repository, but exclude them from GitHub language statistics.
+notebooks/** linguist-documentation
+*.ipynb linguist-documentation
+
+# Exclude preserved datasets and generated outputs from language statistics.
+data/** linguist-vendored
+
+# Exclude frontend build artifacts if any are accidentally committed.
+frontend/dist/** linguist-generated
+apps/playoff_odds_react/dist/** linguist-generated
+
+# Exclude local Streamlit state/config from language statistics.
+.streamlit/** linguist-vendored
